@@ -1,1213 +1,519 @@
 #EXTM3U
-#EXTINF:-1,IND RISHTAY ASIA  IPTVultra.com [768x432]
-http://130.185.144.63:8000/live/indian/indian/1172.ts
-#EXTINF:-1, SPORTING HD  IPTVultra.com [1920x1088]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1778.ts
-#EXTINF:-1, SPORT TV 3 HD  IPTVultra.com [720x576]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1494.ts
-#EXTINF:-1, BENFICA TV (BACKUP)  IPTVultra.com [720x576]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/6647.ts
-#EXTINF:-1, SPORT TV 2 HD  IPTVultra.com [1440x1088]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1493.ts
-#EXTINF:-1, SPORT TV 5 HD  IPTVultra.com [1440x1088]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1496.ts
-#EXTINF:-1, SPORT TV 3 FHD  IPTVultra.com [1440x1088]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1839.ts
-#EXTINF:-1, SPORT TV 4 FHD  IPTVultra.com [1920x1088]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1841.ts
-#EXTINF:-1, SPORT TV 5 FHD  IPTVultra.com [1440x1088]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1842.ts
-#EXTINF:-1, SPORT TV 2 FHD  IPTVultra.com [960x720]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1840.ts
-#EXTINF:-1, BENFICA TV (BACKUP)  IPTVultra.com [720x576]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1710.ts
-#EXTINF:-1, SPORT TV 1 HD  IPTVultra.com [1280x720]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1492.ts
-#EXTINF:-1, SPORT TV 4 HD  IPTVultra.com [720x576]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1495.ts
-#EXTINF:-1, AXN Black HD  IPTVultra.com [1920x1080]
-http://158.69.237.83:25461/live/13/13/3460.ts
-#EXTINF:-1, AXN HD  IPTVultra.com [1920x1080]
-http://158.69.237.83:25461/live/13/13/3462.ts
-#EXTINF:-1, Cine Mundo  IPTVultra.com [1920x1080]
-http://158.69.237.83:25461/live/13/13/3455.ts
-#EXTINF:-1, CACA E PESCA  IPTVultra.com [1920x1080]
-http://158.69.237.83:25461/live/13/13/3446.ts
-#EXTINF:-1, AXN White HD  IPTVultra.com [1920x1080]
-http://158.69.237.83:25461/live/13/13/3461.ts
-#EXTINF:-1, Fox Crime  IPTVultra.com [1920x1080]
-http://158.69.237.83:25461/live/13/13/3457.ts
-#EXTINF:-1, Fox HD  IPTVultra.com [1920x1080]
-http://158.69.237.83:25461/live/13/13/3459.ts
-#EXTINF:-1, Fox Movies  IPTVultra.com [1920x1080]
-http://158.69.237.83:25461/live/13/13/3456.ts
-#EXTINF:-1, Kombat Sports  IPTVultra.com [1920x1080]
-http://158.69.237.83:25461/live/13/13/3453.ts
-#EXTINF:-1, Sport TV 1 (FULL HD)  IPTVultra.com [1920x1080]
-http://158.69.237.83:25461/live/13/13/3466.ts
-#EXTINF:-1, Sport TV 1 (FULL HD)  IPTVultra.com [1920x1080]
-http://158.69.237.83:25461/live/13/13/3472.ts
-#EXTINF:-1, Sport TV 2 (FULL HD)  IPTVultra.com [1920x1080]
-http://158.69.237.83:25461/live/13/13/3465.ts
-#EXTINF:-1, Sport TV 3 (FULL HD)  IPTVultra.com [1920x1080]
-http://158.69.237.83:25461/live/13/13/3464.ts
-#EXTINF:-1, Sport TV 3 (FULL HD)  IPTVultra.com [1920x1080]
-http://158.69.237.83:25461/live/13/13/3470.ts
-#EXTINF:-1, Sport TV 2 (FULL HD)  IPTVultra.com [1920x1080]
-http://158.69.237.83:25461/live/13/13/3471.ts
-#EXTINF:-1, Sport TV 4  IPTVultra.com [1920x1080]
-http://158.69.237.83:25461/live/13/13/3468.ts
-#EXTINF:-1, Sport TV 4 (FULL HD)  IPTVultra.com [720x576]
-http://158.69.237.83:25461/live/13/13/3463.ts
-#EXTINF:-1, Sport TV 5  IPTVultra.com [1920x1080]
-http://158.69.237.83:25461/live/13/13/3467.ts
-#EXTINF:-1, TV SERIES HD  IPTVultra.com [1920x1080]
-http://158.69.237.83:25461/live/13/13/3454.ts
-#EXTINF:-1, Sport TV3  IPTVultra.com [1920x1080]
-http://158.69.237.83:25461/live/13/13/3469.ts
-#EXTINF:-1, NBA TV  IPTVultra.com [1920x1080]
-http://158.69.237.83:25461/live/13/13/3687.ts
-#EXTINF:-1, SYFY HD  IPTVultra.com [1920x1080]
-http://158.69.237.83:25461/live/13/13/3686.ts
-#EXTINF:-1, SYFY SD  IPTVultra.com [1920x1080]
-http://158.69.237.83:25461/live/13/13/3685.ts
-#EXTINF:-1, TV Cine 1  IPTVultra.com [1920x1080]
-http://158.69.237.83:25461/live/13/13/3684.ts
-#EXTINF:-1, TV Cine 2  IPTVultra.com [1920x1080]
-http://158.69.237.83:25461/live/13/13/3683.ts
-#EXTINF:-1, RTP 1  IPTVultra.com [720x576]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1741.ts
-#EXTINF:-1, RTP 2  IPTVultra.com [704x400]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1742.ts
-#EXTINF:-1, TVI  IPTVultra.com [704x576]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1733.ts
-#EXTINF:-1, SIC NOTICIAS  IPTVultra.com [640x368]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1731.ts
-#EXTINF:-1, SIC NOTICIAS  IPTVultra.com [1920x1088]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/4397.ts
-#EXTINF:-1, SIC MULHER  IPTVultra.com [640x368]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1732.ts
-#EXTINF:-1, CM TV  IPTVultra.com [720x576]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1767.ts
-#EXTINF:-1, RTP 3  IPTVultra.com [640x368]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1743.ts
-#EXTINF:-1, GLOBO  IPTVultra.com [720x576]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1738.ts
-#EXTINF:-1, RTP MEMORIA  IPTVultra.com [720x576]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1744.ts
-#EXTINF:-1, TVI REALITY  IPTVultra.com [640x368]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1735.ts
-#EXTINF:-1, TVI FICÃ‡AO  IPTVultra.com [720x576]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/5442.ts
-#EXTINF:-1, A BOLA TV  IPTVultra.com [720x576]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/5409.ts
-#EXTINF:-1, PORTO CANAL  IPTVultra.com [720x576]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1777.ts
-#EXTINF:-1, DISNEY CHANNEL  IPTVultra.com [720x576]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1773.ts
-#EXTINF:-1, NICKLEODEON  IPTVultra.com [720x576]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1754.ts
-#EXTINF:-1, CANAL PANDA  IPTVultra.com [720x576]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1757.ts
-#EXTINF:-1, JIM JAM  IPTVultra.com [640x368]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/3813.ts
-#EXTINF:-1, BABY TV  IPTVultra.com [720x576]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1756.ts
-#EXTINF:-1, CARTOON NETWORK  IPTVultra.com [720x576]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1755.ts
-#EXTINF:-1, TV CINE 1 HD  IPTVultra.com [720x576]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1768.ts
-#EXTINF:-1, TV CINE 2 HD  IPTVultra.com [1440x1088]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1769.ts
-#EXTINF:-1, TV CINE 3 HD  IPTVultra.com [1440x1088]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1770.ts
-#EXTINF:-1, TV CINE 4 HD  IPTVultra.com [1440x1088]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1771.ts
-#EXTINF:-1, CINE MUNDO  IPTVultra.com [640x368]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/5413.ts
-#EXTINF:-1, HOLLYWOOD HD  IPTVultra.com [1280x720]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1759.ts
-#EXTINF:-1, E! ENTERTAINMENT  IPTVultra.com [720x576]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/5418.ts
-#EXTINF:-1, AXN BLACK HD  IPTVultra.com [1440x1088]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1749.ts
-#EXTINF:-1, AXN HD  IPTVultra.com [1280x720]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1747.ts
-#EXTINF:-1, MOV HD  IPTVultra.com [640x368]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1750.ts
-#EXTINF:-1, FOX LIFE HD  IPTVultra.com [1920x1088]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1746.ts
-#EXTINF:-1, FOX HD  IPTVultra.com [1920x1088]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1752.ts
-#EXTINF:-1, AXN WHITE HD  IPTVultra.com [1920x1088]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1748.ts
-#EXTINF:-1, TLC  IPTVultra.com [720x576]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1761.ts
-#EXTINF:-1, SYFY HD  IPTVultra.com [1920x1088]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/5414.ts
-#EXTINF:-1, CBS REALITY  IPTVultra.com [720x576]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1736.ts
-#EXTINF:-1, 24 KITCHEN  IPTVultra.com [720x576]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1753.ts
-#EXTINF:-1, GLOBO PREMIUM  IPTVultra.com [720x576]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1739.ts
-#EXTINF:-1, NATIONAL GEOGRAPHIC  IPTVultra.com [1920x1088]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/5093.ts
-#EXTINF:-1, NAT GEO WILD  IPTVultra.com [1920x1088]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/5420.ts
-#EXTINF:-1, ODISSEIA  IPTVultra.com [720x576]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1758.ts
-#EXTINF:-1, CANAL HISTORIA  IPTVultra.com [720x576]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1760.ts
-#EXTINF:-1, A and E  IPTVultra.com [720x576]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1762.ts
-#EXTINF:-1, MOTORSPORT  IPTVultra.com [720x576]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/5411.ts
-#EXTINF:-1, PFC  IPTVultra.com [720x576]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1740.ts
-#EXTINF:-1, AMC  IPTVultra.com [1280x720]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/5417.ts
-#EXTINF:-1, RECORD  IPTVultra.com [720x576]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/5407.ts
-#EXTINF:-1, RTP ACORES  IPTVultra.com [720x576]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1765.ts
-#EXTINF:-1, RTP AFRICA  IPTVultra.com [720x576]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1745.ts
-#EXTINF:-1, RTP MADERIA  IPTVultra.com [720x576]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1766.ts
-#EXTINF:-1, REAL MADRID  IPTVultra.com [720x592]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1779.ts
-#EXTINF:-1, TV SERIES HD  IPTVultra.com [640x368]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1772.ts
-#EXTINF:-1, DISCOVERY  IPTVultra.com [720x416]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1763.ts
-#EXTINF:-1, MTV PORTUGAL  IPTVultra.com [720x576]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/5421.ts
-#EXTINF:-1, DISNEY JUNIOR  IPTVultra.com [720x576]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1774.ts
-#EXTINF:-1, FOX CRIME HD  IPTVultra.com [1920x1088]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1751.ts
-#EXTINF:-1, FOX MOVIES  IPTVultra.com [1440x1088]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/5412.ts
-#EXTINF:-1, PANDA BIGGS  IPTVultra.com [720x576]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/5422.ts
-#EXTINF:-1, EUROSPORT 1 HD  IPTVultra.com [1920x1088]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1780.ts
-#EXTINF:-1, DISCOVERY SHOWCASE  IPTVultra.com [1280x720]
-http://195.181.173.242:8080/live/hfc_sale/S08AtaX5nn/1764.ts
-#EXTINF:-1, SIC MULHER  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/4332.ts
-#EXTINF:-1, SIC NOTICIAS  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/3937.ts
-#EXTINF:-1, SIC NOTICIAS  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/3935.ts
-#EXTINF:-1, SIC Kids  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/3936.ts
-#EXTINF:-1, RTP 2  IPTVultra.com [704x400]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/1748.ts
-#EXTINF:-1, TVC 3  IPTVultra.com [1920x1088]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/1736.ts
-#EXTINF:-1, TVI REALITY  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/4330.ts
-#EXTINF:-1, TVI  IPTVultra.com [704x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/3932.ts
-#EXTINF:-1, SIC CARAS  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/4333.ts
-#EXTINF:-1, RTP 1  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/1747.ts
-#EXTINF:-1,PT | CM TV  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8759.ts
-#EXTINF:-1, TVI 24  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/3933.ts
-#EXTINF:-1, TVC 1  IPTVultra.com [1440x1088]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/1734.ts
-#EXTINF:-1,PT | Canal Q  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8831.ts
-#EXTINF:-1, SIC RADICAL  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/3934.ts
-#EXTINF:-1,PT | Disney Channel  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8765.ts
-#EXTINF:-1, TVC 2  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/1275.ts
-#EXTINF:-1,PT | Disney JR  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8764.ts
-#EXTINF:-1, RTP Madeira  IPTVultra.com [640x368]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/1753.ts
-#EXTINF:-1,PT | FOX Crime HD  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8806.ts
-#EXTINF:-1, Benfica Tv 1  IPTVultra.com [1920x1088]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/1286.ts
-#EXTINF:-1,PT | Fox Movies  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8812.ts
-#EXTINF:-1,LQ ani  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/11737.ts
-#EXTINF:-1,PT | Fuel TV  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8826.ts
-#EXTINF:-1, RTP Memoria  IPTVultra.com [640x368]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/1754.ts
-#EXTINF:-1,PT | Eurosport 1  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8785.ts
-#EXTINF:-1, SPORT TV 1 HD  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/1813.ts
-#EXTINF:-1,PT | Fine Living  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8827.ts
-#EXTINF:-1, RTP Acores  IPTVultra.com [640x368]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/1749.ts
-#EXTINF:-1,PT | Eurosport 2  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8784.ts
-#EXTINF:-1, RTP Africa  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/1750.ts
-#EXTINF:-1,PT | FOX Comedy HD  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8804.ts
-#EXTINF:-1, EUROSPORT 1 HD  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/1283.ts
-#EXTINF:-1,PT | Globo Premium  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8755.ts
-#EXTINF:-1, Sport TV 1 HD  IPTVultra.com [1920x1088]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/1969.ts
-#EXTINF:-1,PT | Cine Mundo  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8810.ts
-#EXTINF:-1,PT | Ngc HD  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8776.ts
-#EXTINF:-1, SPORT TV 5 HD  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/1814.ts
-#EXTINF:-1,PT | Ngc Wild  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8775.ts
-#EXTINF:-1,PT | RTP 1 HD  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8843.ts
-#EXTINF:-1, Motors TV  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/3691.ts
-#EXTINF:-1,PT | FOX HD  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8811.ts
-#EXTINF:-1,PT | Eurosport 1  IPTVultra.com [1920x1088]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/3694.ts
-#EXTINF:-1,PT | Historia HD  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8771.ts
-#EXTINF:-1, E! Entertainment  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/1276.ts
-#EXTINF:-1,PT | MOV HD  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8823.ts
-#EXTINF:-1, SYFY HD  IPTVultra.com [640x368]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/1279.ts
-#EXTINF:-1,PT | Sic Mulher  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8835.ts
-#EXTINF:-1,PT | Sport TV  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8796.ts
-#EXTINF:-1, Fox Crime  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/4331.ts
-#EXTINF:-1,PT | Benfica TV 1 HD  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8782.ts
-#EXTINF:-1, FOX MOVE  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/888.ts
-#EXTINF:-1,PT | SIC K  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8832.ts
-#EXTINF:-1, TV Globo Premium  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/4110.ts
-#EXTINF:-1,PT | PFC  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8781.ts
-#EXTINF:-1, AXN Black HD  IPTVultra.com [800x400]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/1131.ts
-#EXTINF:-1,PT | Sport TV 4  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8788.ts
-#EXTINF:-1, Benfica Tv 2  IPTVultra.com [800x400]
-http://link.softiptv.com:2500/live/VFKHgVQL5c/QScXksOd2U/1285.ts
-#EXTINF:-1,PT | Sport TV 1  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8794.ts
-#EXTINF:-1, VH1  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/1744.ts
-#EXTINF:-1,PT | SIC Noticias  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8757.ts
-#EXTINF:-1, Sporting TV  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/1280.ts
-#EXTINF:-1,PT | Sport TV 2 HD  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8793.ts
-#EXTINF:-1, GLOBO TV  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/4098.ts
-#EXTINF:-1,PT | Sport TV 1 HD  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8795.ts
-#EXTINF:-1, AXN HD  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/1129.ts
-#EXTINF:-1,PT | Sport TV 3 HD  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8791.ts
-#EXTINF:-1, AXN WHITE HD  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/1130.ts
-#EXTINF:-1,PT | Sport TV 2 HD  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8792.ts
-#EXTINF:-1, PANDA BIGGS  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/4335.ts
-#EXTINF:-1,PT | Sport TV 5  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8786.ts
-#EXTINF:-1, CANAL Q  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/6388.ts
-#EXTINF:-1,PT | TV Record  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8754.ts
-#EXTINF:-1, FOX TV  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/6393.ts
-#EXTINF:-1,PT | TV Cine 1  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8820.ts
-#EXTINF:-1, Nat Geo Wild  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/4334.ts
-#EXTINF:-1,PT | TV Cine 4  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8817.ts
-#EXTINF:-1, Discovery HD Showcase  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/6389.ts
-#EXTINF:-1,PT | TV Series  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8802.ts
-#EXTINF:-1, FOX LIFE HD  IPTVultra.com [1920x1088]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/6392.ts
-#EXTINF:-1,PT | TVI  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8836.ts
-#EXTINF:-1, 24 KITCHEN  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/6383.ts
-#EXTINF:-1,PT | Sundance TV HD  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8822.ts
-#EXTINF:-1, DISNEY JUNIOR  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/6390.ts
-#EXTINF:-1,PT | TLC  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8768.ts
-#EXTINF:-1, Fox Comedy  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/6391.ts
-#EXTINF:-1,PT | SIC HD  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8838.ts
-#EXTINF:-1, CM TV  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/4329.ts
-#EXTINF:-1, FUEL TV  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/6397.ts
-#EXTINF:-1, AXN Black HD  IPTVultra.com [1920x1088]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/6384.ts
-#EXTINF:-1, PFC  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/6395.ts
-#EXTINF:-1,PT | Syfy HD  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8798.ts
-#EXTINF:-1, CBS REALITY  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/6398.ts
-#EXTINF:-1, Fox L  IPTVultra.com [1920x1088]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/3693.ts
-#EXTINF:-1, A & E  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/6386.ts
-#EXTINF:-1, Odisseia  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/4336.ts
-#EXTINF:-1, MOTORVISION TV  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/6385.ts
-#EXTINF:-1, HOLLYWOOD HD  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/6394.ts
-#EXTINF:-1, CAÃ‡A & PESCA  IPTVultra.com [1088x720]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/6387.ts
-#EXTINF:-1,PT | Sport TV 3 HD  IPTVultra.com [1920x1080]
-http://5.189.164.153:8000/live/Latif/latif/8790.ts
-#EXTINF:-1, DISCOVERY CHANNEL  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/4337.ts
-#EXTINF:-1, CARTOON NETWORK  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/6399.ts
-#EXTINF:-1, PORTO CANAL  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/6396.ts
-#EXTINF:-1, TOUROS TV  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/6401.ts
-#EXTINF:-1, TLC  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/6402.ts
-#EXTINF:-1, TV CINE 2 HD  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/6404.ts
-#EXTINF:-1, TV CINE 1 HD  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/6403.ts
-#EXTINF:-1, TV CINE 3 HD  IPTVultra.com [1280x1088]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/6405.ts
-#EXTINF:-1, Afro Music  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/6407.ts
-#EXTINF:-1, TV CINE 4 HD  IPTVultra.com [1920x1088]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/6406.ts
-#EXTINF:-1, TV RECORD  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/6400.ts
-#EXTINF:-1, MCM TOP  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/6408.ts
-#EXTINF:-1, MTV Dance  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/6410.ts
-#EXTINF:-1, BTV 1 HD  IPTVultra.com [1920x1088]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/6409.ts
-#EXTINF:-1, Chelsea TV  IPTVultra.com [1280x720]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/3698.ts
-#EXTINF:-1, Canal de Historia  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/3700.ts
-#EXTINF:-1, RTP 3  IPTVultra.com [640x368]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/6429.ts
-#EXTINF:-1, NICKELODEON  IPTVultra.com [720x416]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/6071.ts
-#EXTINF:-1, TVI FicÃ§Ã£o  IPTVultra.com [704x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/6430.ts
-#EXTINF:-1, PANDA HD  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/6068.ts
-#EXTINF:-1, CARTON NETWORK  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/6070.ts
-#EXTINF:-1, MTV PORTUGAL  IPTVultra.com [640x368]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/6069.ts
-#EXTINF:-1, Nat Geographic  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/6411.ts
-#EXTINF:-1, CINE MUNDO HD  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/6072.ts
-#EXTINF:-1, AMC  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/3704.ts
-#EXTINF:-1, A Bola TV  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/3705.ts
-#EXTINF:-1, FOX MOVIES  IPTVultra.com [640x368]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/6520.ts
-#EXTINF:-1,PT | Disney Channel  IPTVultra.com [720x576]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/3696.ts
-#EXTINF:-1, JimJam EMEA  IPTVultra.com [640x368]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/3692.ts
-#EXTINF:-1, TVC SERIES  IPTVultra.com [800x1088]
-http://link.softiptv.com:2500/live/k2QJe1npLX/bgIdKGap1l/6517.ts
-#EXTINF:-1,GPTV (Noordwest Friesland) NL  IPTVultra.com [1920x1080]
-http://portal.geniptv.com:8080/live/nsNx99T9z7/Edy2bUIkuY/4490.ts
-#EXTINF:-1, 24 KITCHEN  IPTVultra.com [1920x1088]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6682.ts
-#EXTINF:-1, 24 KITCHEN HD  IPTVultra.com [1920x1088]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6771.ts
-#EXTINF:-1, A BOLA TV  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/exch/exch/6737.ts
-#EXTINF:-1, Discovery Kids  IPTVultra.com [1920x1080]
-http://173.212.194.126:8000/live/088250763714488/1593574628/6754.ts
-#EXTINF:-1, CARTOON NETWORK  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/58965889362952/1593574628/6756.ts
-#EXTINF:-1, CMTV  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6764.ts
-#EXTINF:-1, AXN HD  IPTVultra.com [1920x1088]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6706.ts
-#EXTINF:-1, AXN BLACK HD  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6707.ts
-#EXTINF:-1, CARTOON NETWORK PORTUGAL  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/exch/exch/6751.ts
-#EXTINF:-1, Discovery Showcase  IPTVultra.com [1920x1088]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6691.ts
-#EXTINF:-1, AXN WHITE HD  IPTVultra.com [1920x1088]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6705.ts
-#EXTINF:-1, CINEMUNDO  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6711.ts
-#EXTINF:-1, CANAL PANDA  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/exch/exch/6760.ts
-#EXTINF:-1, BTV 1 FULL HD  IPTVultra.com [1440x1088]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6735.ts
-#EXTINF:-1, BTV HD  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/exch/exch/6736.ts
-#EXTINF:-1, A&E  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6690.ts
-#EXTINF:-1, FOOD NETWORK  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/exch/exch/6770.ts
-#EXTINF:-1, AFRO TV  IPTVultra.com [1920x1080]
-http://173.212.194.126:8000/live/088250763714488/1593574628/6667.ts
-#EXTINF:-1, ARTV PARLAMENTO  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6677.ts
-#EXTINF:-1, CANCAO NOVA  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/exch/exch/6681.ts
-#EXTINF:-1, CBS REALITY  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6689.ts
-#EXTINF:-1, CA  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/exch/exch/6724.ts
-#EXTINF:-1, E! ENTERTAINMENT  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6695.ts
-#EXTINF:-1, AMC  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/exch/exch/6712.ts
-#EXTINF:-1, BBC ENTRAITEMENT  IPTVultra.com [1920x1080]
-http://173.212.194.126:8000/live/088250763714488/1593574628/6688.ts
-#EXTINF:-1, CMUSIC  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6666.ts
-#EXTINF:-1, FOX LIVE HD  IPTVultra.com [1920x1080]
-http://173.212.194.126:8000/live/088250763714488/1593574628/6699.ts
-#EXTINF:-1, FOX COMEDY HD  IPTVultra.com [1920x1080]
-http://173.212.194.126:8000/live/088250763714488/1593574628/6702.ts
-#EXTINF:-1, BABY FIRST  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/exch/exch/6762.ts
-#EXTINF:-1,PT | Disney Channel  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/58965889362952/1593574628/6759.ts
-#EXTINF:-1, EUROSPORT 2  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/exch/exch/6730.ts
-#EXTINF:-1, BABY TV  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/exch/exch/6761.ts
-#EXTINF:-1, Afro Music  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/616529134468152/1593574628/6672.ts
-#EXTINF:-1, DISCOVERY  IPTVultra.com [1920x1080]
-http://173.212.194.126:8000/live/088250763714488/1593574628/6692.ts
-#EXTINF:-1, DISNEY JUNIOR  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6758.ts
-#EXTINF:-1, HOLLYWOOD HD  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6709.ts
-#EXTINF:-1, MCM TOP  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/58965889362952/1593574628/6671.ts
-#EXTINF:-1, M. MotoGp  IPTVultra.com [1920x1088]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6733.ts
-#EXTINF:-1, HOLLYWOOD HD  IPTVultra.com [1440x1088]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6708.ts
-#EXTINF:-1, FOX CRIME HD  IPTVultra.com [1920x1080]
-http://173.212.194.126:8000/live/088250763714488/1593574628/6701.ts
-#EXTINF:-1, FOX MOVIES  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/exch/exch/6710.ts
-#EXTINF:-1, KOMBAT SPORT  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/58965889362952/1593574628/6723.ts
-#EXTINF:-1, EUROSPORT NEWS  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/58965889362952/1593574628/6722.ts
-#EXTINF:-1, CACA E PESCA HD  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6725.ts
-#EXTINF:-1, FOX LIFE HD  IPTVultra.com [1440x1088]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6704.ts
-#EXTINF:-1, FOX CRIME HD  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/exch/exch/6700.ts
-#EXTINF:-1, MCM POP  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6673.ts
-#EXTINF:-1, CANAL HISTORIA  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6686.ts
-#EXTINF:-1, JIM JAM  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6753.ts
-#EXTINF:-1, EUROSPORT 1 HD  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/exch/exch/6731.ts
-#EXTINF:-1, FUEL TV  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/616529134468152/1593574628/6683.ts
-#EXTINF:-1, FASHION TV  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6687.ts
-#EXTINF:-1, CANAL Q  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/exch/exch/6769.ts
-#EXTINF:-1, FOX HD  IPTVultra.com [1440x1088]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6703.ts
-#EXTINF:-1, MCS LIFESTYLE  IPTVultra.com [1920x1080]
-http://173.212.194.126:8000/live/088250763714488/1593574628/6720.ts
-#EXTINF:-1, NBA HD  IPTVultra.com [1920x1080]
-http://173.212.194.126:8000/live/088250763714488/1593574628/6678.ts
-#EXTINF:-1, MEZZO HD  IPTVultra.com [1920x1080]
-http://173.212.194.126:8000/live/088250763714488/1593574628/6684.ts
-#EXTINF:-1, SBT br  IPTVultra.com [1920x1080]
-http://173.212.194.126:8000/live/088250763714488/1593574628/6766.ts
-#EXTINF:-1, SPORT TV 5 HD  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6740.ts
-#EXTINF:-1, RTP Internacional  IPTVultra.com [640x368]
-http://173.212.194.126:8000/live/exch/exch/419.ts
-#EXTINF:-1, MOV HD  IPTVultra.com [1920x1080]
-http://173.212.194.126:8000/live/088250763714488/1593574628/6697.ts
-#EXTINF:-1, ODISSEIA  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6680.ts
-#EXTINF:-1, MCS EXTREME  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/58965889362952/1593574628/6721.ts
-#EXTINF:-1, PANDA BIGGS  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/58965889362952/1593574628/6755.ts
-#EXTINF:-1, Nickelodeon  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/616529134468152/1593574628/6757.ts
-#EXTINF:-1, SIC MULHER  IPTVultra.com [1920x1080]
-http://173.212.194.126:8000/live/088250763714488/1593574628/6772.ts
-#EXTINF:-1, RTP 2 HD  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/58965889362952/1593574628/6789.ts
-#EXTINF:-1, SIC k  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/616529134468152/1593574628/6752.ts
-#EXTINF:-1, RTP AFRICA  IPTVultra.com [1920x1080]
-http://173.212.194.126:8000/live/088250763714488/1593574628/6786.ts
-#EXTINF:-1, PFC  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6727.ts
-#EXTINF:-1, MOTORVISION TV  IPTVultra.com [1920x1080]
-http://173.212.194.126:8000/live/088250763714488/1593574628/6728.ts
-#EXTINF:-1, SIC NOTICIAS  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/exch/exch/6763.ts
-#EXTINF:-1, NATIONAL GEOGRAPHIC  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/58965889362952/1593574628/6694.ts
-#EXTINF:-1, SPORT TV 4 LOW  IPTVultra.com [1920x1080]
-http://173.212.194.126:8000/live/78369794833844/1593574628/6746.ts
-#EXTINF:-1, SPORTING TV HD  IPTVultra.com [1280x1088]
-http://173.212.194.126:8000/live/616529134468152/1593574628/6739.ts
-#EXTINF:-1,PT | RTP 1 HD  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/exch/exch/6791.ts
-#EXTINF:-1, SPORT TV 3 LOW  IPTVultra.com [1920x1080]
-http://173.212.194.126:8000/live/088250763714488/1593574628/6747.ts
-#EXTINF:-1, RTP Int.  IPTVultra.com [480x576]
-http://173.212.194.126:8000/live/58965889362952/1593574628/6785.ts
-#EXTINF:-1, SPORTTV 1 HD  IPTVultra.com [1920x1088]
-http://173.212.194.126:8000/live/exch/exch/6744.ts
-#EXTINF:-1, SIC RADICAL  IPTVultra.com [1920x1080]
-http://173.212.194.126:8000/live/088250763714488/1593574628/6773.ts
-#EXTINF:-1, PORTO CANAL  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/exch/exch/6734.ts
-#EXTINF:-1, RTP ACORES  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6787.ts
-#EXTINF:-1, SPORT TV 5 LOW  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/exch/exch/6745.ts
-#EXTINF:-1, Real Madrid TV  IPTVultra.com [720x416]
-http://173.212.194.126:8000/live/exch/exch/6732.ts
-#EXTINF:-1, SYFY HD  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6698.ts
-#EXTINF:-1, SIC NOTICIAS  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6783.ts
-#EXTINF:-1, NAT GEO WILD  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/exch/exch/6693.ts
-#EXTINF:-1, RTP MEMORIA  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6775.ts
-#EXTINF:-1, SIC CARAS  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/exch/exch/6774.ts
-#EXTINF:-1, SPORT TV 1 LOW  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6749.ts
-#EXTINF:-1, SPORTING TV HD  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6738.ts
-#EXTINF:-1, RTP2  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6790.ts
-#EXTINF:-1, RTP3  IPTVultra.com [1920x1080]
-http://173.212.194.126:8000/live/088250763714488/1593574628/6788.ts
-#EXTINF:-1, Motors TV  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6729.ts
-#EXTINF:-1, RTP MADEIRA  IPTVultra.com [1920x1080]
-http://173.212.194.126:8000/live/088250763714488/1593574628/6784.ts
-#EXTINF:-1, SPORT TV 3 HD  IPTVultra.com [1440x1088]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6742.ts
-#EXTINF:-1, SPORT TV 2 HD  IPTVultra.com [1440x1088]
-http://173.212.194.126:8000/live/58965889362952/1593574628/6743.ts
-#EXTINF:-1, SPORT TV 3 HD  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6750.ts
-#EXTINF:-1, SPORT TV4 HD  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6741.ts
-#EXTINF:-1, SPORT TV 2 LOW  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6748.ts
-#EXTINF:-1, TLC  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6776.ts
-#EXTINF:-1, RTP 1  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/exch/exch/6792.ts
-#EXTINF:-1, MTV PORTUGAL  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/58965889362952/1593574628/6670.ts
-#EXTINF:-1,PT | SIC HD  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/exch/exch/6782.ts
-#EXTINF:-1, Touros TV  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6726.ts
-#EXTINF:-1, TPA  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/58965889362952/1593574628/6679.ts
-#EXTINF:-1, Trace Urban TV  IPTVultra.com [1920x1080]
-http://173.212.194.126:8000/live/088250763714488/1593574628/6669.ts
-#EXTINF:-1, TRAVEL CHANNEL  IPTVultra.com [1920x1088]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6685.ts
-#EXTINF:-1, TV CINE 1 HD  IPTVultra.com [1920x1080]
-http://173.212.194.126:8000/live/088250763714488/1593574628/6719.ts
-#EXTINF:-1, TV CINE 1 HD  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/616529134468152/1593574628/6715.ts
-#EXTINF:-1, TV CINE 3 HD  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/616529134468152/1593574628/6713.ts
-#EXTINF:-1, TV CINE 2 HD  IPTVultra.com [1920x1080]
-http://173.212.194.126:8000/live/088250763714488/1593574628/6714.ts
-#EXTINF:-1, TV CINE 3 HD  IPTVultra.com [1920x1080]
-http://173.212.194.126:8000/live/088250763714488/1593574628/6717.ts
-#EXTINF:-1, TV CINE 4 HD  IPTVultra.com [1920x1088]
-http://173.212.194.126:8000/live/58965889362952/1593574628/6716.ts
-#EXTINF:-1,PT | TV Cine 4  IPTVultra.com [1920x1088]
-http://173.212.194.126:8000/live/86333794968445/1593574628/439.ts
-#EXTINF:-1, TV CINE 2 HD  IPTVultra.com [1920x1080]
-http://173.212.194.126:8000/live/088250763714488/1593574628/6718.ts
-#EXTINF:-1, TVI FICCAO  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/exch/exch/6778.ts
-#EXTINF:-1, TVI  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/616529134468152/1593574628/6780.ts
-#EXTINF:-1, TV GLOBO  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/58965889362952/1593574628/6768.ts
-#EXTINF:-1, TVI HD  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/616529134468152/1593574628/6781.ts
-#EXTINF:-1, TV SERIES HD  IPTVultra.com [1920x1080]
-http://173.212.194.126:8000/live/088250763714488/1593574628/6696.ts
-#EXTINF:-1, VH1 CLASSIC  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6665.ts
-#EXTINF:-1, VH1  IPTVultra.com [1920x1080]
-http://173.212.194.126:8000/live/088250763714488/1593574628/6668.ts
-#EXTINF:-1, TV Globo Premium  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/616529134468152/1593574628/441.ts
-#EXTINF:-1, VEVO 3  IPTVultra.com [1920x1080]
-http://173.212.194.126:8000/live/78369794833844/1593574628/6674.ts
-#EXTINF:-1, TVI REALITY  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6777.ts
-#EXTINF:-1, TVI 24  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/exch/exch/6765.ts
-#EXTINF:-1, TVI SD  IPTVultra.com [1920x1080]
-http://173.212.194.126:8000/live/088250763714488/1593574628/6779.ts
-#EXTINF:-1, VEVO 1  IPTVultra.com [1920x1080]
-http://173.212.194.126:8000/live/088250763714488/1593574628/6676.ts
-#EXTINF:-1, TV RECORD  IPTVultra.com [720x576]
-http://173.212.194.126:8000/live/86333794968445/1593574628/6767.ts
-#EXTINF:-1, VEVO 2  IPTVultra.com [1920x1080]
-http://173.212.194.126:8000/live/78369794833844/1593574628/6675.ts
-#EXTINF:-1,PT | PORTO CANAL  IPTVultra.com [720x576]
-http://system.fpiptv.com:8080/live/demouser/demouser/17695.ts
-#EXTINF:-1,PT | CARTOON NETWORK  IPTVultra.com [720x576]
-http://system.fpiptv.com:8080/live/demouser/demouser/17684.ts
-#EXTINF:-1,PT | DISCOVERY CHANNEL  IPTVultra.com [720x576]
-http://system.fpiptv.com:8080/live/demouser/demouser/17683.ts
-#EXTINF:-1,PT | SIC NOTICIAS  IPTVultra.com [1920x1088]
-http://system.fpiptv.com:8080/live/demouser/demouser/17678.ts
-#EXTINF:-1,PT | NAT GEO WILD  IPTVultra.com [720x576]
-http://system.fpiptv.com:8080/live/demouser/demouser/17680.ts
-#EXTINF:-1,PT | SPORT TV 5 HD 1080  IPTVultra.com [1440x1088]
-http://system.fpiptv.com:8080/live/demouser/demouser/17689.ts
-#EXTINF:-1,PT | TVI REALITY  IPTVultra.com [720x576]
-http://system.fpiptv.com:8080/live/demouser/demouser/17687.ts
-#EXTINF:-1,PT | Sporting TV HD 1080  IPTVultra.com [1920x1088]
-http://system.fpiptv.com:8080/live/demouser/demouser/17688.ts
-#EXTINF:-1,PT | A BOLA TV  IPTVultra.com [720x576]
-http://system.fpiptv.com:8080/live/demouser/demouser/17701.ts
-#EXTINF:-1,PT | Eurosport 1  IPTVultra.com [720x576]
-http://system.fpiptv.com:8080/live/demouser/demouser/17703.ts
-#EXTINF:-1,PT | SPORT TV 2 HD 1080  IPTVultra.com [1920x1088]
-http://system.fpiptv.com:8080/live/demouser/demouser/17692.ts
-#EXTINF:-1,PT | SIC RADICAL  IPTVultra.com [720x576]
-http://system.fpiptv.com:8080/live/demouser/demouser/17693.ts
-#EXTINF:-1,PT | TVI 24  IPTVultra.com [720x576]
-http://system.fpiptv.com:8080/live/demouser/demouser/17708.ts
-#EXTINF:-1,PT | DISNEY CHANNEL  IPTVultra.com [720x576]
-http://system.fpiptv.com:8080/live/demouser/demouser/17682.ts
-#EXTINF:-1,PT | SPORT TV 4 HD 1080  IPTVultra.com [720x576]
-http://system.fpiptv.com:8080/live/demouser/demouser/17690.ts
-#EXTINF:-1,PT | TV CINE 3 HD  IPTVultra.com [720x576]
-http://system.fpiptv.com:8080/live/demouser/demouser/17706.ts
-#EXTINF:-1,PT | NATIONAL GEOGRAPHIC  IPTVultra.com [1280x736]
-http://system.fpiptv.com:8080/live/demouser/demouser/17679.ts
-#EXTINF:-1,PT | AMC  IPTVultra.com [720x576]
-http://system.fpiptv.com:8080/live/demouser/demouser/17686.ts
-#EXTINF:-1,PT | AXN BLACK  IPTVultra.com [1440x1088]
-http://system.fpiptv.com:8080/live/demouser/demouser/17685.ts
-#EXTINF:-1,PT | SIC K  IPTVultra.com [720x576]
-http://system.fpiptv.com:8080/live/demouser/demouser/17694.ts
-#EXTINF:-1,PT | TV CINE 4  IPTVultra.com [1920x1088]
-http://system.fpiptv.com:8080/live/demouser/demouser/17707.ts
-#EXTINF:-1,PT | Eurosport 1  IPTVultra.com [720x576]
-http://system.fpiptv.com:8080/live/demouser/demouser/17702.ts
-#EXTINF:-1,PT | TV CINE 1 HD  IPTVultra.com [720x576]
-http://system.fpiptv.com:8080/live/demouser/demouser/17704.ts
-#EXTINF:-1,PT | SPORT TV 1 HD  IPTVultra.com [1920x1088]
-http://system.fpiptv.com:8080/live/demouser/demouser/17677.ts
-#EXTINF:-1,PT | SPORT TV 3 HD 1080  IPTVultra.com [960x720]
-http://system.fpiptv.com:8080/live/demouser/demouser/17691.ts
-#EXTINF:-1,PT | CM TV  IPTVultra.com [720x576]
-http://system.fpiptv.com:8080/live/demouser/demouser/17700.ts
-#EXTINF:-1,PT | TV CINE 2 HD  IPTVultra.com [720x576]
-http://system.fpiptv.com:8080/live/demouser/demouser/17705.ts
-#EXTINF:-1,PT | BTV 1 HD 1080  IPTVultra.com [1920x1088]
-http://system.fpiptv.com:8080/live/demouser/demouser/17696.ts
-#EXTINF:-1,PT | AMC  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8814.ts
-#EXTINF:-1,PT | A&E  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8767.ts
-#EXTINF:-1,PT | Benfica TV 1 HD  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8782.ts
-#EXTINF:-1,PT | Canal Panda  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8762.ts
-#EXTINF:-1,PT | Baby TV  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8761.ts
-#EXTINF:-1,PT | AXN HD  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8809.ts
-#EXTINF:-1,PT | AXN Black  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8807.ts
-#EXTINF:-1,PT | AXN White  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8808.ts
-#EXTINF:-1,PT | BBC Entertainment  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8797.ts
-#EXTINF:-1,PT | Discovery HD  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8774.ts
-#EXTINF:-1,PT | FOX Comedy HD  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8804.ts
-#EXTINF:-1,PT | CBS Reality  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8800.ts
-#EXTINF:-1,PT | Disney Channel  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8765.ts
-#EXTINF:-1,PT | FOX Movies HD  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8813.ts
-#EXTINF:-1,PT | FOX Crime HD  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8805.ts
-#EXTINF:-1,PT | Disney JR  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8764.ts
-#EXTINF:-1,PT | Eurosport 2  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8784.ts
-#EXTINF:-1,PT | Fox Movies  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8812.ts
-#EXTINF:-1,PT | Fine Living  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8827.ts
-#EXTINF:-1,PT | CM TV  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8759.ts
-#EXTINF:-1,PT | Cine Mundo  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8810.ts
-#EXTINF:-1,PT | FOX Comedy HD  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8803.ts
-#EXTINF:-1,PT | E! Entertainment  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8801.ts
-#EXTINF:-1,PT | FOX Crime HD  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8806.ts
-#EXTINF:-1,PT | PFC  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8781.ts
-#EXTINF:-1,PT | Casa E Pesca  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8773.ts
-#EXTINF:-1,PT | Eurosport 1  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8785.ts
-#EXTINF:-1,PT | FOX HD  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8811.ts
-#EXTINF:-1,PT | Localvisao TV HD  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8824.ts
-#EXTINF:-1,PT | Historia HD  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8771.ts
-#EXTINF:-1,PT | Ngc HD  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8776.ts
-#EXTINF:-1,PT | Hollywood  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8816.ts
-#EXTINF:-1,PT | SIC HD  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8838.ts
-#EXTINF:-1,PT | Kombat Sport  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8779.ts
-#EXTINF:-1,PT | Fuel TV  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8826.ts
-#EXTINF:-1,PT | Nickelodeon  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8760.ts
-#EXTINF:-1,PT | Odisseia  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8772.ts
-#EXTINF:-1,PT | SIC K  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8837.ts
-#EXTINF:-1,PT | MOV HD  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8823.ts
-#EXTINF:-1,PT | SIC Caras  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8833.ts
-#EXTINF:-1,PT | Motor Vision  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8780.ts
-#EXTINF:-1,PT | Hollywood HD  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8815.ts
-#EXTINF:-1,PT | SIC K  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8832.ts
-#EXTINF:-1,PT | Fuel TV HD  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8825.ts
-#EXTINF:-1,PT | Sic Mulher  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8835.ts
-#EXTINF:-1,PT | RTP 2 HD  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8841.ts
-#EXTINF:-1,PT | MCM Top  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8766.ts
-#EXTINF:-1,PT | RTP 1 HD  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8843.ts
-#EXTINF:-1,PT | RTP 2 HD  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8840.ts
-#EXTINF:-1,PT | RTP 1 HD  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8842.ts
-#EXTINF:-1,PT | RTP 3  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8839.ts
-#EXTINF:-1,PT | Porto Canal  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8830.ts
-#EXTINF:-1,PT | MCS Extreme  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8777.ts
-#EXTINF:-1,PT | RTP Memoria  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8821.ts
-#EXTINF:-1,PT | Ngc Wild  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8775.ts
-#EXTINF:-1,PT | Globo Premium  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8755.ts
-#EXTINF:-1,PT | Cartoon Network  IPTVultra.com [720x576]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8763.ts
-#EXTINF:-1,PT | Canal Q  IPTVultra.com [720x576]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8831.ts
-#EXTINF:-1,PT | TVI  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8836.ts
-#EXTINF:-1,PT | TV Cine 4  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8817.ts
-#EXTINF:-1,PT | TLC  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8768.ts
-#EXTINF:-1,PT | TV Cine 1  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8820.ts
-#EXTINF:-1,PT | SIC Noticias  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8757.ts
-#EXTINF:-1,PT | TV Series  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8802.ts
-#EXTINF:-1,PT | Sporting TV HD 1080  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8778.ts
-#EXTINF:-1,PT | Sport TV 4  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8788.ts
-#EXTINF:-1,PT | Sport TV 2 HD  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8793.ts
-#EXTINF:-1,PT | Travel Channel HD  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8769.ts
-#EXTINF:-1,PT | Sundance TV HD  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8822.ts
-#EXTINF:-1,PT | Sport TV 3 HD  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8790.ts
-#EXTINF:-1,PT | Sport TV 5 HD  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8787.ts
-#EXTINF:-1,PT | RTP AÆ’frica  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8829.ts
-#EXTINF:-1,PT | TV Cine 3  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8818.ts
-#EXTINF:-1,PT | TVI 24  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8758.ts
-#EXTINF:-1,PT | Sport TV 4 HD  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8789.ts
-#EXTINF:-1,PT | TV Globo  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8756.ts
-#EXTINF:-1,PT | TV Cine 2  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8819.ts
-#EXTINF:-1,PT | SIC Radical  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8834.ts
-#EXTINF:-1,PT | Sport TV  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8796.ts
-#EXTINF:-1,PT | Sport TV 1  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8794.ts
-#EXTINF:-1,PT | Sport TV 2 HD  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8792.ts
-#EXTINF:-1,PT | Abola TV  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8783.ts
-#EXTINF:-1,PT | TVI Fic  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8799.ts
-#EXTINF:-1,PT | 24 Kitchen HD  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8770.ts
-#EXTINF:-1,PT | Sport TV 1 HD  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8795.ts
-#EXTINF:-1,PT | Sport TV 5  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8786.ts
-#EXTINF:-1,PT | Caca Vision  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8828.ts
-#EXTINF:-1,PT | Syfy HD  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/Test12/Test12/8798.ts
-#EXTINF:-1,PT | TV Record  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8754.ts
-#EXTINF:-1,PT | Sport TV 3 HD  IPTVultra.com [1920x1080]
-http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/8791.ts
-#EXTINF:-1, 24 KITCHEN  IPTVultra.com [1920x1088]
-http://217.160.107.173:25461/live/appco/licoveO1/1741.ts
-#EXTINF:-1, AXN HD 1080  IPTVultra.com [1920x1088]
-http://217.160.107.173:25461/live/appco/licoveO1/1735.ts
-#EXTINF:-1, Fox Crime  IPTVultra.com [720x576]
-http://217.160.107.173:25461/live/appco/licoveO1/1739.ts
-#EXTINF:-1,PT | Historia HD  IPTVultra.com [720x576]
-http://217.160.107.173:25461/live/appco/licoveO1/1740.ts
-#EXTINF:-1, AXN BLACK HD 1080  IPTVultra.com [1440x1088]
-http://217.160.107.173:25461/live/appco/licoveO1/1736.ts
-#EXTINF:-1, BENFICA TV 1  IPTVultra.com [1920x1088]
-http://217.160.107.173:25461/live/appco/licoveO1/1748.ts
-#EXTINF:-1, AXN WHITE HD 1080  IPTVultra.com [1920x1088]
-http://217.160.107.173:25461/live/appco/licoveO1/1734.ts
-#EXTINF:-1, CHELSEA TV  IPTVultra.com [1280x720]
-http://217.160.107.173:25461/live/appco/licoveO1/1756.ts
-#EXTINF:-1, CBS REALITY  IPTVultra.com [720x576]
-http://217.160.107.173:25461/live/appco/licoveO1/1755.ts
-#EXTINF:-1, BABY TV  IPTVultra.com [720x576]
-http://217.160.107.173:25461/live/appco/licoveO1/1747.ts
-#EXTINF:-1, AXN Black HD  IPTVultra.com [1280x720]
-http://217.160.107.173:25461/live/appco/licoveO1/1745.ts
-#EXTINF:-1, A & E  IPTVultra.com [720x576]
-http://217.160.107.173:25461/live/appco/licoveO1/1742.ts
-#EXTINF:-1, AMC  IPTVultra.com [720x576]
-http://217.160.107.173:25461/live/appco/licoveO1/1744.ts
-#EXTINF:-1,PT | Eurosport 1  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/1707.ts
-#EXTINF:-1,PT | Eurosport new  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/1708.ts
-#EXTINF:-1, CAÃ‡A & PESCA  IPTVultra.com [720x576]
-http://217.160.107.173:25461/live/appco/licoveO1/1750.ts
-#EXTINF:-1, Fox Comedy  IPTVultra.com [720x576]
-http://217.160.107.173:25461/live/appco/licoveO1/1765.ts
-#EXTINF:-1, AMC HD 1080  IPTVultra.com [1280x720]
-http://217.160.107.173:25461/live/appco/licoveO1/1737.ts
-#EXTINF:-1, AXN WHITE HD  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/1746.ts
-#EXTINF:-1, EURONEWS  IPTVultra.com [960x544]
-http://217.160.107.173:25461/live/appco/licoveO1/2767.ts
-#EXTINF:-1, FOX CRIME HD  IPTVultra.com [1088x720]
-http://217.160.107.173:25461/live/appco/licoveO1/1766.ts
-#EXTINF:-1, CANAL HISTÃ“RIA  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/1751.ts
-#EXTINF:-1, FIGHT NETWORK HD 1080  IPTVultra.com [1920x1088]
-http://217.160.107.173:25461/live/appco/licoveO1/1730.ts
-#EXTINF:-1, DISCOVERY CHANNEL  IPTVultra.com [720x416]
-http://217.160.107.173:25461/live/appco/licoveO1/1759.ts
-#EXTINF:-1, A BOLA TV  IPTVultra.com [720x576]
-http://217.160.107.173:25461/live/appco/licoveO1/1743.ts
-#EXTINF:-1, CANAL Q  IPTVultra.com [720x576]
-http://217.160.107.173:25461/live/appco/licoveO1/1753.ts
-#EXTINF:-1, EUROSPORT 1 HD 1080  IPTVultra.com [1920x1088]
-http://217.160.107.173:25461/live/appco/licoveO1/1732.ts
-#EXTINF:-1, Mtv Portuga  IPTVultra.com [720x576]
-http://217.160.107.173:25461/live/appco/licoveO1/1778.ts
-#EXTINF:-1, Discovery HD Showcase  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/1760.ts
-#EXTINF:-1,YU: N1 Bosna  IPTVultra.com [1024x576]
-http://217.160.107.173:25461/live/appco/licoveO1/2771.ts
-#EXTINF:-1, DISNEY CHANNEL  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/1761.ts
-#EXTINF:-1, EUROSPORT 1 HD  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/1764.ts
-#EXTINF:-1, EUROSPORT 2 XTRA HD 1080  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/1731.ts
-#EXTINF:-1, TVP KULTURA  IPTVultra.com [720x576]
-http://217.160.107.173:25461/live/appco/licoveO1/3769.ts
-#EXTINF:-1, SPORT TV 3HD  IPTVultra.com [1280x720]
-http://217.160.107.173:25461/live/appco/licoveO1/1709.ts
-#EXTINF:-1, E! Entertainment  IPTVultra.com [720x576]
-http://217.160.107.173:25461/live/appco/licoveO1/1763.ts
-#EXTINF:-1, FOX Comedy HD 1080  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/1729.ts
-#EXTINF:-1, CINEMUNDO  IPTVultra.com [720x576]
-http://217.160.107.173:25461/live/appco/licoveO1/1757.ts
-#EXTINF:-1, MOTORVISION TV  IPTVultra.com [720x416]
-http://217.160.107.173:25461/live/appco/licoveO1/1775.ts
-#EXTINF:-1, PORTO CANAL  IPTVultra.com [720x576]
-http://217.160.107.173:25461/live/appco/licoveO1/1785.ts
-#EXTINF:-1, FOX LIFE HD 1080  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/1726.ts
-#EXTINF:-1, FOX MOVIES  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/1768.ts
-#EXTINF:-1, TVP SERIALE  IPTVultra.com [720x576]
-http://217.160.107.173:25461/live/appco/licoveO1/3768.ts
-#EXTINF:-1, FUEL TV  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/1770.ts
-#EXTINF:-1, FOX TV  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/1769.ts
-#EXTINF:-1, FUEL TV HD 1080  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/1725.ts
-#EXTINF:-1, TVP INFO  IPTVultra.com [1920x1088]
-http://217.160.107.173:25461/live/appco/licoveO1/3770.ts
-#EXTINF:-1, TELETOON  IPTVultra.com [1920x1088]
-http://217.160.107.173:25461/live/appco/licoveO1/2764.ts
-#EXTINF:-1, GLOBO  IPTVultra.com [720x576]
-http://217.160.107.173:25461/live/appco/licoveO1/1771.ts
-#EXTINF:-1, SIC NOTICIAS HD 1080  IPTVultra.com [1920x1088]
-http://217.160.107.173:25461/live/appco/licoveO1/1724.ts
-#EXTINF:-1, JIM JAM  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/1773.ts
-#EXTINF:-1, MOTORVISION TV  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/1776.ts
-#EXTINF:-1, MOV HD  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/1777.ts
-#EXTINF:-1, FRANCE 3  IPTVultra.com [960x544]
-http://217.160.107.173:25461/live/appco/licoveO1/2766.ts
-#EXTINF:-1, ODISSEIA  IPTVultra.com [720x576]
-http://217.160.107.173:25461/live/appco/licoveO1/1783.ts
-#EXTINF:-1,PT | BTV 1 HD 1080  IPTVultra.com [1920x1088]
-http://217.160.107.173:25461/live/appco/licoveO1/1733.ts
-#EXTINF:-1, Nat Geo Wild  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/1781.ts
-#EXTINF:-1, RTL9  IPTVultra.com [960x544]
-http://217.160.107.173:25461/live/appco/licoveO1/2765.ts
-#EXTINF:-1, NICKELODEON  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/1782.ts
-#EXTINF:-1, W9  IPTVultra.com [1920x1088]
-http://217.160.107.173:25461/live/appco/licoveO1/2763.ts
-#EXTINF:-1, SPORT TV 3 HD  IPTVultra.com [720x576]
-http://217.160.107.173:25461/live/appco/licoveO1/1722.ts
-#EXTINF:-1, RTP 1  IPTVultra.com [720x416]
-http://217.160.107.173:25461/live/appco/licoveO1/1786.ts
-#EXTINF:-1, Rotana Aflam HD  IPTVultra.com [1280x720]
-http://217.160.107.173:25461/live/appco/licoveO1/3247.ts
-#EXTINF:-1, DISNEY JUNIOR  IPTVultra.com [720x576]
-http://217.160.107.173:25461/live/appco/licoveO1/1762.ts
-#EXTINF:-1,PT | SPORT TV 2 HD 1080  IPTVultra.com [960x720]
-http://217.160.107.173:25461/live/appco/licoveO1/1719.ts
-#EXTINF:-1, PFC  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/1784.ts
-#EXTINF:-1, CM TV  IPTVultra.com [720x576]
-http://217.160.107.173:25461/live/appco/licoveO1/1758.ts
-#EXTINF:-1, BOOMERANG HD  IPTVultra.com [1280x720]
-http://217.160.107.173:25461/live/appco/licoveO1/2762.ts
-#EXTINF:-1, RTP 3  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/1788.ts
-#EXTINF:-1, RTP 2  IPTVultra.com [1440x1088]
-http://217.160.107.173:25461/live/appco/licoveO1/1787.ts
-#EXTINF:-1,PT | SPORT TV 4 HD 1080  IPTVultra.com [1920x1088]
-http://217.160.107.173:25461/live/appco/licoveO1/1717.ts
-#EXTINF:-1, RTP ÃFRICA  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/1790.ts
-#EXTINF:-1, SyFy HD 1080  IPTVultra.com [1920x1088]
-http://217.160.107.173:25461/live/appco/licoveO1/1714.ts
-#EXTINF:-1, RTP AÃ‡ORES  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/1789.ts
-#EXTINF:-1, FOX LIFE HD  IPTVultra.com [1920x1088]
-http://217.160.107.173:25461/live/appco/licoveO1/1767.ts
-#EXTINF:-1, SIC MULHER  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/1793.ts
-#EXTINF:-1, SIC NOTICIAS  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/1794.ts
-#EXTINF:-1, SIC RADICAL HD 1080  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/1723.ts
-#EXTINF:-1,PT | Sic Mulher  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/1792.ts
-#EXTINF:-1, RTP MADEIRA  IPTVultra.com [720x576]
-http://217.160.107.173:25461/live/appco/licoveO1/1738.ts
-#EXTINF:-1, SPORT TV 1 HD 1080  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/1720.ts
-#EXTINF:-1, Boing  IPTVultra.com [1280x720]
-http://217.160.107.173:25461/live/appco/licoveO1/2761.ts
-#EXTINF:-1,PT | Sporting TV HD 1080  IPTVultra.com [1920x1088]
-http://217.160.107.173:25461/live/appco/licoveO1/1715.ts
-#EXTINF:-1, CANAL PANDA  IPTVultra.com [640x368]
-http://217.160.107.173:25461/live/appco/licoveO1/1752.ts
-#EXTINF:-1, SPORT TV 2 HD  IPTVultra.com [960x720]
-http://217.160.107.173:25461/live/appco/licoveO1/1797.ts
-#EXTINF:-1, SPORTING TV HD  IPTVultra.com [720x576]
-http://217.160.107.173:25461/live/appco/licoveO1/1803.ts
-#EXTINF:-1, Cartoon Network HD  IPTVultra.com [720x416]
-http://217.160.107.173:25461/live/appco/licoveO1/2760.ts
-#EXTINF:-1, TVCINE 4 HD 1080  IPTVultra.com [1920x1088]
-http://217.160.107.173:25461/live/appco/licoveO1/1710.ts
-#EXTINF:-1, TV CINE 3 HD  IPTVultra.com [720x576]
-http://217.160.107.173:25461/live/appco/licoveO1/1809.ts
-#EXTINF:-1, VH1  IPTVultra.com [720x576]
-http://217.160.107.173:25461/live/appco/licoveO1/1820.ts
-#EXTINF:-1, TV CINE 4 HD  IPTVultra.com [1920x1088]
-http://217.160.107.173:25461/live/appco/licoveO1/1810.ts
-#EXTINF:-1, SYFY HD  IPTVultra.com [1280x720]
-http://217.160.107.173:25461/live/appco/licoveO1/1804.ts
-#EXTINF:-1, SPORT TV 1 HD  IPTVultra.com [688x1088]
-http://217.160.107.173:25461/live/appco/licoveO1/1796.ts
-#EXTINF:-1, SPORT TV HD 1080  IPTVultra.com [1920x1088]
-http://217.160.107.173:25461/live/appco/licoveO1/1721.ts
-#EXTINF:-1, TLC  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/1805.ts
-#EXTINF:-1, TOUROS TV  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/1806.ts
-#EXTINF:-1, SPORT TV 5 HD  IPTVultra.com [720x576]
-http://217.160.107.173:25461/live/appco/licoveO1/1801.ts
-#EXTINF:-1, NATIONAL GEOGRAPHIC  IPTVultra.com [1280x736]
-http://217.160.107.173:25461/live/appco/licoveO1/1780.ts
-#EXTINF:-1, TV Globo Premium  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/1812.ts
-#EXTINF:-1, TVI 24  IPTVultra.com [720x576]
-http://217.160.107.173:25461/live/appco/licoveO1/1817.ts
-#EXTINF:-1, TVC HD  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/1814.ts
-#EXTINF:-1, TVCINE 2 HD 1080  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/1712.ts
-#EXTINF:-1, TVI REALITY  IPTVultra.com [640x368]
-http://217.160.107.173:25461/live/appco/licoveO1/1818.ts
-#EXTINF:-1, TVI  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/1816.ts
-#EXTINF:-1, TVCINE 3 HD 1080  IPTVultra.com [1440x1088]
-http://217.160.107.173:25461/live/appco/licoveO1/1711.ts
-#EXTINF:-1, TV GLOBO  IPTVultra.com [720x576]
-http://217.160.107.173:25461/live/appco/licoveO1/1811.ts
-#EXTINF:-1, TVI Reality (A Quinta)  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/1819.ts
-#EXTINF:-1, SPORT TV 3 HD  IPTVultra.com [1280x720]
-http://217.160.107.173:25461/live/appco/licoveO1/1798.ts
-#EXTINF:-1, SPORT TV 5HD  IPTVultra.com [720x576]
-http://217.160.107.173:25461/live/appco/licoveO1/1802.ts
-#EXTINF:-1, TVCseries  IPTVultra.com [1920x1088]
-http://217.160.107.173:25461/live/appco/licoveO1/1815.ts
-#EXTINF:-1,PT | SPORT TV 3 HD 1080  IPTVultra.com [960x720]
-http://217.160.107.173:25461/live/appco/licoveO1/1718.ts
-#EXTINF:-1, TV RECORD  IPTVultra.com [720x576]
-http://217.160.107.173:25461/live/appco/licoveO1/1813.ts
-#EXTINF:-1, MTV PORTUGAL  IPTVultra.com [640x368]
-http://217.160.107.173:25461/live/appco/licoveO1/1779.ts
-#EXTINF:-1, TVCINE 1 HD 1080  IPTVultra.com [1920x1088]
-http://217.160.107.173:25461/live/appco/licoveO1/1713.ts
-#EXTINF:-1, TV CINE 2 HD  IPTVultra.com [720x576]
-http://217.160.107.173:25461/live/appco/licoveO1/1808.ts
-#EXTINF:-1, VH1 CLASSIC  IPTVultra.com [720x576]
-http://217.160.107.173:25461/live/appco/licoveO1/1821.ts
-#EXTINF:-1, TV CINE 1 HD  IPTVultra.com [720x576]
-http://217.160.107.173:25461/live/appco/licoveO1/1807.ts
-#EXTINF:-1,PTV Prime PK  IPTVultra.com [1920x1080]
-http://portal.geniptv.com:8080/live/nsNx99T9z7/Edy2bUIkuY/3147.ts
-#EXTINF:-1,PTV Sports PK  IPTVultra.com [1920x1080]
-http://portal.geniptv.com:8080/live/deric1/deric1/1139.ts
-#EXTINF:-1,PTV News PK  IPTVultra.com [1920x1080]
-http://portal.geniptv.com:8080/live/nsNx99T9z7/Edy2bUIkuY/5633.ts
-#EXTINF:-1,PTV Home PK  IPTVultra.com [1920x1080]
-http://portal.geniptv.com:8080/live/nsNx99T9z7/Edy2bUIkuY/5667.ts
-#EXTINF:-1,PTV World PK  IPTVultra.com [1920x1080]
-http://portal.geniptv.com:8080/live/nsNx99T9z7/Edy2bUIkuY/5668.ts
-#EXTINF:-1,PTC Chak DE Punjabi IN  IPTVultra.com [1920x1080]
-http://portal.geniptv.com:8080/live/nsNx99T9z7/Edy2bUIkuY/5907.ts
-#EXTINF:-1,PTC News Punjabi IN  IPTVultra.com [1920x1080]
-http://portal.geniptv.com:8080/live/nsNx99T9z7/Edy2bUIkuY/5908.ts
-#EXTINF:-1,PTC Chakde IN  IPTVultra.com [1920x1080]
-http://portal.geniptv.com:8080/live/nsNx99T9z7/Edy2bUIkuY/2830.ts
-#EXTINF:-1,PTC Punjabi IN  IPTVultra.com [1920x1080]
-http://portal.geniptv.com:8080/live/nsNx99T9z7/Edy2bUIkuY/2829.ts
-#EXTINF:-1,PPTV 1 TH  IPTVultra.com [1920x1080]
-http://portal.geniptv.com:8080/live/7hMtyUkelT/NOIhI9yvkL/8669.ts
-#EXTINF:-1,PPTV HD TH  IPTVultra.com [1920x1080]
-http://portal.geniptv.com:8080/live/nsNx99T9z7/Edy2bUIkuY/5441.ts
+#EXTINF:-1,[COLOR lime][I][B] + canais tv e rádio[/B][/I][/COLOR]
+rtmp://rtppullswflivefsppullswflive-live playpath=2ch5h264 swfUrl=http://
+#EXTINF:-1,[COLOR magenta][I][B] Instalem o Addon Magellan[/B][/I][/COLOR]
+rtmp://rtppullswflivefsppullswflive-live playpath=2ch5h264 swfUrl=http://
+#EXTINF:-1,[COLOR lime][I][B]Visitem a minha página no Facebook[/B][/I][/COLOR]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://
+#EXTINF:-1,[COLOR white][I][B]https://www.facebook.com/magellanlivestreamspro/[/B][/I][/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/RTP1_2016.png/200px-RTP1_2016.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 1[/B][/I][/COLOR]
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Rtp2_2016_logo.png/250px-Rtp2_2016_logo.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 2[/B][/I][/COLOR]
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium" group-title="PORTUGAL",[COLOR yellow][I][B]SIC (geobloqueado)[/B][/I][/COLOR]
+http://live.impresa.pt/live/sic/sic540p.m3u8
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium" group-title="PORTUGAL",[COLOR yellow][I][B]SIC[/B][/I][/COLOR]
+http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/cdi6t51487621667.png/medium" group-title="PORTUGAL",[COLOR yellow][I][B]TVI[/B][/I][/COLOR]
+http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/f/fa/SICNWhite.png/170px-SICNWhite.png" group-title="PORTUGAL",[COLOR yellow][I][B]SIC NOTICIAS (geobloqueado)[/B][/I][/COLOR]
+http://live.impresa.pt/live/sicnot/sicnot540p.m3u8?mag
+#EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/200px-Rtp3.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 3 [/B][/I][/COLOR]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/50/Tvi_24.png/200px-Tvi_24.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI 24[/B][/I][/COLOR]
+http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8?mag
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/50/Tvi_24.png/200px-Tvi_24.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI 24[/B][/I][/COLOR]
+https://video-auth7.iol.pt/live_tvi24/live_tvi24/live_tvi24/live_tvi24-1/playlist.m3u8?mag
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/RTP_%C3%81frica_2016_%28Reduced_Version%3D.svg/220px-RTP_%C3%81frica_2016_%28Reduced_Version%3D.svg.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP ÁFRICA[/B][/I][/COLOR]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+#EXTINF:-1 tvg-id="rtpmemoria.pt"tvg-logo="http://www.thelogodb.com/images/media/logo/ysyyxw1438185870.png/medium" group-title="PORTUGAL",[COLOR yellow][I][B]RTP MEMÓRIA[/B][/I][/COLOR]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Futuro_log%C3%B3tipo_da_RTP_Madeira.jpg/220px-Futuro_log%C3%B3tipo_da_RTP_Madeira.jpg" group-title="PORTUGAL",[COLOR yellow][I][B]RTP MADEIRA[/B][/I][/COLOR]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/RTP_A%C3%A7ores_2016_%28Reduced_Version%29.svg/220px-RTP_A%C3%A7ores_2016_%28Reduced_Version%29.svg.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP AÇORES[/B][/I][/COLOR]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+#EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/219px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP INTERNACIONAL[/B][/I][/COLOR]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_Porto_Canal.jpg/200px-Logo_Porto_Canal.jpg" group-title="PORTUGAL",[COLOR yellow][I][B]PORTO CANAL[/B][/I][/COLOR]
+http://213.13.26.11:1935/live/portocanal/magellan.m3u8
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_Porto_Canal.jpg/200px-Logo_Porto_Canal.jpg" group-title="PORTUGAL",[COLOR yellow][I][B]PORTO CANAL[/B][/I][/COLOR]
+rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 timeout=10
+#EXTINF:-1 tvg-id="" tvg-logo="http://canal180.pt/wp-content/uploads/2013/10/big_logo.png" group-title="PORTUGAL",[COLOR yellow][I][B]CANAL 180[/B][/I][/COLOR]
+http://noscdn2.connectedviews.com:8888/live/smil:canal180.smil/livestream.m3u8?mag
+#EXTINF:-1 tvg-id="tvc.pt" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2011/12/tcv-cabo-verde.jpg" group-title="PORTUGAL",[COLOR yellow][I][B]TV CABO VERDE[/B][/I][/COLOR]
+rtmp://213.13.26.11/live playpath=rtc_teste swfUrl=http://assets.web.sapo.io/sapovideo/swf/flvplayer-sapo.swf?v110713&file=http://rd.videos.sapo.cv/o7sf94LpzBDc94GY3N4i/mov/24&live=rtmp://{$hostname}/live/rtc_teste&movref=http%3A%2F%2Fpt.online-television.net%2F952-rtc.html pageUrl=http://pt.online-television.net/952-rtc.html#.VImSJHu8q48 Conn=S:OK live=1 timeout=10
+#EXTINF:-1 tvg-id="ARTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xvswvy1437956693.png/medium" group-title="PORTUGAL",[COLOR yellow][I][B]TV PARLAMENTO[/B][/I][/COLOR]
+http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
+#EXTINF:-1 tvg-id="tvg-logo="http://tvfatima.com/logo.jpg" group-title="PORTUGAL",[COLOR yellow][I][B]TV FÁTIMA[/B][/I][/COLOR]
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+#EXTINF:-1 tvg-id="tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png/200px-Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="PORTUGAL",[COLOR yellow][I][B]CANÇÃO NOVA[/B][/I][/COLOR]
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL",[COLOR yellow][I][B]Praia de Leça da Palmeira webcam[/B][/I][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/lecadapalmeira/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL",[COLOR yellow][I][B]Praia de Espinho webcam[/B][/I][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/espinho/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL",[COLOR yellow][I][B]Praia de Esmoriz webcam[/B][/I][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/esmoriz/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL",[COLOR yellow][I][B]Praia de Furadouro webcam[/B][/I][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/furadouro/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL",[COLOR yellow][I][B]Praia da Torreira webcam[/B][/I][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/torreira/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL",[COLOR yellow][I][B]Praia da barra webcam[/B][/I][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/aveiro/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL",[COLOR yellow][I][B]Praia da Vagueira webcam[/B][/I][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/vagueira/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL",[COLOR yellow][I][B]Praia de Mira webcam[/B][/I][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/bcmira/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL",[COLOR yellow][I][B]Praia de Figueira da Foz - Buarcos webcam[/B][/I][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/figueiradafoz/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL",[COLOR yellow][I][B]Praia do Norte - Nazaré webcam[/B][/I][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/nazareparadonorte/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL",[COLOR yellow][I][B]Praia de Peniche - Supertubos webcam[/B][/I][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/supertubos/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL",[COLOR yellow][I][B]Praia de Peniche - Lagilde Baía webcam[/B][/I][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/lagide/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL",[COLOR yellow][I][B]Praia de Santa Cruz webcam[/B][/I][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/santacruz/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL",[COLOR yellow][I][B]Praia de Ribeira de Ilhas webcam[/B][/I][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/ribeiradilhas/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL",[COLOR yellow][I][B]Praia da Ericeira webcam[/B][/I][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/ericeiraspots/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL",[COLOR yellow][I][B]Praia Grande webcam[/B][/I][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/praiagrande/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL",[COLOR yellow][I][B]Praia do Guincho - Norte webcam[/B][/I][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/praiaguinchonorte/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL",[COLOR yellow][I][B]Praia do Guincho - Sul webcam[/B][/I][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/praiaguinchosul/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL",[COLOR yellow][I][B]Praia de São Pedro do Estoril webcam[/B][/I][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/saopedroestoria/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL",[COLOR yellow][I][B]Praia de Carcavelos webcam[/B][/I][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/carcavelos/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL",[COLOR yellow][I][B]Praia da Costa da Caparica CDS webcam[/B][/I][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/costacaparicacds/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL",[COLOR yellow][I][B]Praia da Costa da Caparica - São João webcam[/B][/I][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/costacaparicasaojoao/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL",[COLOR yellow][I][B]Praia da Fonte da Telha webcam[/B][/I][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/fontedatelha/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL",[COLOR yellow][I][B]Praia do Carvalhal webcam[/B][/I][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/carvalhal/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL",[COLOR yellow][I][B]Praia de São Torpes webcam[/B][/I][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/saotorpes/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL",[COLOR yellow][I][B]Praia da Zambujeira webcam[/B][/I][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/zambujeira/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL",[COLOR yellow][I][B]Praia da Amoreira webcam[/B][/I][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/bcamoreira/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL",[COLOR yellow][I][B]Praia da Arrifana webcam[/B][/I][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/arrifana/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL",[COLOR yellow][I][B]Praia da Luz webcam[/B][/I][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/luz/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL",[COLOR yellow][I][B]Praia de Meia Praia - Duna Beach webcam[/B][/I][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/meiapraia/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL",[COLOR yellow][I][B]Praia do Alvor webcam[/B][/I][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/alvor/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL",[COLOR yellow][I][B]Praia da Rocha webcam[/B][/I][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/praiadarocha/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL",[COLOR yellow][I][B]Praia da Galé webcam[/B][/I][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/bcgale/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL",[COLOR yellow][I][B]Praia do Evaristo webcam[/B][/I][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/evaristo/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL",[COLOR yellow][I][B]Praia de Vilamoura webcam[/B][/I][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/vilamoura/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL",[COLOR yellow][I][B]Praia de Jardim do Mar webcam[/B][/I][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/madeirajardimdomar/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL",[COLOR yellow][I][B]Praia das Rocas webcam[/B][/I][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/praiadasrocas/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL",[COLOR yellow][I][B]Praia de Matosinhos webcam[/B][/I][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/matosinhos/playlist.m3u8
+#EXTINF:-1 tvg-id=""tv-logo=“” group-title=“BRASIL”,[COLOR orange]» » BRASIL« «[/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/200px-Logotipo_da_Record.png" group-title=“BRASIL”,[COLOR orange][I][B]RECORD TV [/B][/I][/COLOR]
+http://srv3.zoeweb.tv:1935/zw315/zw315tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/200px-Logotipo_da_Record.png" group-title=“BRASIL”,[COLOR orange][I][B]RECORD TV MT [/B][/I][/COLOR]
+http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/c7/Logotipo_da_Record_News_%282016%29.png/200px-Logotipo_da_Record_News_%282016%29.png" group-title=“BRASIL”,[COLOR orange][I][B]RECORD TV NEWS [/B][/I][/COLOR]
+http://stmv4.euroti.com.br:1935/recordnewses/recordnewses/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/200px-Logotipo_do_SBT.svg.png" group-title=“BRASIL”,[COLOR orange][I][B]SBT [/B][/I][/COLOR]
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/200px-Logotipo_do_SBT.svg.png" group-title=“BRASIL”,[COLOR orange][I][B]SBT [/B][/I][/COLOR]
+http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1d/LOGO_REDETV%21.png/200px-LOGO_REDETV%21.png" group-title=“BRASIL”,[COLOR orange][I][B]REDE TV [/B][/I][/COLOR]
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w83762451.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/200px-TV_Gazeta.svg.png" group-title=“BRASIL”,[COLOR orange][I][B]TV GAZETA [/B][/I][/COLOR]
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-FjjNnxItKcQ/WcWeJ8EV13I/AAAAAAAAO8Q/JjGCwu45CGwL9ujpOil7lGh6R8ve7O8lACLcBGAs/s1600/ViaMorena.png" group-title=“BRASIL”,[COLOR orange][I][B]VIA MORENA [/B][/I][/COLOR]
+http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/f/f2/Logo_rede_aparecida_comunicacao.png/200px-Logo_rede_aparecida_comunicacao.png" group-title=“BRASIL”,[COLOR orange][I][B]TV APARECIDA [/B][/I][/COLOR]
+http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/Paz.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/200px-Cultura_logo_2013.svg.png" group-title=“BRASIL”,[COLOR orange][I][B]TV CULTURA [/B][/I][/COLOR]
+http://177.73.84.49/hls/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-ockjYC_sJd8/WcWBt2noaGI/AAAAAAAAO7E/C2VCQmoUt1kpT09Mb6P4JwCxABvDH8AyQCLcBGAs/s1600/Rede%2BUniao.png" group-title=“BRASIL”,[COLOR orange][I][B]TV UNIÃO [/B][/I][/COLOR]
+http://stmv1.srvstm.com/tvuniao/tvuniao/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-tiT5rxg-3wE/WcWd46PehhI/AAAAAAAAO74/JLJA5Y5hkd4c-oDm3CXg5sxlkUkbCo3IwCLcBGAs/s1600/CENTRAL-TV.png" group-title=“BRASIL”,[COLOR orange][I][B]CENTRAL TV [/B][/I][/COLOR]
+http://172.93.110.130:1935/rbt01/rbt01.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-cN7RY5PoezY/WcWeHMWdzpI/AAAAAAAAO8I/sG_R66kYXgkwfAnYngNIdG3CMqFQ-hF9ACLcBGAs/s1600/Foz%2BTv.png" group-title=“BRASIL”,[COLOR orange][I][B]FOZ TV [/B][/I][/COLOR]
+http://gw01.7idi.com:8087/hls/foztv.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/--Sky3WcgUMg/WcWeOqo4yEI/AAAAAAAAO8Y/VoMToxwxmrkl473sjSCMIczUHk2jIy3bwCLcBGAs/s1600/Alpha%2BChannel.png" group-title=“BRASIL”,[COLOR orange][I][B]ALPHA CHANNEL [/B][/I][/COLOR]
+http://streamingbr.com:1935/st87-live/smil:alphachannel.smil/chunklist_w1363160135_b1364000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://s26.postimg.org/ml5iv8k2x/TVE_Bahia.png" group-title=“BRASIL”,[COLOR orange][I][B]TVE [/B][/I][/COLOR]
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+#EXTINF:-1 tvg-logo="http://s24.postimg.org/3mh5iwvph/TVT.png" group-title=“BRASIL”,[COLOR orange][I][B]TVT [/B][/I][/COLOR]
+http://wse8.player.tv.br:1935/aovivotvt/aovivotvt/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://s26.postimg.org/esrb9wfxl/nbr.jpg" group-title=“BRASIL”,[COLOR orange][I][B]NBR [/B][/I][/COLOR]
+http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live/stream3.m3u8
+#EXTINF:-1 tvg-logo="http://s26.postimg.org/6sojpb2y1/30b7384d-c3f1-4e5f-8d82-78bfe4999906.jpg" group-title=“BRASIL”,[COLOR orange][I][B]SESC TV [/B][/I][/COLOR]
+http://api.new.livestream.com/accounts/16991778/events/6670101/live.m3u8
+#EXTINF:-1 tvg-logo="http://s26.postimg.org/jb555vzxl/Rede_Meio_Norte.png" group-title=“BRASIL”,[COLOR orange][I][B]TV MEIO NORTE[/B][/I][/COLOR]
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
+#EXTINF:-1 tvg-logo="http://s26.postimg.org/rzwvr24yx/apps.48480.13510798886630643.30d57938-8715-4d19-.png" group-title=“BRASIL”,[COLOR orange][I][B]TV INES RJ[/B][/I][/COLOR]
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestream3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Tvescolalogo2014.jpg/160px-Tvescolalogo2014.jpg" group-title=“BRASIL”,[COLOR orange][I][B]CANAL ESCOLA [/B][/I][/COLOR]
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-H5MZLvjiPtQ/WcWeir8yEnI/AAAAAAAAO8w/h7nv_wyLD3QLLXMGXYM3e6I1vAyipGnQwCLcBGAs/s1600/Tv%2BCamara.png" group-title=“BRASIL”,[COLOR orange][I][B]TV CAMARA [/B][/I][/COLOR]
+http://stream2.camara.leg.br:8134/camara-hls-live/TV1/camaraevent/TV1.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/v7aUub" group-title=“BRASIL”,[COLOR orange][I][B]CANAL 25 [/B][/I][/COLOR]
+http://stream01.msolutionbrasil.com.br:80/hls/canal25/live.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvgeral.com.br/imagens/logo.png" group-title=“BRASIL”,[COLOR orange][I][B]TV GERAL BA [/B][/I][/COLOR]
+http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/live.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/AfzyjV" group-title=“BRASIL”,[COLOR orange][I][B]AGRO CANAL [/B][/I][/COLOR]
+http://189.86.89.116:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/TMGe6E" group-title=“BRASIL”,[COLOR orange][I][B]CANAL DO BOI [/B][/I][/COLOR]
+http://189.86.89.116:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/60/Logo_AgroBrasilTV.jpg/200px-Logo_AgroBrasilTV.jpg" group-title=“BRASIL”,[COLOR orange][I][B]AGROBRASIL [/B][/I][/COLOR]
+http://192.99.101.129:1935/agrobrasiltv/agrobrasiltv_720p/live.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-RqOPyX7EvHk/WcWeNsN4fwI/AAAAAAAAO8U/20nEpybT5GMyrKMiT_4b6_tW-Cicjl12wCLcBGAs/s1600/Amazon%2BSat.png" group-title=“BRASIL”,[COLOR orange][I][B]AMAZON SAT [/B][/I][/COLOR]
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-Qj22S5wNlDY/AAAAAAAAAAI/AAAAAAAAAAA/JjLj8HR69pI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title=“BRASIL”,[COLOR orange][I][B]TV GUARANY [/B][/I][/COLOR]
+http://wse.stmip.in:1935/rtguarany/rtguarany/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QdcfCnSdv2M/hqdefault.jpg" group-title=“BRASIL”,[COLOR orange][I][B]TV CN AGITOS [/B][/I][/COLOR]
+http://wsemedia.com:1935/cn01/cn01/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/f/f6/TV_Cidade_Fortaleza.jpg/200px-TV_Cidade_Fortaleza.jpg" group-title=“BRASIL”,[COLOR orange][I][B]TV CIDADE [/B][/I][/COLOR]
+http://179.107.83.10:1935/live/tvcidadeaovivo_1/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/90/RedeMinas_marca.jpg" group-title=“BRASIL”,[COLOR orange][I][B]REDE MINAS [/B][/I][/COLOR]
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-ovVVncn9Eog/WWYP5SAP7DI/AAAAAAAAOvA/bYUFFz5TH2U3XXsZjicOk4CZjJGjlVjNgCLcBGAs/s1600/Tv%2BClima.png" group-title=“BRASIL”,[COLOR orange][I][B]TV CLIMA [/B][/I][/COLOR]
+http://stmv1.srvstm.com/tvcadm/tvcadm/playlist.m3u8
+#EXTINF:0,[COLOR cyan]» »ESPANHA « «[/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TVE_La1_-_Logo_2008.png/200px-TVE_La1_-_Logo_2008.png" group-title="ESPANHA",[COLOR cyan][I][B]LA 1 [/B][/I][/COLOR]
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=400000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Antena3_Atresmedia.png/200px-Antena3_Atresmedia.png" group-title="ESPANHA",[COLOR cyan][I][B]ANTENA 3 [/B][/I][/COLOR]
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.formulatv.com/images/noticias/52100/52199/1_517bdcfe12.jpg" group-title="ESPANHA",[COLOR cyan][I][B]ANTENA 3 SERIES [/B][/I][/COLOR]
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=o
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/100px-La_Sexta_%28A3M%29.svg.png" group-title="ESPANHA",[COLOR cyan][I][B]LA SEXTA [/B][/I][/COLOR]
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/250px-MEGA.svg.png" group-title="ESPANHA",[COLOR cyan][I][B]MEGA [/B][/I][/COLOR]
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_4_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://latelete.tv/img/nova.png" group-title="ESPANHA",[COLOR cyan][I][B]NOVA [/B][/I][/COLOR]
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Logoneoxamarillo.gif" group-title="ESPANHA",[COLOR cyan][I][B]NEOX [/B][/I][/COLOR]
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1 tvg-logo="http://latelete.tv/img/24h.png" group-title="ESPANHA",[COLOR cyan][I][B]TVE 24 [/B][/I][/COLOR]
+http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/index_1500_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://www.8tv.cat/wp-content/themes/8tv/_/images/apple-touch-icons/apple-touch-icon.png" group-title="ESPANHA",[COLOR cyan][I][B]8TV [/B][/I][/COLOR]
+http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1058883651.m3u8
+#EXTINF:-1 tvg-logo="http://latelete.tv/img/telemadrid.png" group-title="ESPANHA",[COLOR cyan][I][B]TELEMADRID [/B][/I][/COLOR]
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
+#EXTINF:-1 tvg-logo="http://www.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo@2x.png" group-title="ESPANHA",[COLOR cyan][I][B]CANAL ESTREMADURA [/B][/I][/COLOR]
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-dojqxEjIWaI/TkYpA1sT-HI/AAAAAAAAAWs/5RAM_Ih6XU0/s1600/aragontvlogo.jpg" group-title="ESPANHA",[COLOR cyan][I][B]ARAGON TV [/B][/I][/COLOR]
+http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-FjFP2_QnC8o/VE1-sPSvRlI/AAAAAAAAB6A/iyUs48zNbRM/s320/lancelot-tv.png" group-title="ESPANHA",[COLOR cyan][I][B]LANCELOTE TV [/B][/I][/COLOR]
+rtmp://62.210.141.18:1935/directo/lancelot.television
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="ESPANHA",[COLOR cyan][I][B]GALIZA TV EUROPA [/B][/I][/COLOR]
+http://europa-crtvg.flumotion.com/crtvg/europa/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="ESPANHA",[COLOR cyan][I][B]GALIZA TV AMERICA [/B][/I][/COLOR]
+http://america-crtvg.flumotion.com/crtvg/america/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/RTPA_logo.svg/200px-RTPA_logo.svg.png" group-title="ESPANHA",[COLOR cyan][I][B]TV ASTURIAS [/B][/I][/COLOR]
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/RTVA_logotip.png" group-title="ESPANHA",[COLOR cyan][I][B]ANDORRA TV [/B][/I][/COLOR]
+http://194.158.80.31:443/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.etologiaveterinaria.net/wp-content/uploads/2011/11/Unknown-3.jpg" group-title="ESPANHA",[COLOR cyan][I][B]ONDA AZUL MALAGA [/B][/I][/COLOR]
+http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/master.m3u8
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/dc/Canal3-24_logo2014.png/revision/latest?cb=20140121145440" group-title="ESPANHA",[COLOR cyan][I][B]3/24[/B][/I][/COLOR]
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0TYIEqMGl5k/mqdefault_live.jpg" group-title="ESPANHA",[COLOR cyan][I][B]HISPAN TV [/B][/I][/COLOR]
+http://178.32.255.199:1935/live/hispantv/chunklist_w1362269254.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg" group-title="ESPANHA",[COLOR cyan][I][B]REAL MADRID TV [/B][/I][/COLOR]
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/220px-Deutsche_Welle_Logo.svg.png" group-title="ESPANHA",[COLOR cyan][I][B]DW LATINO [/B][/I][/COLOR]
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/1/2/f/d/7d6f-dd5b-4be5-a9b2-e503b2c2c116.jpg" group-title="ESPANHA",[COLOR cyan][I][B]ANIME TV [/B][/I][/COLOR]
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:0,[COLOR red]» » FRANÇA « «[/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV5Monde_Logo.svg/200px-TV5Monde_Logo.svg.png" group-title="FRANÇA",[COLOR red][I][B]TV 5 MONDE [/B][/I][/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Logo_zouzous.png/280px-Logo_zouzous.png" group-title="FRANÇA",[COLOR red][I][B]ZOUZOUS [/B][/I][/COLOR]
+http://ftviflivehdz-f.akamaihd.net/i/zouzous_live@88958/index_832_av-p.m3u8|User-Agent=Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A341 Safari/528.16&X-Forwarded-For=213.251.128.136
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Small_logo_GONG_black.png/180px-Small_logo_GONG_black.png" group-title="FRANÇA",[COLOR red][I][B]GONG [/B][/I][/COLOR]
+rtsp://ec.playmedia.fr:1935/gong-base/live
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/Alsace_20_logo_2013.png/150px-Alsace_20_logo_2013.png" group-title="FRANÇA",[COLOR red][I][B]ALSACE 20 [/B][/I][/COLOR]
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/27/LogoLCN.JPG/250px-LogoLCN.JPG" group-title="FRANÇA",[COLOR red][I][B]LA CHAINE NORMANDIE [/B][/I][/COLOR]
+rtmp://live.lachainenormande.fr:80/live/lcn/livestream
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/120px-FRANCE_24_logo.svg.png" group-title="FRANÇA",[COLOR red][I][B]FRANCE 24 [/B][/I][/COLOR]
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/BFM_TV_logo.png" group-title="FRANÇA",[COLOR red][I][B]BFM TV [/B][/I][/COLOR]
+http://csm-e.dai.bfmtv.com/csm/live/109797390.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0c/Logo_NRJ_Hits.jpg/120px-Logo_NRJ_Hits.jpg.gif" group-title="FRANÇA",[COLOR red][I][B]NRJ HITS [/B][/I][/COLOR]
+rtsp://5.196.138.6:1935/live/nrjbelgique_360p
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Radio_105_Network.png/200px-Radio_105_Network.png" group-title="FRANÇA",[COLOR red][I][B]RADIO 105 TV [/B][/I][/COLOR]
+rtmp://fms.105.net:1935/live/105Test1
+#EXTINF:-1 tvg-logo="http://logosolusa.com/wp-content/uploads/parser/Radio-Monte-Carlo-Logo-1.jpg" group-title="FRANÇA",[COLOR red][I][B]RADIO MONTE CARLO [/B][/I][/COLOR]
+rtmp://fms.105.net:1935/live/rmc1
+#EXTINF:0,[COLOR deepskyblue]» » VÁRIOS INTERNACIONAIS « «[/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/1280px-Rai_4_-_Logo_2016.svg.png" group-title=“VARIOS INTERNACIONAIS”,[COLOR deepskyblue][I][B]RAI 4 (ITA)[/B][/I][/COLOR]
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/200px-Rai_5_-_Logo_2017.svg.png" group-title=“VARIOS INTERNACIONAIS”,[COLOR deepskyblue][I][B]RAI 5 (ITA)[/B][/I][/COLOR]
+http://b2.stream12.rai.it/live/smil%3arai5.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rai_Yoyo_-_Logo_2017.svg/200px-Rai_Yoyo_-_Logo_2017.svg.png" group-title=“VARIOS INTERNACIONAIS”,[COLOR deepskyblue][I][B]RAI YOYO (ITA)[/B][/I][/COLOR]
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/1200px-Rai_Storia_-_Logo_2017.svg.png" group-title=“VARIOS INTERNACIONAIS”,[COLOR deepskyblue][I][B]RAI STORIA (ITA)[/B][/I][/COLOR]
+http://everyrai-lh.akamaihd.net/i/raistoria_1@308058/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rai_Premium_-_Logo_2017.svg/160px-Rai_Premium_-_Logo_2017.svg.png" group-title=“VARIOS INTERNACIONAIS”,[COLOR deepskyblue][I][B]RAI PREMIUM (ITA)[/B][/I][/COLOR]
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/1200px-Rai_Movie_-_Logo_2017.svg.png" group-title=“VARIOS INTERNACIONAIS”,[COLOR deepskyblue][I][B]RAI MOVIE (ITA)[/B][/I][/COLOR]
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/260px-Rai_Scuola_-_Logo_2017.svg.png" group-title=“VARIOS INTERNACIONAIS”,[COLOR deepskyblue][I][B]RAI SCUOLA (ITA)[/B][/I][/COLOR]
+http://originstream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rai_Gulp_-_Logo_2017.svg/1200px-Rai_Gulp_-_Logo_2017.svg.png" group-title=“VARIOS INTERNACIONAIS”,[COLOR deepskyblue][I][B]RAI GULP (ITA)[/B][/I][/COLOR]
+http://b2everyrai-lh.akamaihd.net/i/raigulp1@66350/index1200av-p.m3u8
+#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/el_pinguino_cl_zpsvhkttrc0.png" group-title="VARIOS INTERNACIONAIS",[COLOR deepskyblue][I][B]CANAL EP (CHILE) [/B][/I][/COLOR]
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Chilevisi%C3%B3n_-_2015_logo.png" group-title="VARIOS INTERNACIONAIS",[COLOR deepskyblue][I][B]CHILEVISION (CHILE) [/B][/I][/COLOR]
+http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/506483696065449984/BATn-jAe_400x400.png" group-title="VARIOS INTERNACIONAIS",[COLOR deepskyblue][I][B]CANAL TELPIN (ARG) [/B][/I][/COLOR]
+rtmp://201.219.100.30:1935/telpintv/ttv.stream_720p
+#EXTINF:-1 tvg-logo="canal_4_argentina.png" group-title="VARIOS INTERNACIONAIS",[COLOR deepskyblue][I][B]CANAL 4 (ARG) [/B][/I][/COLOR]
+rtmp://streaming.wirenetserver.com.ar/canal4/live_1
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1277323693/c9twitter_400x400.png" group-title="VARIOS INTERNACIONAIS",[COLOR deepskyblue][I][B]CANAL 9 (ARG) [/B][/I][/COLOR]
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/764094244722184192/ZzC-pGTJ.jpg" group-title="VARIOS INTERNACIONAIS",[COLOR deepskyblue][I][B]LITUS (ARG) [/B][/I][/COLOR]
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_azteca-13_m.png" group-title="VARIOS INTERNACIONAIS",[COLOR deepskyblue][I][B]AZTECA 13 (MEX) [/B][/I][/COLOR]
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2439299658/4vhd8qzbyxb0j0ityr32_400x400.jpeg" group-title="VARIOS INTERNACIONAIS",[COLOR deepskyblue][I][B]TV MAS (MEX) [/B][/I][/COLOR]
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="VARIOS INTERNACIONAIS",[COLOR deepskyblue][I][B]CANAL LAS ESTRELLAS (MEX) [/B][/I][/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/2/5/4/7/2547718/2547718_logo_multimedios_12627,640x360,b:1.jpg" group-title="VARIOS INTERNACIONAIS",[COLOR deepskyblue][I][B]MULTIMEDIOS MONTERREY (MEX) [/B][/I][/COLOR]
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-u2yqJpcuQbA/AAAAAAAAAAI/AAAAAAAAAAA/M6fZninIKdk/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="VARIOS INTERNACIONAIS",[COLOR deepskyblue][I][B]EFEKTO TV (MEX) [/B][/I][/COLOR]
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/master.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/caracol-television-2017-logo-E3E35240F8-seeklogo.com.png" group-title="VARIOS INTERNACIONAIS",[COLOR deepskyblue][I][B]CARACOL TV (COL) [/B][/I][/COLOR]
+https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="VARIOS INTERNACIONAIS",[COLOR deepskyblue][I][B]CABLE NOTICIAS (COL) [/B][/I][/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="https://pageimages.n2me.tv/uploads/medium/picture/1150-Canal-Antistres.jpg" group-title="VARIOS INTERNACIONAIS",[COLOR deepskyblue][I][B]CANAL ANTIESTRES (COL) [/B][/I][/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/9/9f/CTV_LOGO.png" group-title="VARIOS INTERNACIONAIS",[COLOR deepskyblue][I][B]CANTINAZO (COL) [/B][/I][/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fc/Cosmovisi%C3%B3n_2009.png/revision/latest/scale-to-width-down/220?cb=20170806225908" group-title="VARIOS INTERNACIONAIS",[COLOR deepskyblue][I][B]COSMOVISION (COL) [/B][/I][/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="https://mark.trademarkia.com/logo-images/federico-victoria/life-design-tv-77856141.jpg" group-title="VARIOS INTERNACIONAIS",[COLOR deepskyblue][I][B]LIFE DESIGN (COL) [/B][/I][/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="http://dominicanchannels.net/wp-content/uploads/2015/03/teleazul.png" group-title="VARIOS INTERNACIONAIS",[COLOR deepskyblue][I][B]TELE AZUL (REP.DOM.) [/B][/I][/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Logo_de_TV_Per%C3%BA_HD.png" group-title="VARIOS INTERNACIONAIS",[COLOR deepskyblue][I][B]TV PERU (PERU) [/B][/I][/COLOR]
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 tvg-logo="https://www.telesurtv.net/english/pages/Especiales/EN-Vzla-DECIDE/images/teleSUR-Logo2013-horizontal.png" group-title="VARIOS INTERNACIONAIS",[COLOR deepskyblue][I][B]TELESUR (VEN) [/B][/I][/COLOR]
+https://streaming.openmultimedia.biz/blive/ngrp:balta.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.daserste.de/specials/das-erste-logo-100~_v-varl_dabd4c.jpg" group-title="VARIOS INTERNACIONAIS",[COLOR deepskyblue][I][B]DAS ERSTE (ALE)[/B][/I][/COLOR]
+http://live-lh.daserste.de/i/daserste_de@91204/index_2692_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://www.evard.ch/digitv/logo/tagesschau24.png" group-title="VARIOS INTERNACIONAIS",[COLOR deepskyblue][I][B]TAGESSCHAU 24 (ALE)[/B][/I][/COLOR]
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8?b=400-4000
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/1280px-Deutsche_Welle_Logo.svg.png" group-title="VARIOS INTERNACIONAIS",[COLOR deepskyblue][I][B]DW (ALE)[/B][/I][/COLOR]
+http://www.metafilegenerator.de/DWelle/tv/ios/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/NRW.TV_Logo.svg/500px-NRW.TV_Logo.svg.png" group-title="VARIOS INTERNACIONAIS",[COLOR deepskyblue][I][B]NRW (ALE)[/B][/I][/COLOR]
+http://streaming006.broadcast.tneg.de:1935/nrwtv-new/_definst_/smil:nrw.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://old.anixehd.tv/lib/img/fallback/logo.png" group-title="VARIOS INTERNACIONAIS",[COLOR deepskyblue][I][B]ANIXE (ALE)[/B][/I][/COLOR]
+http://video1.anixehd.tv:8080/Apple/wifistream.m3u8
+#EXTINF:-1 tvg-logo="http://media-recherche.ina.fr/image/VQTaZJ8u-IvY5HF3jok4bzlvRhxsCI28052UyYsvwwMl6PLRYR67GaurA1iUjkyY1dGlz0JhqipHMiJcw80etV1pTFCAAOIzPLga9tWYYas.jpg" group-title="VARIOS INTERNACIONAIS",[COLOR deepskyblue][I][B]OROMAR TV (EQU) [/B][/I][/COLOR]
+http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1232929516/contingencia0381.jpg" group-title="VARIOS INTERNACIONAIS",[COLOR deepskyblue][I][B]GLOBO TV (HON) [/B][/I][/COLOR]
+http://tv.aliasdns.info:8979/live/g13/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tern-international.tv/assets/uploads/2017/03/insight-thumbnail.png" group-title="VARIOS INTERNACIONAIS",[COLOR deepskyblue][I][B]INSIGHT FULL HD[/B][/I][/COLOR]
+http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8
+#EXTINF:0,[COLOR lavenderblush]» » MUSICA « «[/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="http://bouquettv.mediactus.fr/wp-content/uploads/2016/11/Djing-Ibiza-TV.png" group-title="MUSICA",[COLOR lavenderblush][I][B]DJING IBIZA [/B][/I][/COLOR] 
+http://www.djing.com/tv/d-05.m3u8
+#EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="MUSICA",[COLOR lavenderblush][I][B]DJING DANCE FLOOR [/B][/I][/COLOR] 
+http://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/vy6xfidu1/DJing_Underground.jpg" group-title="MUSICA",[COLOR lavenderblush][I][B]DJING UNDERGROUND [/B][/I][/COLOR] 
+http://www.djing.com/tv/underground.m3u8
+#EXTINF:-1 tvg-logo="https://soombo.com/assets/images/200_1449003921.png" group-title="MUSICA",[COLOR lavenderblush][I][B]DJING CLASSIC [/B][/I][/COLOR] 
+http://www.djing.com/tv/i-05.m3u8
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/s8fkmy9ep/Djing_Animation.png" group-title="MUSICA",[COLOR lavenderblush][I][B]DJING ANIMATION  [/B][/I][/COLOR] 
+http://www.djing.com/tv/a-05.m3u8
+#EXTINF:-1 tvg-logo="http://static.rbcasting.com/RMC-Radio-Monte-Carlo-Rosso-Logo-2015.jpg" group-title="MUSICA",[COLOR lavenderblush][I][B]RADIO MONTE CARLO TV [/B][/I][/COLOR] 
+rtmp://fms.105.net:1935/live/rmc1
+#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/3/32/Capital_TV_logo.png/revision/latest?cb=20150327095613" group-title="MUSICA",[COLOR lavenderblush][I][B]CAPITAL TV [/B][/I][/COLOR]
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/The_Heart_Network_logo.svg/1200px-The_Heart_Network_logo.svg.png" group-title="MUSICA",[COLOR lavenderblush][I][B]HEART TV [/B][/I][/COLOR]
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/VirginRadio.png" group-title="MUSICA",[COLOR lavenderblush][I][B]VIRGIN RADIO [/B][/I][/COLOR]
+rtmp://fms.105.net:1935/live/virgin2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Radio_105_Network.png" group-title="MUSICA",[COLOR lavenderblush][I][B]RADIO 105 TV [/B][/I][/COLOR]
+rtmp://fms.105.net:1935/live/105Test1
+#EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/visual.jpg" group-title="MUSICA",[COLOR lavenderblush][I][B]VISUAL RADIO TV [/B][/I][/COLOR]
+http://wms.shared.streamshow.it/visualradio/visualradio_mobile/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmVrrHFXj28jL77u_SfQO6_Uvds7hDLvjnVTQH9Ga8A6NnvfYM" group-title="MUSICA",[COLOR lavenderblush][I][B]MUZ TV [/B][/I][/COLOR]
+http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
+#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/99bf315400be046eda525c154645f49a.jpeg" group-title="MUSICA",[COLOR lavenderblush][I][B]RETRO TV [/B][/I][/COLOR]
+rtmp://stream.mediawork.cz/retrotv/retrotvHQ1
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/697867131841572864/3jr5w-5B_400x400.png" group-title="MUSICA",[COLOR lavenderblush][I][B]MELODY CHANNEL [/B][/I][/COLOR]
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.radioplay.se/img/original/4c80dac8dc9e9921.png" group-title="MUSICA",[COLOR lavenderblush][I][B]THE VOICE [/B][/I][/COLOR]
+http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TV-538-RGB_new.png/210px-TV-538-RGB_new.png" group-title="MUSICA",[COLOR lavenderblush][I][B]TV 538 [/B][/I][/COLOR]
+http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8
+#EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600000623424/REXl4v9d-Zmh5eJ7t6a0kv3DQJ-ar75OxvHSDMOoD-rCZEBlfy3klt6VgFlAkUw5yZE=w300" group-title="MUSICA",[COLOR lavenderblush][I][B]U TV [/B][/I][/COLOR]
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u
+#EXTINF:-1 tvg-logo="https://www.liveradio.ie/files/images/119710/logo_toplatino_300x300.jpg" group-title="MUSICA",[COLOR lavenderblush][I][B]TOP LATINO [/B][/I][/COLOR]
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
+#EXTINF:-1 tvg-logo="http://www.vibee.tv/wp-content/uploads/2016/07/vibeelogotv-Custom.png" group-title="MUSICA",[COLOR lavenderblush][I][B]VIBEE [/B][/I][/COLOR]
+http://46.101.21.42:8081/live/live2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://agp.it/wp-content/uploads/2014/05/logo_rn1tv-300x225.jpg" group-title="MUSICA",[COLOR lavenderblush][I][B]RADIO NR 1 [/B][/I][/COLOR]
+http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.stream2watch.cc/images/streams/583/600x400/14646084364783.png" group-title="MUSICA",[COLOR lavenderblush][I][B]KRONEHIT [/B][/I][/COLOR]
+http://bitcdn-kronehit-live.bitmovin.com/hls/1500k/bitcodin.m3u8
+#EXTINF:-1 tvg-logo="http://channels.roku.com/images/5dd1ddfe289d48a4bdfe3a36724c184b-hd.jpg" group-title="MUSICA",[COLOR lavenderblush][I][B]CLUBBING TV [/B][/I][/COLOR]
+http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/clubbingtv-mobile.3gp.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_Xite.png" group-title="MUSICA",[COLOR lavenderblush][I][B]XITE [/B][/I][/COLOR]
+http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/index.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/v4oKsNHMjy7G1d5obWUPyMoCbIEKnqVuxWywXfW-KVyyY4aTb8LYoctz9AOx2X2FrAse=w300" group-title="MUSICA",[COLOR lavenderblush][I][B]RADIO CAPITAL TV [/B][/I][/COLOR]
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1 tvg-logo="http://pixagility.com/wp-content/uploads/2016/05/logo_Indies_liveTV.png" group-title="MUSICA",[COLOR lavenderblush][I][B]INDIES LIVE [/B][/I][/COLOR]
+http://ec.playmedia.fr/indies-live/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.laurakalop.com/wordpress/wp-content/uploads/2015/08/TigoMusic_LogoOK.png" group-title="MUSICA",[COLOR lavenderblush][I][B]TIGO MUSIC [/B][/I][/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/fr/c/ca/Nrj2014.png" group-title=“MUSICA”,[COLOR lavenderblush][I][B]NRJ HITS [/B][/I][/COLOR]
+rtsp://5.196.138.6:1935/live/nrjbelgique_360p
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-IY7m2EYoSPQ/AAAAAAAAAAI/AAAAAAAAAAA/DUgeM7maH5k/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title=“MUSICA”,[COLOR lavenderblush][I][B]MUZZONE [/B][/I][/COLOR]
+http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/StarsTV.png/revision/latest?cb=20140801093644" group-title=“MUSICA”,[COLOR lavenderblush][I][B]STARS TV [/B][/I][/COLOR]
+http://starstv.live.e55-po.insyscd.net/starstvhd.smil/playlist.m3u8
+#EXTINF:0,[COLOR yellowgreen]» » NOTÍCIAS INTERNACIONAIS « «[/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Sky_News_2015_Logo.svg/800px-Sky_News_2015_Logo.svg.png" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]SKY NEWS (UK) [/B][/I][/COLOR]
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/200px-BBC_World_News_red.svg.png" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]BBC WORLD NEWS (UK) [/B][/I][/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]CNN (USA) [/B][/I][/COLOR]
+http://4.31.30.145:9001
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/220px-CBS_News.svg.png" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]CBS NEWS (USA) [/B][/I][/COLOR]
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://s26.postimg.org/sgk7abcu1/hjgj.jpg" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]ABC NEWS (USA) [/B][/I][/COLOR]
+http://abclive.abcnews.com/i/abc_live1@136327/index_2500_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://s26.postimg.org/xt91og0qh/image.jpg" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]MSNBC (USA) [/B][/I][/COLOR]
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_296_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/90/Wgn9newsopen.jpg/revision/latest?cb=20151210042859" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]WGN NEWS CHICAGO (USA) [/B][/I][/COLOR]
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/8/87/WRC-TV_NEWS_4_LOGO.png/revision/latest?cb=20130111024825" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]WRC NEWS 4 (USA) [/B][/I][/COLOR]
+http://wrclive-f.akamaihd.net/i/wrcb1_1@46880/index_1286_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Bloomberg_News_logo.png" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]BLOOMBERG (USA) [/B][/I][/COLOR]
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]FRANCE 24 (FRA) [/B][/I][/COLOR]
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/SKY_TG24.png" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]SKY TG24 (ITA) [/B][/I][/COLOR]
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/e/ed/Rai_News_24_possible_new_logo.svg/revision/latest?cb=20170531211640" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]RAI NEWS 24 (ITA) [/B][/I][/COLOR]
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]TVE 24 (ESP) [/B][/I][/COLOR]
+http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/index_1500_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]CABLE NOTICIAS (COL) [/B][/I][/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="http://s26.postimg.org/ahwh9550p/al_jazeera_channel_qa_hd.png" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]AL JAZEERA-UK (QAT) [/B][/I][/COLOR]
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
+#EXTINF:-1 tvg-logo="http://s26.postimg.org/q0yik02p5/5_YEHGFD.jpg" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]RT AMERICA (RUS) [/B][/I][/COLOR]
+http://secure-streams.akamaized.net/rt-usa/index2500.m3u8
+#EXTINF:-1 tvg-logo="http://s26.postimg.org/fs61e6end/MKjx_L41p_400x400.jpg" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]RT UK (RUS) [/B][/I][/COLOR]
+http://secure-streams.akamaized.net/rt-usa/index2500.m3u8
+#EXTINF:-1 tvg-logo="http://www.channelnewsasia.com/blob/8396140/57b5cc8a1e0e24b2b35df65b9a69bf48/cna-logo-data.jpg" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]CHANNEL NEWS ASIA  [/B][/I][/COLOR]
+http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
+#EXTINF:-1 tvg-logo="http://download-logos.com/uploads/posts/2016-10/thumbs/dw-deutsche-welle-logo-logotype-all-logos-emblems-brands-pictures-gallery_1.png" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]DW LATINO  [/B][/I][/COLOR]
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:-1 tvg-logo="ann7_za.png" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]DW (ALE)[/B][/I][/COLOR]
+http://www.metafilegenerator.de/DWelle/tv/ios/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.ann7.com/wp-content/uploads/sites/4/2015/10/final-ann7-logo-2015.png" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]ANN7 SOUTH AFRICA [/B][/I][/COLOR]
+rtmp://46.4.25.213/live-ann7/ann7-mid.stream 
+#EXTINF:0,[COLOR mediumslateblue]» » RÁDIOS « «[/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 radio="true"tvg-logo="http://pt.radioonline.fm/images/tsf-radio.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]TSF [/B][/I][/COLOR]
+http://tsfdirecto.tsf.pt/tsfdirecto.mp3
+#EXTINF:-1 radio="true"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Radio_Comercial.jpg/305px-Logo_Radio_Comercial.jpg" group-title="RADIOS",[COLOR mediumslateblue][I][B]RADIO COMERCIAL[/B][/I][/COLOR]
+http://mcrscast.mcr.iol.pt/comercial.mp3
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68465.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]RFM CLUBBING [/B][/I][/COLOR]
+http://19553.live.streamtheworld.com/RFMCLUBBINGAAC_SC?TGT=TuneIn&DIST=TuneIn
+#EXTINF:-1 radio="true"tvg-logo="http://pt.radioonline.fm/images/Radio-94FM.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]94FM [/B][/I][/COLOR]
+http://195.8.58.150:35022
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/s/68401.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]NOSTALGIA [/B][/I][/COLOR]
+http://centova.radios.pt:8435
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68415.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]SUPER FM [/B][/I][/COLOR]
+http://94.23.76.235:9956/
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68404.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]HIPER FM [/B][/I][/COLOR]
+http://85.25.73.243:10460/
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68377.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]ANTENA 1 [/B][/I][/COLOR]
+http://radiocast.rtp.pt/antena180a.mp3
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68427.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]ANTENA 2 [/B][/I][/COLOR]
+http://radiocast.rtp.pt/antena280a.mp3
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68379.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]MEGA HITS [/B][/I][/COLOR]
+http://19553.live.streamtheworld.com/MEGA_HITS_SC
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68463.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]TROPICAL FM [/B][/I][/COLOR]
+http://radio1.suaradionanet.net:10308/stream?type=.flv
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68382.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]RENASCENÇA [/B][/I][/COLOR]
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68376.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]RFM [/B][/I][/COLOR]
+http://19553.live.streamtheworld.com/RFM_SC
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68430.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]RFM 80 [/B][/I][/COLOR]
+http://19573.live.streamtheworld.com/GR80SRFM_SC
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68380.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]ORBITAL [/B][/I][/COLOR]
+http://195.23.85.126:8401/1
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68814.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]RLCB DANCE[/B][/I][/COLOR]
+http://rlcbdance.no-ip.org:8431/
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/134437.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]TOTAL FM[/B][/I][/COLOR]
+http://94.126.173.23:8000/;stream/1
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68387.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]NOVA ERA[/B][/I][/COLOR]
+http://stream.radio.com.pt:9478/stream
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68416.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]TOP 80[/B][/I][/COLOR]
+http://live.top80.fm:8086/
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/69953.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]RADAR [/B][/I][/COLOR]
+http://stream.radio.com.pt:8497/stream
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68385.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]AMÁLIA [/B][/I][/COLOR]
+http://stream.radio.com.pt:9496/stream
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68422.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]SIM [/B][/I][/COLOR]
+http://62.48.143.117/RADIO_SIM_SC
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68538.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]TORRES NOVAS FM [/B][/I][/COLOR]
+http://centova.radios.pt:8475
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/101711.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]CIDADE FM [/B][/I][/COLOR]
+http://mcrwowza2.mcr.iol.pt/cidadefm/apple.sdp/chunklist_w1928988836.m3u8
+#EXTINF:-1 radio="true"tvg-logo="http://player.streamguys.com/rastamusic/sgplayer/include/assets/img/album_art.jpg" group-title="RADIOS",[COLOR mediumslateblue][I][B]REGAEE RADIO 808[/B][/I][/COLOR]
+http://66.225.205.5:80
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68397.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]FESTIVAL[/B][/I][/COLOR]
+http://centova.radios.pt:9520/stream/1/
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68464.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]Rádio Universidade Coimbra[/B][/I][/COLOR]
+http://ruc2.cidadedecoimbra.com:8000
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68584.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]DOURO NACIONAL[/B][/I][/COLOR]
+http://94.23.76.235:9996/
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68420.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]POPULAR FM[/B][/I][/COLOR]
+http://195.8.58.150:32281/
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68388.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]OXIGENIO[/B][/I][/COLOR]
+http://centova.radios.pt:9498
+#EXTINF:-1 radio="true"tvg-logo="http://www.ultrafm.pt/images/ultrafm-logo_peq.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]ULTRA FM[/B][/I][/COLOR]
+http://centova.radios.pt:9506
+#EXTINF:-1 radio="true"tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2012/11/Antena_Minho_4dc1839e93466.jpg" group-title="RADIOS",[COLOR mediumslateblue][I][B]ANTENA MINHO[/B][/I][/COLOR]
+http://centova.radios.pt:9464
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68850.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]RADIO SATURNO[/B][/I][/COLOR]
+http://radiosaturno.dyndns.org:8000
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68399.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]MARGINAL[/B][/I][/COLOR]
+http://centova.radios.pt:8499
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68406.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]ONDA VIVA[/B][/I][/COLOR]
+http://centova.radios.pt:9524/stream
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68440.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]PLACARD[/B][/I][/COLOR]
+http://213.239.218.99:7098/;?1475760096281.aac
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68439.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]RADIO NOVA [/B][/I][/COLOR]
+http://centova.radios.pt:9528/stream/1/
