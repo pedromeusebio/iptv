@@ -1,44 +1,437 @@
-#EXTINF:-1,PT_Nat Geographic
-http://space-iptv.ddns.net:8112/live/baba/baba/526.ts
-#EXTINF:-1,PT_HOLLYWOOD
-http://space-iptv.ddns.net:8112/live/baba/baba/520.ts
-#EXTINF:-1,PT_FOX MOVIES
-http://space-iptv.ddns.net:8112/live/baba/baba/519.ts
-#EXTINF:-1,PT_Fox Live HD
-http://space-iptv.ddns.net:8112/live/baba/baba/518.ts
-#EXTINF:-1,PT_FOX CRIME HD
-http://space-iptv.ddns.net:8112/live/baba/baba/516.ts
-#EXTINF:-1,PT_FOX COMEDY HD
-http://space-iptv.ddns.net:8112/live/baba/baba/515.ts
-#EXTINF:-1,PT_Disney Junior
-http://space-iptv.ddns.net:8112/live/baba/baba/525.ts
-#EXTINF:-1,PT_AXN HD
-http://space-iptv.ddns.net:8112/live/baba/baba/513.ts
-#EXTINF:-1,PT_AXN BLACK HD
-http://space-iptv.ddns.net:8112/live/baba/baba/512.ts
-#EXTINF:-1,PT_ Nat Geo Wild
-http://space-iptv.ddns.net:8112/live/baba/baba/528.ts
-#EXTINF:-1,PT_ NAT GEO HD
-http://space-iptv.ddns.net:8112/live/baba/baba/527.ts
-#EXTINF:-1,PT_ FOX HD
-http://space-iptv.ddns.net:8112/live/baba/baba/517.ts
-#EXTINF:-1,PT_ Disney Channel
-http://space-iptv.ddns.net:8112/live/baba/baba/524.ts
-#EXTINF:-1,PT_ DISCOVERY CHANNEL
-http://space-iptv.ddns.net:8112/live/baba/baba/523.ts
-#EXTINF:-1,PT_ Cartoon Network
-http://space-iptv.ddns.net:8112/live/baba/baba/522.ts
-#EXTINF:-1,PT_ BENFICA TV 1 HD
-http://space-iptv.ddns.net:8112/live/baba/baba/521.ts
-#EXTINF:-1,PT_ AXN WHITE HD
-http://space-iptv.ddns.net:8112/live/baba/baba/514.ts
-#EXTINF:-1,PT_SPORT_TV5
-http://space-iptv.ddns.net:8112/live/baba/baba/343.ts
-#EXTINF:-1,PT_SPORT_TV4
-http://space-iptv.ddns.net:8112/live/baba/baba/342.ts
-#EXTINF:-1,PT_SPORT_TV3
-http://space-iptv.ddns.net:8112/live/baba/baba/341.ts
-#EXTINF:-1,PT_SPORT_TV2
-http://space-iptv.ddns.net:8112/live/baba/baba/340.ts
-#EXTINF:-1,PT_SPORT_TV1
-http://space-iptv.ddns.net:8112/live/baba/baba/339.ts
+#EXTM3U
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/140" tvg-id="b1c95147b9b497f65debd7cbbdcfd6d6",RTP 1
+http://89.114.122.158:9981/stream/channelid/1196542385?ticket=8D8224E1C5F8FE51BBF03895CFED1BE36072A645&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/184" tvg-id="7262cac308727a7bcf28b3b4202f4269",RTP 2
+http://89.114.122.158:9981/stream/channelid/1137336946?ticket=9BB9C382BCEEADC45573DF1FED5FFF7E352FA66C&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/28" tvg-id="5607f85fffe069c4d59d6d26a3c165cc",SIC
+http://89.114.122.158:9981/stream/channelid/1610090326?ticket=B671252D85CE9BCCACFC3BB826DBFCFE9D8E66C3&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/84" tvg-id="b696bda93cc2d07c8e365e06d44215bd",TVI
+http://89.114.122.158:9981/stream/channelid/700290742?ticket=6F81A5EE46069EDB07DE1BC0CB04EA76BB85F00E&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/202" tvg-id="f1ccfa6e988b34bcc03c842174791517",SIC Notícias
+http://89.114.122.158:9981/stream/channelid/1861930225?ticket=CFBAA13D5A600CF7EE75E24B07E4B11611E14FCF&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/150" tvg-id="787c300d79539846e8dc70c187f87f87",RTP 3
+http://89.114.122.158:9981/stream/channelid/221281400?ticket=D5D43F28EA37E72536A3DF3B6C1D9AF1CEA031FD&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/245" tvg-id="89c052d6e718dae6ecb664c2224b7574",TVI 24
+http://89.114.122.158:9981/stream/channelid/1448263817?ticket=BC5D41A9BEA3A36580886173C6BB3A67E05E8D19&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/4" tvg-id="beab839a869aa018dc8ae22a2b4e9f93",CMTV
+http://89.114.122.158:9981/stream/channelid/444836798?ticket=C7DBA81365BC678D7B6AE6B74AD0897F94EF110F&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/129" tvg-id="ea1597dc3aff7e68c279ecbbbc7e0ea6",SPORT TV +
+http://89.114.122.158:9981/stream/channelid/1553405418?ticket=A134F65D61E1C8DA5C6FFC2043A18199ED577F27&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/79" tvg-id="6a0b36558a8cebb8b53a9659e24c7773",SIC Mulher
+http://89.114.122.158:9981/stream/channelid/1429605226?ticket=747E9BC8C0C818D56F62DCEDA7047E9C1D9C3590&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/56" tvg-id="42d3fea7df00e6859ca4de67e05b5555",TVI Ficção
+http://89.114.122.158:9981/stream/channelid/671011650?ticket=B8484CEF963A9FF99296FF6E4EA7B76062EEC0F3&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/108" tvg-id="0be2f445e7b43303b80c634202f66be1",A Bola TV
+http://89.114.122.158:9981/stream/channelid/1173676555?ticket=2913A51D37ADB06DE77AC34EF03A4C39E929A156&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/54" tvg-id="a4d4cff5bfd801a05b18b8bc2e557d9e",Porto Canal
+http://89.114.122.158:9981/stream/channelid/1976554660?ticket=3976A4367CEB4AE6C8005699C0A826831E675541&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/9" tvg-id="e09efdbde9e8e1a6ca0f9d8b46956a83",SIC Radical
+http://89.114.122.158:9981/stream/channelid/1040031456?ticket=A9CFAFFAD1D7C2C9ABC7FF1D0316B4E1BCCC71E3&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/81" tvg-id="a7339f6d070657ceeed8b03aff6999df",Canal Q
+http://89.114.122.158:9981/stream/channelid/1839149991?ticket=9A2E59C071D5D34BC9AAA3D14182949BF4495FF5&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/145" tvg-id="fd5d02bdcdc408af78acbd5bf37a3e20",RTP Memória
+http://89.114.122.158:9981/stream/channelid/1023565309?ticket=F91548B59B97216804DAEF1C8C76C93FBED6D1ED&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/171" tvg-id="0c2098c03ecf62d507f695f05df8805d",SPORT TV 1 HD
+http://89.114.122.158:9981/stream/channelid/1083711500?ticket=33EB4ED0FDF69A7FB0CCDE16B782A7FF66C83EEC&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/240" tvg-id="e6e82b2be700fd559886d2306e6964bb",SPORT TV 2 HD
+http://89.114.122.158:9981/stream/channelid/724297958?ticket=32D60477EEF3699FD2E987816455D348BFEC35BF&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/105" tvg-id="4f5c60be1eae834e919cadf1e97c6767",SPORT TV 3 HD
+http://89.114.122.158:9981/stream/channelid/1046502479?ticket=14E902AD814BB754B519B7579BABFBFDF1DD0663&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/134" tvg-id="7558f3ea7e9b85a803baf0c98eaa2d97",SPORT TV 4
+http://89.114.122.158:9981/stream/channelid/1794332789?ticket=17C8CCDE3C3F5515E62D962320B1DE26151C7ACC&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/90" tvg-id="3513e3a4ecf394065b598f1609f83ba9",SPORT TV 5
+http://89.114.122.158:9981/stream/channelid/618861365?ticket=5B99A22AD01DEBEBC37C5A7BCAF82081A867DBC3&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/106" tvg-id="61bc8e2c8128095e85cfd1ed9911a356",SPORT TV 1
+http://89.114.122.158:9981/stream/channelid/747551841?ticket=167ABA56648FC2942BB8D079AB79CC969F3861A0&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/66" tvg-id="026f69be66eab0bbc4fa563662d879e8",SPORT TV 2
+http://89.114.122.158:9981/stream/channelid/1047097090?ticket=3636CFC0DBDA0D35C43289415022151657E1864C&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/37" tvg-id="be1b4e07862b22bd213801c43dc9864c",SPORT TV 3
+http://89.114.122.158:9981/stream/channelid/122559422?ticket=B8220A09BB3FDE2BA2BE40793D2AF4C4B697BCF5&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/252" tvg-id="53342219df2bcc416f69a8b1182a7ff2",BTV 1 HD
+http://89.114.122.158:9981/stream/channelid/421672019?ticket=E08C9170C74393F12C1CDFDF0842C7EE346F59C7&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/70" tvg-id="6632dcc40a69553c02609ee9f7511f35",NBA TV
+http://89.114.122.158:9981/stream/channelid/1155281510?ticket=CCEC0E5A3898CE66B818F32C5F7C8F2EA1D3472D&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/36" tvg-id="e1129ff0550857fb9c475ddaecdc24cf",Sporting TV
+http://89.114.122.158:9981/stream/channelid/1889473249?ticket=272CEE2F7642474FD798E5D656354FE354A69A5D&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/239" tvg-id="c88588cabaf178a9be8b85351d41cfca",Eurosport 1 HD
+http://89.114.122.158:9981/stream/channelid/1250461128?ticket=B92C0D38B88F83F5FC2A446CC1FC2EC88D3582B5&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/168" tvg-id="91fa08bc5392367b9aee4e1af6ed3451",Eurosport 1
+http://89.114.122.158:9981/stream/channelid/1007221393?ticket=8A067B8785790E9FDD86947F09610CD983AB0EC6&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/5" tvg-id="c81390066ca48a9296f0750c95288242",Disney Channel
+http://89.114.122.158:9981/stream/channelid/110105544?ticket=B142E864922691070D7778CF79336B32E9EA151C&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/1" tvg-id="7860a36b5ce5075d59427df3d70de799",SIC K
+http://89.114.122.158:9981/stream/channelid/1805869176?ticket=2724EF1B1FC7857DD7CB9F290B171B60986F0B0B&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/65" tvg-id="d74246100b1f54e6ad6c78d0beb82442",Biggs
+http://89.114.122.158:9981/stream/channelid/273040087?ticket=E98E1B741A334B2B9295782281189B11204AA930&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/146" tvg-id="8133cf908615192a151683ac8905968f",Canal Panda
+http://89.114.122.158:9981/stream/channelid/282014593?ticket=B0825F4A7E9F1CF8156B894D0ED7CC8A17D59AF3&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/199" tvg-id="c27451976cdbd61bc431a645a9156c1e",Disney Júnior
+http://89.114.122.158:9981/stream/channelid/391214274?ticket=ACB4341DA344E021AED52E9B98B5B1EDD971F301&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/16" tvg-id="8ab904f89c31c7f1c6417f8038a457f4",Jim Jam
+http://89.114.122.158:9981/stream/channelid/2013575562?ticket=C969597C97ABF108B132B2CA47BDFFDCBE2E5341&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/73" tvg-id="2abbc3e65ca227b03bf4c3045e250509",Baby TV
+http://89.114.122.158:9981/stream/channelid/1724103466?ticket=1D922A2951C8C8B13829C5058A296F7284E8A346&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/167" tvg-id="5e0256a946f552a15fe102b4703bd2cd",Cartoon Network
+http://89.114.122.158:9981/stream/channelid/693502558?ticket=260219BD39E4DCA041C3E22DC8789BD0710660DF&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/139" tvg-id="de36adaf5eabf733c62e793d63c7949b",TVCine 1
+http://89.114.122.158:9981/stream/channelid/799880926?ticket=AC1FE0DF05173CAA84A1CADF6C5F892D74A24744&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/43" tvg-id="882ccfc8ba7b69a59ec51604cc5b77a2",TVCine 2
+http://89.114.122.158:9981/stream/channelid/1221536904?ticket=BAF94F743C2737C6EFA03E401AA7311061914E2D&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/14" tvg-id="acdf3e9b2c974e43583d4390ce7ce2c9",TVCine 3
+http://89.114.122.158:9981/stream/channelid/457105324?ticket=F0A35D8280125C5EBEF3AE5797131A47340E67FB&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/87" tvg-id="849134e93b2489ad37fc4edcdf8322d1",TVCine 4
+http://89.114.122.158:9981/stream/channelid/1765052804?ticket=12FFDF660C80A032A6496822946E2D2F2D28B438&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/170" tvg-id="f8d98a55f47a1328389b2ae90f2cb955",Cinemundo
+http://89.114.122.158:9981/stream/channelid/1435163128?ticket=3B46736609057563100E94BDA6FEB1A65004F16B&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/110" tvg-id="4b2d945efe0b2f1b8dcfb99906b9480d",Hollywood HD
+http://89.114.122.158:9981/stream/channelid/1586769227?ticket=75CE38AF237C813EFA1C00CB81942ADA1D0E785F&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/194" tvg-id="31726b1b3707dc4b818c2b0035ffc6b2",Hollywood
+http://89.114.122.158:9981/stream/channelid/460026417?ticket=1C85BA71F98BD05E5C7B698A6A56B776AF11EBFE&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/34" tvg-id="ee3ff6873c30c8e0e226993ffc20cc0d",FOX Movies
+http://89.114.122.158:9981/stream/channelid/133578734?ticket=FD68CD7CB6612E318C4A9EE6E1B180F4967B0F18&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/229" tvg-id="379f7f7370a0e899f7f682757f0a5be3",AMC
+http://89.114.122.158:9981/stream/channelid/1937743671?ticket=08BEFF105C43F2417DECE6A0BBE6F28900B97F17&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/211" tvg-id="0ecd0075490d2b2e9d164fafd0d5f22a",TVSéries
+http://89.114.122.158:9981/stream/channelid/1962986766?ticket=A93192C9FD2F0ADAF05D78F1DFE10F9C3A02ACE8&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/178" tvg-id="28742a28a09a6ea35244af269c1b1478",AXN HD
+http://89.114.122.158:9981/stream/channelid/673870888?ticket=66000E38936DF7CDCB597940150A8030F1E22CFA&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/251" tvg-id="6a3e4c9cd260af30196d6a6e3e002914",AXN Black HD
+http://89.114.122.158:9981/stream/channelid/474758762?ticket=A551AD724DC0AF6F651DD16ED3BE6AA42C4CE663&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/153" tvg-id="c15b45db6a9b8157c9587079763382c3",AXN White HD
+http://89.114.122.158:9981/stream/channelid/1531272129?ticket=D76A92B054334969CDD9BBFB4CC75320CA56273E&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/228" tvg-id="73f182d814da5238bedf694bb84b9c9c",Syfy
+http://89.114.122.158:9981/stream/channelid/1484976499?ticket=4A91E27E002E65859A6CB99F3365073D91C43A7F&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/204" tvg-id="648b28dbb5cb04d1cafb2489836ed5a4",FOX HD
+http://89.114.122.158:9981/stream/channelid/1529383780?ticket=14D0B93FD93C3BE3EA92FE529EBDDDBB0B042B0D&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/175" tvg-id="7fd67fa1f7ae643d87015efc329f8036",FOX Life HD
+http://89.114.122.158:9981/stream/channelid/562026111?ticket=990EF5DDFE34FA69D432BA36F8B224FC7725740E&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/208" tvg-id="bcfb7efb7a03c4c6849db7fc68b3d924",FOX Crime HD
+http://89.114.122.158:9981/stream/channelid/2071919548?ticket=B68F57C114E4C4EA4AD02A04532A7DBCE5F25184&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/135" tvg-id="9d19c685778fd2324fb9519311cca96c",FOX Comedy
+http://89.114.122.158:9981/stream/channelid/96868765?ticket=A06C84072715A47BCB38096924427E06BE6CD620&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/100" tvg-id="493c438b001b5351d3ef97f95ea94fe3",MTV Portugal
+http://89.114.122.158:9981/stream/channelid/188955721?ticket=49AD959BC288B9B64253855F36945F63ACF66BED&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/80" tvg-id="1acfedab51a6092a9b86e61e9ce691d4",E! Entertainment
+http://89.114.122.158:9981/stream/channelid/737005338?ticket=9742D5DF6BD1EA8FBA8EB130209E9ED4243AED62&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/52" tvg-id="84528c8b156bb453c937207356a3e9c4",SIC Caras
+http://89.114.122.158:9981/stream/channelid/193745540?ticket=304342E9AF0BBE1E3253EBD1EF5B22A0C50B8DC3&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/213" tvg-id="0a3ca02cf396f36ce38f32ec7e41ba21",My Cuisine
+http://89.114.122.158:9981/stream/channelid/748698634?ticket=0244BCFDEEA13B5F45FABCD0DD2570AE7CB67AA1&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/95" tvg-id="106f30317aa29818f71c39f57b1fcdf6",TLC
+http://89.114.122.158:9981/stream/channelid/825257744?ticket=18771E9E8F5D6903CF74AB5485734E808E7804F9&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/22" tvg-id="c78da414030d45227264b64946c94959",A&E
+http://89.114.122.158:9981/stream/channelid/346328519?ticket=B252E24B7437436DE1A1068FAF087856004EA7B9&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/115" tvg-id="7c217894af8507ea9a2e4b26a115d533",CBS Reality
+http://89.114.122.158:9981/stream/channelid/343417212?ticket=0C88966A0CDBBF2C5BA916FB1D8D513A4661CFE5&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/93" tvg-id="cd093d234940c970fabf3a1ba6bf8784",FTV
+http://89.114.122.158:9981/stream/channelid/591202765?ticket=59075B8A4DEC5DF6ABF7B96012FA1ED2602A8C88&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/58" tvg-id="5ba54d4b3260417669a5caa97a7951c7",Travel Channel HD
+http://89.114.122.158:9981/stream/channelid/1263379803?ticket=C78F0B2A11EA22A62ADA62D29A69C4F61836DCE2&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/258" tvg-id="a04aa38d02fcb6cfe3a55cfb158cca61",24 Kitchen HD
+http://89.114.122.158:9981/stream/channelid/228805280?ticket=3DC11593CB10C64F2485CE97861C8D8BEC77ACFE&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/189" tvg-id="7882595e84a3e395968889e14e1c538e",Discovery Channel
+http://89.114.122.158:9981/stream/channelid/1582924408?ticket=7DD2B8DD813DBC631B61A81693352F09556124C4&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/246" tvg-id="ac5606bda680d2120657e39c5b635ce4",Odisseia
+http://89.114.122.158:9981/stream/channelid/1023825580?ticket=A72F251790D7CDC2755EBF9EE6F5CAD04DB6FBC0&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/143" tvg-id="5b9b9ebc880f9c9f181a9b0825f0c31a",História
+http://89.114.122.158:9981/stream/channelid/1017027419?ticket=F22A8DFF30AF69CEF0D14C97CAB8000E6EA504CB&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/55" tvg-id="62ff55c8b1d0ab05ae1577675524e101",National Geographic HD
+http://89.114.122.158:9981/stream/channelid/1213595490?ticket=BDE6B4700DD3227932C6FEFF613C6FDA661ADD0A&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/225" tvg-id="910aa972e49105b27c8f93c836d72923",Nat Geo Wild
+http://89.114.122.158:9981/stream/channelid/1923680913?ticket=640DF2DBB763E1D4BD6B25E500FC59192C0CA389&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/24" tvg-id="915c1a235f20119ff0ea89acb5c03712",VH1
+http://89.114.122.158:9981/stream/channelid/588930193?ticket=7C5392C10E47DE98C383D8D8A9B4F837493025A3&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/76" tvg-id="c942ae27b3d343d842fff51978487873",Trace TV
+http://89.114.122.158:9981/stream/channelid/665731785?ticket=3541A83216CD57C2D1B0D243DFD74B58F5F1B7F2&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/133" tvg-id="63b9512258f5b8d2e1375487376b665b",MCM POP
+http://89.114.122.158:9981/stream/channelid/575781219?ticket=9AB3D4FBED5CDB1D3BF223BDBEE44C7BAFF4DC24&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/242" tvg-id="4c89aabf4e3c3470c7aa2fc80b37ee91",Afro Music
+http://89.114.122.158:9981/stream/channelid/1068140876?ticket=731490CF0468886FFD69822883A262D3804C3C0B&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/200" tvg-id="85046a49e1d550481e981bb30cdfcb38",Mezzo
+http://89.114.122.158:9981/stream/channelid/1231684741?ticket=05A8F6032EDB569592D49E01F78DF00DD2DED866&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/156" tvg-id="16629541b498aa866fbe5af94ca88465",C-Music
+http://89.114.122.158:9981/stream/channelid/1100309014?ticket=FCFE1156301A1F7C2C471C00756C0ED74EC5D315&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/256" tvg-id="064f4576efa2ebad830b156f87fa7b13",MCS Extreme
+http://89.114.122.158:9981/stream/channelid/1984253702?ticket=DE035F1072C8E203E5E214C910AAC48930DB0672&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/45" tvg-id="906b9d5a866b054146672d46696885e6",Kombat Sport
+http://89.114.122.158:9981/stream/channelid/1520266128?ticket=61E207720D6787D8F85A4D9A9538C9FF6978AE1E&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/177" tvg-id="995057cfe2f7e53423b6b09113eff739",Caçavision
+http://89.114.122.158:9981/stream/channelid/1331122329?ticket=DFEE1E0050FE3BF33236571343B2303768A5CCCC&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/231" tvg-id="f8bb3ee81f9ab1da98bce84760346291",Toros TV
+http://89.114.122.158:9981/stream/channelid/1748941816?ticket=016410B99744A5787D82389CEFB6BBEAA2A9D6EC&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/169" tvg-id="18dee432042bf7812771be22949e9f67",PFC
+http://89.114.122.158:9981/stream/channelid/853859864?ticket=180E3308FC4DAEA942FA30E6D6FF52B011A4D797&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/61" tvg-id="239cb9f0630c4802dfa93b88276f47e0",Real Madrid TV
+http://89.114.122.158:9981/stream/channelid/1891212323?ticket=E8FFDA18A17D3FF10BDEE9F6CF13EDEA358BB3AC&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/253" tvg-id="9e9d2a33a65c59d61d9509f17abd0105",Eurosport 2
+http://89.114.122.158:9981/stream/channelid/858430878?ticket=1E11E86798E543C4C2F8BFB2EE26118263DFD9FF&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/164" tvg-id="2699bf44a2ef150d492156ae41f7dddd",Eurosport News
+http://89.114.122.158:9981/stream/channelid/1153407270?ticket=138D6803F36F9DC12B073B839F7A8D462274EF90&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/98" tvg-id="af84af64e3e67909a9fbc2afb524f3cf",motorsport.tv
+http://89.114.122.158:9981/stream/channelid/1689224367?ticket=FA2BBBAE4F2C4C555B5F9115C03269254D1FE897&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/227" tvg-id="64851e24e16d59a66d0837dc53074fde",Globo Premium
+http://89.114.122.158:9981/stream/channelid/605980004?ticket=1AD51380F12D82E3786294624B08CF2724046728&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/116" tvg-id="10d805f1c9a8d3772e676f56d03ff57f",TV Record
+http://89.114.122.158:9981/stream/channelid/1896208400?ticket=277BF608DCE944967A0D4EEF587EBE443AB8AD31&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/205" tvg-id="a3474af2cd02c0f132c6697d6594f65f",Angelus TV
+http://89.114.122.158:9981/stream/channelid/1917470627?ticket=FC39195EDBA53484B2B0D20B454D26349F274075&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/57" tvg-id="baf326804a816488bdc212c73be33251",Canção Nova
+http://89.114.122.158:9981/stream/channelid/2552762?ticket=3D00619B225176FC3F1FF1412449CCAC5B89D5DD&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/162" tvg-id="7991decf892cfd76946523c411a01857",RTP Açores
+http://89.114.122.158:9981/stream/channelid/1339986297?ticket=0B28BD93D80993A8F8DCC6E9206DDD4FC2D41572&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/31" tvg-id="eef5ae5ecafaec0cf31b368100db6f65",RTP Madeira
+http://89.114.122.158:9981/stream/channelid/1588524526?ticket=22490379BA6E85422DD49A23FA7CD4645088E15B&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/166" tvg-id="4567b0d1cffb8dfea2ede34b575f3b7e",Euronews
+http://89.114.122.158:9981/stream/channelid/1370515269?ticket=CF5785BE1C6C89E3342274C2AE0F74A648A81296&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/136" tvg-id="a32ce3f4ff81aee2febbe70b9003503e",CNN
+http://89.114.122.158:9981/stream/channelid/1961045155?ticket=72C907F2E000409CFB10614520E53B7641F77CDC&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/62" tvg-id="6d1a689f3faa5531497f2ee8be63ceb4",SKY News
+http://89.114.122.158:9981/stream/channelid/526916205?ticket=5730BCA236F436F6E115DB2F1ED1C22F51B52382&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/2" tvg-id="44c7169a6d3e31f5108da33821b7e71e",FOX News
+http://89.114.122.158:9981/stream/channelid/437700420?ticket=86448DF9F3B41FE7D2A3FFD62C82943B3DA0505A&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/249" tvg-id="7c15ff83bea778df52f586810f686ed7",BBC World News
+http://89.114.122.158:9981/stream/channelid/67048828?ticket=2C9A50CB4060D34AE7CEDB441ADB0BC0327021C5&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/103" tvg-id="771f965e584f47b479d9d763ceaa9620",AJE
+http://89.114.122.158:9981/stream/channelid/1586896759?ticket=7AFB8D0F19FBD26CF3C536BDC9C21575CA569B95&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/207" tvg-id="d61c679989a429feff73b29fa375cada",France 24
+http://89.114.122.158:9981/stream/channelid/426187990?ticket=B0BC40262490E36EEDB16687E1F007318E6031FC&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/8" tvg-id="2e36e98ece46f71d17f5d780d8927780",TVE 24H
+http://89.114.122.158:9981/stream/channelid/250164782?ticket=A556DCF3AD935664DA6CD18A62FCA54AA9CB067D&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/181" tvg-id="6f0c117ba3e5021ebe1e1a9cac4f320b",CNBC Europe
+http://89.114.122.158:9981/stream/channelid/2064714863?ticket=983C90A9FD7F2FA87D18DB09180A6F363A39E4A2&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/74" tvg-id="2e0d90e3a63a4e974e7bb8fb4f92b2ee",Bloomberg
+http://89.114.122.158:9981/stream/channelid/1670384942?ticket=96B6D2546CB29205AC970E7BB12AA4D6D7781EAE&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/118" tvg-id="260607799acacde5a2b8b7a6db86f9a5",ARTV
+http://89.114.122.158:9981/stream/channelid/2030503462?ticket=100873679F8DEA66791537E0D9DECAA2E2C083DC&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/82" tvg-id="6ff4b4227682b021fa62557deec4e68a",TV Galicia
+http://89.114.122.158:9981/stream/channelid/582284399?ticket=8DFAB2D633ABE38B3A532E1790EA7570B75871F7&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/234" tvg-id="33630e1500a395657bb4f849f7f8c792",TVEi
+http://89.114.122.158:9981/stream/channelid/353264435?ticket=BACABB8FB6BA684787E967FBB58E13D806577923&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/160" tvg-id="fb51c9286d2fe98770ae9cdcb19cee63",CUBAVISION
+http://89.114.122.158:9981/stream/channelid/684282363?ticket=1D14432BC0977FA8EBB0770345A62E6815C22C85&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/60" tvg-id="e7ff67fe1f97561cecc6fc21bd0e116f",TV5 Monde
+http://89.114.122.158:9981/stream/channelid/2120744935?ticket=FABA96373D9471FCE1F741B7BA7C7DF613C4005C&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/250" tvg-id="a81a7af652be97d4b8412a698eec78bf",Deutsche Welle
+http://89.114.122.158:9981/stream/channelid/1987713704?ticket=A063E4103845046094F531E3702C2D60B36167FA&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/32" tvg-id="46741272ec2e2c3f44c025edf05f58f8",RTP África
+http://89.114.122.158:9981/stream/channelid/1913812038?ticket=CAD4A91E0E016EBE25927ECAF9ECF63FCF5405D2&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/223" tvg-id="376df2bd9951d3798919b9734492ca14",Playboy TV
+http://89.114.122.158:9981/stream/channelid/1039297847?ticket=C9BB76A7CCFB0D083438A9053508F2FF7541E61A&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/257" tvg-id="48ca32d047309b6bdb840498aaca0581",Venus
+http://89.114.122.158:9981/stream/channelid/1345505864?ticket=57DAFAD66614110D514EBA25D4C27E9A36A931A2&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/221" tvg-id="42d09e95de0d977b0f76892d36f911ec",HOT
+http://89.114.122.158:9981/stream/channelid/362729538?ticket=4063003CB4D3B4B771B41A3AB188A74DA3DFD061&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/180" tvg-id="0a9b24ea80480a19d0ab845ae486a29d",Hispasat 4K
+http://89.114.122.158:9981/stream/channelid/1780783882?ticket=01F97D1AC74C31CE24A9466771054060C805B710&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/151" tvg-id="fd66ab77f49fccce2be846218483f6c4",SPORT TV 4K UHD
+http://89.114.122.158:9981/stream/channelid/2007721725?ticket=73689BC100043AF2DA981F791A056ACC6DD3E6A0&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/163" tvg-id="e8b88418894fdc2eb3bbb4efcc9962e0",RTP 1
+http://89.114.122.158:9981/stream/channelid/411351272?ticket=3B1E5A4131F13E203CBF5D84E28B033405BA1947&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/149" tvg-id="557c773b7ee8d5dd55dfea5359ee7c1f",RTP 2
+http://89.114.122.158:9981/stream/channelid/997686357?ticket=DF5B8E4B9FD653F49EC9F022947A67321D802510&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/41" tvg-id="c05a902cab03d338b81badda1398728a",SIC
+http://89.114.122.158:9981/stream/channelid/747657920?ticket=88EFD779E66254065AAD9BB9B5065E58840917DF&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/15" tvg-id="b82845929aa34215fb4a860c1b8d91a5",TVI
+http://89.114.122.158:9981/stream/channelid/306522296?ticket=F8CC0D67A23FCD8D5A9BAACF27DB41E30030FB4D&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/38" tvg-id="0adbb3e49f1864986be9cc3af7ee6575",SIC Notícias
+http://89.114.122.158:9981/stream/channelid/1689508618?ticket=A5C285BF44560D152FF854E64AE2690B7B3808C6&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/148" tvg-id="64b2483314d0b61b20d11614ea62bf09",RTP 3
+http://89.114.122.158:9981/stream/channelid/860402276?ticket=9A35326A30072EB77FC2FEFDB0DD163DAC714F62&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/203" tvg-id="b61aa22e755e8f9cc7d9fffe6c4183a8",TVI 24
+http://89.114.122.158:9981/stream/channelid/782375606?ticket=7D225CF54C4289D75E70E584B5CD7AA37A5D934E&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/94" tvg-id="3f1036e530283bd6154c7620e2d6cc6a",CMTV
+http://89.114.122.158:9981/stream/channelid/1698041919?ticket=0FD408E58AB2DDFAFD556E94DB19F27633D1E627&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/107" tvg-id="61d7892f82e6b6e57c0dbbcc9e688943",SPORT TV+
+http://89.114.122.158:9981/stream/channelid/797562721?ticket=171F143FEFBE336A24F13A16D80E64276E52CF45&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/29" tvg-id="dea7693cca6fda7cec36223ddb5b518f",Globo
+http://89.114.122.158:9981/stream/channelid/1013557214?ticket=F159F0B46DABA5FFA26227AFB2DC8CD72D793ADA&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/219" tvg-id="36590ca32d5959ecaea7c43ed5b26be7",SIC Mulher
+http://89.114.122.158:9981/stream/channelid/588011830?ticket=D77D9A149B91906A077451726346AD25C0EEC4D9&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/117" tvg-id="944a9074a2a2b71bc063e8f6f533f3c2",TVI Reality
+http://89.114.122.158:9981/stream/channelid/1955613332?ticket=9300A35CBC9FCCDB035C9481A9513C31D3DE486C&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/137" tvg-id="40ef0bb3de5957b5657bfeebab998c42",Porto Canal
+http://89.114.122.158:9981/stream/channelid/856420160?ticket=D7D6EF43619CF5A1AA18E722235C95316067B8A9&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/59" tvg-id="99fcd0176acac65892546ceabdb5c764",SIC Caras
+http://89.114.122.158:9981/stream/channelid/399572121?ticket=121B3F4C8C772B0164E5DF9EFF70F05BADD8F4B7&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/198" tvg-id="f03aca158dcff9a6f16aae5b3cdd6c43",SIC Radical
+http://89.114.122.158:9981/stream/channelid/365574896?ticket=2AE2250A7F618D260F25AB7BACCCD534761A92B5&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/114" tvg-id="2d2d12a6a8d80e779ada95a829fe2352",RTP Memória
+http://89.114.122.158:9981/stream/channelid/638725421?ticket=D25F90EF9FAC306DF4FAD03E5E6D78D2811FA5B8&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/187" tvg-id="4b8e1a2d4099e2134e8ddacc1bccfc9f",Sport TV 1 HD
+http://89.114.122.158:9981/stream/channelid/756715083?ticket=1819786F7EDC16F57C33EB1201C46F47647647A4&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/20" tvg-id="ba0083c99426d9fd0ab78be0ea035dd9",Sport TV 2 HD
+http://89.114.122.158:9981/stream/channelid/1233322170?ticket=BC68B69A02DB47CD5E4A377900455582FEE85D79&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/222" tvg-id="99def066c6b2d57f25f4da09a2960061",Sport TV 3 HD
+http://89.114.122.158:9981/stream/channelid/1727061657?ticket=3DD18A6717023E873D8D2F8EC502E666B043B215&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/158" tvg-id="7381231beecd74a6576c4cfab9e5fc90",Sport TV 4
+http://89.114.122.158:9981/stream/channelid/455311731?ticket=6B4B40F255FDDD1C73046B3357409D5B6CCDECBD&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/33" tvg-id="979cbb8dfdccd9ea333c9be2681d1181",Sport TV 5
+http://89.114.122.158:9981/stream/channelid/230399127?ticket=0D48099C3C1B7D746E638FF471125A0EA97F4C3A&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/193" tvg-id="60ca3a6678c5ce7d7ca2b7851e2aa99d",Sport TV 1
+http://89.114.122.158:9981/stream/channelid/1715128928?ticket=A51C5EB4AAAEEE157E50395A0B428F6AA7C74D29&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/241" tvg-id="8f3213784c53c6c43c75e9ac99d5d8f2",Sport TV 2
+http://89.114.122.158:9981/stream/channelid/2014524047?ticket=78F710CEBA8141409F6CEF51068DF912399F39B0&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/27" tvg-id="0163a8b29fb52a23a836eb89afb5bfd2",Sport TV 3
+http://89.114.122.158:9981/stream/channelid/849896193?ticket=EDF69C9358AE6CDE21FAAAC25F29DBB4C4097FB9&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/131" tvg-id="ad52ffb95e56141e29f5c3e51a25570b",BTV 1
+http://89.114.122.158:9981/stream/channelid/973034157?ticket=06D451F63D7EF04E0726F7B93FF5ADEA7EEBB550&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/101" tvg-id="38e900dc08a5b53d5e6165718107147f",BTV 1 HD
+http://89.114.122.158:9981/stream/channelid/1543563576?ticket=55AD77F98DE1963DE698E2AEF4C927035488608E&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/247" tvg-id="ec851952583d9ca9d29a639ac2b5e99b",Sporting TV
+http://89.114.122.158:9981/stream/channelid/1377404396?ticket=54C798D4C78F4B9274E0E9F1F64EC11C913F70A9&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/215" tvg-id="e4232d959d6ce5eac1d7cb082a428bea",Disney Channel
+http://89.114.122.158:9981/stream/channelid/355279844?ticket=BAABC5DD0B07D69C5D5F92355822447475369E5B&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/50" tvg-id="e1289185643486489e8658ffbc013fd7",Nickelodeon
+http://89.114.122.158:9981/stream/channelid/93399265?ticket=9B02847D65ED816233827BBDD06960E238842AC0&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/26" tvg-id="2fbe888a635e4e377f7426c1e638c15f",Canal Panda
+http://89.114.122.158:9981/stream/channelid/176733743?ticket=658D7E1CE77E96F738C2B691B9F911C5DDAA7363&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/165" tvg-id="3676c137e85456eedb518f23ecb43f7f",Biggs
+http://89.114.122.158:9981/stream/channelid/935425590?ticket=F47532E04849113E8980578DF4A2C4DC3B7C5820&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/51" tvg-id="88eabf39f66a513e9ba5cf5efe922470",Disney Junior
+http://89.114.122.158:9981/stream/channelid/968878728?ticket=89C765AF44DD1D9FA35DFF77004680ECC2E7EB31&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/154" tvg-id="52ab677f1bf56ce426125f2e9c6fb11f",Cartoon Network
+http://89.114.122.158:9981/stream/channelid/2137500498?ticket=AD45780B63BAA893B0B9CCCF0882B8EA596A7F50&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/197" tvg-id="5c9775277b55781d7bd56779afef8724",Baby First
+http://89.114.122.158:9981/stream/channelid/662017884?ticket=FBA6BC8059E1AE907A0B7360C5B5BC57F8E03668&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/243" tvg-id="48c80fc05ee6e8a9f14c56553c8099c6",Hollywood
+http://89.114.122.158:9981/stream/channelid/1074776136?ticket=FD13E04B9A8B5363D49460AB2635407F8850244C&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/113" tvg-id="75e817ebc59cf88dde5429f2f9f83610",E! Entertainment
+http://89.114.122.158:9981/stream/channelid/1796728949?ticket=5C4B45AA4FB0E3ACA7A25DEACA729BFAF0B1733F&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/18" tvg-id="50218f6455f404b768c44218ba096bbb",FTV
+http://89.114.122.158:9981/stream/channelid/1687101776?ticket=383559B5C19B8CCF80EBEF852371BB7EB4C2CA4D&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/12" tvg-id="bb0f36e00a8cfe2124c9cdf31d04279d",BBC Entertainment
+http://89.114.122.158:9981/stream/channelid/1614155707?ticket=108C6A0D50049F728A903FFE971ADFC537641962&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/186" tvg-id="6ef9b4a249ad71adc3a9310852f9689a",AMC
+http://89.114.122.158:9981/stream/channelid/582285678?ticket=B15F535313D724FFC33FEEA2A3BA12DC9602ED40&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/237" tvg-id="a8b963bb0c3f4584c0874194c4a97521",FOX Comedy
+http://89.114.122.158:9981/stream/channelid/996391336?ticket=9F79C45C3D8C3D6BCA796BA7F84A465D81EAB2AE&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/212" tvg-id="8fe966b24f4fc463e7e97e1b4f2379de",FOX Movies
+http://89.114.122.158:9981/stream/channelid/845605263?ticket=61B5A08B06B8EA0DD5C97E952D2879EF7A1D1E3A&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/188" tvg-id="63a1bd54a795a04d197789c422a418e8",Canal Q
+http://89.114.122.158:9981/stream/channelid/1421713763?ticket=B3D64762017F43B8A823467B97F74202DD05596B&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/3" tvg-id="3d6a37d878e980f25aba9e393c27aacc",TLC
+http://89.114.122.158:9981/stream/channelid/1480026685?ticket=899D10E1E51C66E0AD77ABE223871732D16BD30A&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/214" tvg-id="8d101abc610a8af8734647e00d3a35a9",MTV Portugal
+http://89.114.122.158:9981/stream/channelid/1008341133?ticket=5246A08DA13D9E5C96717DB6F4326BB217B7C733&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/226" tvg-id="77562de456a153dbe7b04ae4e2795e58",TV Record
+http://89.114.122.158:9981/stream/channelid/1680692855?ticket=2ED85B23C4D1892FE6AD7748963BA01284D57C72&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/23" tvg-id="e6506d21d0d9dabcb2049f7fb34aa61b",TVCine 1 HD
+http://89.114.122.158:9981/stream/channelid/560812262?ticket=432E8E08269B913A4523EC0D529D706F6D68A7FF&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/44" tvg-id="21bb1189c8976f5deced069506444856",TVCine 2 HD
+http://89.114.122.158:9981/stream/channelid/152156961?ticket=2FE0C389423C7258C2FC40D2D1D912D6606375D8&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/152" tvg-id="a601003ed06a0ce0342b77e1d1e3151b",TVCine 3 HD
+http://89.114.122.158:9981/stream/channelid/1040187814?ticket=16E4BF00C920493ABFB0A96299708F8F17D33B47&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/206" tvg-id="34c2cdc63664b63809d52f61677c807b",TVCine 4 HD
+http://89.114.122.158:9981/stream/channelid/1187889716?ticket=D242E6D2622653571EA069169CA71D0325555CFA&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/89" tvg-id="402a3570a1b4606e731eb9fc0d64a5c5",TVSéries HD
+http://89.114.122.158:9981/stream/channelid/1882532416?ticket=6E81D7BB691BE58E07E13F2EE715FB618626B51C&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/157" tvg-id="fc6638fdd3b5ab0b314faeafbc77da0b",AMC HD
+http://89.114.122.158:9981/stream/channelid/2100848380?ticket=3C2AD30C5CBB4CF03FD141652AFE782881293C7A&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/254" tvg-id="10abf3f27994e92f3a4ae060bc51a6b3",AXN HD
+http://89.114.122.158:9981/stream/channelid/1928571664?ticket=333DB3D3230548E4A77729FF37809DAF360E2127&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/39" tvg-id="12b9daadc4719b4820f71296d9e7e569",AXN Black HD
+http://89.114.122.158:9981/stream/channelid/769308946?ticket=5C005047DD944B30915059F2BFAAFA4F73DE8F89&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/155" tvg-id="dffc85434ae83a5809f0c42a8e65b467",FOX Life HD
+http://89.114.122.158:9981/stream/channelid/1132854495?ticket=231EAD2386D95D2D88B377483CE67079C6C6D270&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/10" tvg-id="c5251a4420c886844af6f9f4c1fdd7ac",FOX HD
+http://89.114.122.158:9981/stream/channelid/1142564293?ticket=5C5653474D427B6EA527294A123166C94B7AF69C&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/67" tvg-id="56e861a045fcc1010b81d9b904d9d9e2",FOX Crime HD
+http://89.114.122.158:9981/stream/channelid/543287382?ticket=47B971B58345BA3EE989FA763C18D16150708953&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/159" tvg-id="67d077d255c6bfa89921cd10bda6c9a0",AXN White HD
+http://89.114.122.158:9981/stream/channelid/1383583847?ticket=8AD2E4B3F7F7D7837F1B12D485C8BB705EDB43EF&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/85" tvg-id="a3f9820091c9a24872c77a6150f208f0",24 Kitchen HD
+http://89.114.122.158:9981/stream/channelid/8583587?ticket=22C4321965BD5310DED3BB8DAA056B26BE87AFB5&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/49" tvg-id="e5665a0bafde92bf171b1d7228f060ad",Discovery Channel
+http://89.114.122.158:9981/stream/channelid/190473957?ticket=D5DD5F0D01D799366C6E7E8FDDBABA9DAC0EB1ED&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/216" tvg-id="f55b3b56d2b3095fd6914a427bd05970",Nat Geo Wild
+http://89.114.122.158:9981/stream/channelid/1446730741?ticket=C75614CFA402F85915A4356550202232EDB38F60&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/142" tvg-id="6eb3d9461e6850e9642b943cfb4f0c1b",Odisseia
+http://89.114.122.158:9981/stream/channelid/1188672366?ticket=2B1093ECA2494A1D61FEE117FA3F74B1157817F7&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/48" tvg-id="a9f9752fe0ee10e2710120b482fc6033",História
+http://89.114.122.158:9981/stream/channelid/796260777?ticket=D96583DEAF7554DDAA4BCA6BAC321AC24AC45E2C&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/182" tvg-id="9b87fb50e44adb60dd087e83fce36de9",A&E
+http://89.114.122.158:9981/stream/channelid/1358661531?ticket=9B511F2F9432AF279C9F563EDC161F556FDC0784&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/21" tvg-id="458078989df892d2e2790af6d4c898b7",Discovery HD Showcase
+http://89.114.122.158:9981/stream/channelid/410550341?ticket=38757784341424DA52BBD4BDD04DDD263A5769CB&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/97" tvg-id="8b63a2a0cda0f486b58ef5d821547538",National Geographic HD
+http://89.114.122.158:9981/stream/channelid/547513227?ticket=014248B108348A791F81058E77AA63E1ECB4D8DF&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/144" tvg-id="7b456ef05a89b4a1ee491d61f42d5b12",Travel Channel HD
+http://89.114.122.158:9981/stream/channelid/1886274939?ticket=A257120909594851BEE9D6D6307E1184B5DE1831&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/190" tvg-id="922efa4dbc0ad19affe3309ebeea0e2b",Eurosport 1
+http://89.114.122.158:9981/stream/channelid/1308241554?ticket=5527800545CAAFBED7B8E88E96FA38056C0C1828&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/30" tvg-id="323eb9331f8d78e6dca00bb203d7e2ea",Eurosport 2
+http://89.114.122.158:9981/stream/channelid/867778098?ticket=603D7EB52706C3315D4D4119961C62CB02B605D6&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/255" tvg-id="eb9fa34e90bdf6b56ba7cd7e8636fbbb",Eurosport News
+http://89.114.122.158:9981/stream/channelid/1319346155?ticket=71E5F3D7B787A0DC002E43BBC7E9B792CE97C90E&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/147" tvg-id="5c8fef6a33473fca3057eef539592a4b",Fuel TV
+http://89.114.122.158:9981/stream/channelid/1794084700?ticket=EE4C8AA4CF2F8B414A186A2922CB626269ACBE34&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/122" tvg-id="6da91c4687ceccc6b1811a11b4019319",Toros TV
+http://89.114.122.158:9981/stream/channelid/1176283501?ticket=5287F638C063DE8205000A5B2E8893942927891F&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/47" tvg-id="388c54c3c3ca5c93b547bfa0b4dc51a9",Caça e Pesca
+http://89.114.122.158:9981/stream/channelid/1129614392?ticket=E72639C14BAF3D10930F0BC8307D405C210ED2B5&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/109" tvg-id="4d4286841cff1186a9cc007759ce9bc4",Eurosport 1 HD
+http://89.114.122.158:9981/stream/channelid/75907661?ticket=2A45C6832A38A82C5E92409E452B351A1DB1E22B&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/173" tvg-id="2de473db17d66c04bb21c6582b507898",Motorvision
+http://89.114.122.158:9981/stream/channelid/1534321709?ticket=F3C586EBE6DD3930DD7E9606B8686E5238850830&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/91" tvg-id="900cbfe470108cd728e5c0dfff6cf929",VH1
+http://89.114.122.158:9981/stream/channelid/1690242192?ticket=4E4EB40FD0D9D80F8DBF6DBDDB723B266FD77F78&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/230" tvg-id="2731b5b38bc8375400eb75136e44d450",VH1 Classic
+http://89.114.122.158:9981/stream/channelid/867512615?ticket=E3D19DA0D506BF998CC146118891768378E8F1F8&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/17" tvg-id="b2a2e6bd7915145b3e7cf8692afd8c99",Mezzo
+http://89.114.122.158:9981/stream/channelid/1038525106?ticket=78E9526231F382E1018A635437D5854B3F0A9AC1&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/75" tvg-id="518781864560a5b728b096f3e5fee04a",MCM Pop
+http://89.114.122.158:9981/stream/channelid/109152081?ticket=C2D223A21EA755C1C305BA702B6406C811422715&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/220" tvg-id="741078988a3edfeb8e78ff8c003b1bd5",Globo Premium
+http://89.114.122.158:9981/stream/channelid/410521716?ticket=FCB1ACD96124AABBAA14903A22B8E333DCF7BD61&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/123" tvg-id="574b957f50d823447cd7467eaffe5957",PFC
+http://89.114.122.158:9981/stream/channelid/2140490583?ticket=9F2B3FF59F8A72EDA8A1D91989926DF20D2DFC7E&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/128" tvg-id="345206ee167efcb03395f70e34114244",Canção Nova
+http://89.114.122.158:9981/stream/channelid/1845908020?ticket=577DA9D1BF27271EAC2BB2B77C0F736D4131B87D&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/88" tvg-id="3879618ed5e188c5b986e9036333e270",TV Fátima
+http://89.114.122.158:9981/stream/channelid/241269048?ticket=F94E02564C85966E3F0EB61E2AA1792D7F9D45CC&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/53" tvg-id="2d67b4dfb4d7f1e857aecb6f7cb81378",Kuriakos TV HD
+http://89.114.122.158:9981/stream/channelid/1605658413?ticket=B14972C9F2FE9CB76ABAB1D5B8538F625EFC388B&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/92" tvg-id="e3764836c06a564fb3435f08ecc67f70",RTP Madeira
+http://89.114.122.158:9981/stream/channelid/910718691?ticket=DE88374B469C27186B856A28810E57F99FB03E00&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/196" tvg-id="8bc38e42f31260bca8384be9203d87db",RTP Açores
+http://89.114.122.158:9981/stream/channelid/1116652427?ticket=FFBD8401CADE9D76AC0448A3B522B2BC05A02E4D&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/172" tvg-id="54d51d9191f6eb16616e1587984c0fff",RTP África
+http://89.114.122.158:9981/stream/channelid/287167828?ticket=94CFBE88BE6919A7CD6787D519F55E3A024D57D4&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/210" tvg-id="ad3892707921404b05e6f9662d038895",Euronews
+http://89.114.122.158:9981/stream/channelid/1888630957?ticket=BDE91BDB4B05EFADB2E9EA0FAAEFD09E2F4F2AE0&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/224" tvg-id="a2be689d3b58ca243f7b22b6f57b4d48",CNN
+http://89.114.122.158:9981/stream/channelid/493403810?ticket=A7912443B1DCCC75D0EA4321A81662EEBCBE44B5&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/78" tvg-id="3eb6f1c23be194daeb88e2d5cba231ce",Sky News
+http://89.114.122.158:9981/stream/channelid/1123137086?ticket=057CDF38FECE17685DA038776AEB2D5A2589C8EC&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/112" tvg-id="de011d24b3fdb580d92be032099df192",BBC World News
+http://89.114.122.158:9981/stream/channelid/605880798?ticket=AF052E5E36FC33E36342D00B74643E8199002D70&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/103" tvg-id="3d2dc1a573b6fc793331e4d0a24af053",AJE
+http://89.114.122.158:9981/stream/channelid/633417021?ticket=39AEE7D14267BA733AC3145E1A6A29B9FDD3ADCE&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/244" tvg-id="3b65a2bc960a60ab6a7a8091fb10de9c",France 24 (I)
+http://89.114.122.158:9981/stream/channelid/1017275707?ticket=1DFA19A3F04634AB50197DE4CF0123393C8FAE61&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/111" tvg-id="3864000245e6d364be43a1764bcc5fae",CNBC
+http://89.114.122.158:9981/stream/channelid/33580088?ticket=4DA1D300DF26B42CB231E38B4375E9C4D98DED3A&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/125" tvg-id="25d335d081f94b1fb601dee7339f4428",Bloomberg
+http://89.114.122.158:9981/stream/channelid/1345704741?ticket=0AEA776A9FD7882CD661A71385AF58AC83B6BD4B&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/232" tvg-id="25ae6802cd181095e756dabb0bfbd4e7",TVE 24h
+http://89.114.122.158:9981/stream/channelid/40414757?ticket=98DE2A76690051432AC09C1449781C72BB7C6762&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/236" tvg-id="9e555f65c870bf5bb95bf2ac080a2443",Russia Today English
+http://89.114.122.158:9981/stream/channelid/1700746654?ticket=F0864689F5DD6CCF1B6D2B67D0159181F6E752C8&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/40" tvg-id="7ea87f95c113c7bbaa36ee56ded64a2a",ARTV
+http://89.114.122.158:9981/stream/channelid/360687742?ticket=7746FDD100B755EE81108EF96EDDA7D1EAF46117&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/127" tvg-id="3a5041dce5c66b32a9fd5a51cc9b497e",TV Galicia
+http://89.114.122.158:9981/stream/channelid/1547784250?ticket=129FAC5CC74D9D60B3097EDD602A89ED11C64910&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/185" tvg-id="3f92296286c5efcdee64cc11922cf42a",TVE Internacional
+http://89.114.122.158:9981/stream/channelid/1646891583?ticket=2BD1554694C6C14DFAF5E16AD3517194119D5037&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/13" tvg-id="ad3ab44fcb0b95c8ece7b1ed39e9ec02",Telesur
+http://89.114.122.158:9981/stream/channelid/1337211565?ticket=D7473466C77642F74F7F4A5FCBE41390C58997FD&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/209" tvg-id="2f23a8f831f1a2d3bb2854bf1a77371f",TV5 Monde
+http://89.114.122.158:9981/stream/channelid/2024284975?ticket=FC6E27AEDDE19DE16BB4A7D724E4E4B63820E093&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/68" tvg-id="fb9ab9bde26303bf91233e728e779dcf",Hot
+http://89.114.122.158:9981/stream/channelid/1035574011?ticket=2F9C86707923DA4861D9DD26BCC7EA60922BC403&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/161" tvg-id="58b10da7444e839cb82de57ee9e81aa5",Playboy TV
+http://89.114.122.158:9981/stream/channelid/655208792?ticket=FD3246503F2B4D4118F30C0A89C08068A7AF1791&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/130" tvg-id="b1e2ce053cf60634829fa993c981969c",Canal NOS
+http://89.114.122.158:9981/stream/channelid/97444529?ticket=AFD9E9D3352B00CFBAB48AFE02AF2278C74C931F&profile=pass
+#EXTINF:-1 logo="http://89.114.122.158:9981/imagecache/180" tvg-id="ebaeccb8b5ea20749d6d41d910d9cde2",Hispasat 4K
+http://89.114.122.158:9981/stream/channelid/952938219?ticket=72FC1681185015B28E76CDE89F5641F36B29EF46&profile=pass
