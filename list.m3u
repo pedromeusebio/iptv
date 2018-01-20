@@ -1,331 +1,171 @@
 #EXTM3U
-#EXTINF:-1,RTP1 FULL HD
-http://163.172.55.101:8100/live/david/david/2707.ts
-#EXTINF:-1,RTP2 FULL HD
-http://163.172.55.101:8100/live/david/david/2708.ts
-#EXTINF:-1,SIC FULL HD
-http://163.172.55.101:8100/live/david/david/2709.ts
-#EXTINF:-1,TVI FULL HD
-http://163.172.55.101:8100/live/david/david/2710.ts
-#EXTINF:-1,RTP 1
-http://163.172.55.101:8100/live/david/david/56.ts
-#EXTINF:-1,RTP 2
-http://163.172.55.101:8100/live/david/david/55.ts
-#EXTINF:-1,SIC
-http://163.172.55.101:8100/live/david/david/47.ts
-#EXTINF:-1,TVI
-http://163.172.55.101:8100/live/david/david/13.ts
-#EXTINF:-1,RTP 1 ( NET FRACA )
-http://163.172.55.101:8100/live/david/david/2715.ts
-#EXTINF:-1,RTP 2 ( NET FRACA )
-http://163.172.55.101:8100/live/david/david/2714.ts
-#EXTINF:-1,SIC ( NET FRACA )
-http://163.172.55.101:8100/live/david/david/2713.ts
-#EXTINF:-1,TVI ( NET FRACA )
-http://163.172.55.101:8100/live/david/david/2712.ts
-#EXTINF:-1,RTP 3
-http://163.172.55.101:8100/live/david/david/54.ts
-#EXTINF:-1,SIC NOTICIAS
-http://163.172.55.101:8100/live/david/david/43.ts
-#EXTINF:-1,TVI 24
-http://163.172.55.101:8100/live/david/david/12.ts
-#EXTINF:-1,CMTV
-http://163.172.55.101:8100/live/david/david/99.ts
-#EXTINF:-1,CMTV HD
-http://163.172.55.101:8100/live/david/david/2716.ts
-#EXTINF:-1,TVI FICCAO
-http://163.172.55.101:8100/live/david/david/11.ts
-#EXTINF:-1,PORTO CANAL
-http://163.172.55.101:8100/live/david/david/58.ts
-#EXTINF:-1,RTP MEMORIA
-http://163.172.55.101:8100/live/david/david/50.ts
-#EXTINF:-1,RTP MADEIRA
-http://163.172.55.101:8100/live/david/david/51.ts
-#EXTINF:-1,RTP ACORES
-http://163.172.55.101:8100/live/david/david/53.ts
-#EXTINF:-1,RTP Africa
-http://163.172.55.101:8100/live/david/david/52.ts
-#EXTINF:-1,SIC MULHER
-http://163.172.55.101:8100/live/david/david/44.ts
-#EXTINF:-1,SIC CARAS
-http://163.172.55.101:8100/live/david/david/46.ts
-#EXTINF:-1,SIC Radical
-http://163.172.55.101:8100/live/david/david/42.ts
-#EXTINF:-1,CANAL Q
-http://163.172.55.101:8100/live/david/david/103.ts
-#EXTINF:-1,FTV
-http://163.172.55.101:8100/live/david/david/80.ts
-#EXTINF:-1,24 Kitchen HD
-http://163.172.55.101:8100/live/david/david/118.ts
-#EXTINF:-1,TVI REALITY
-http://163.172.55.101:8100/live/david/david/10.ts
-#EXTINF:-1,TVI Reality Camera 1
-http://163.172.55.101:8100/live/david/david/9.ts
-#EXTINF:-1,TVI Reality Camera 2
-http://163.172.55.101:8100/live/david/david/8.ts
-#EXTINF:-1,TVI Reality Camera 3
-http://163.172.55.101:8100/live/david/david/7.ts
-#EXTINF:-1,TVI Reality Camera 4
-http://163.172.55.101:8100/live/david/david/6.ts
-#EXTINF:-1,TVI Reality Mosaico
-http://163.172.55.101:8100/live/david/david/5.ts
-#EXTINF:-1,SPORTV
-http://163.172.55.101:8100/live/david/david/39.ts
-#EXTINF:-1,Sportv 1 Full HD
-http://163.172.55.101:8100/live/david/david/2681.ts
-#EXTINF:-1,Sportv 2 Full HD
-http://163.172.55.101:8100/live/david/david/2686.ts
-#EXTINF:-1,Sportv 3 Full HD
-http://163.172.55.101:8100/live/david/david/2690.ts
-#EXTINF:-1,Sportv 4 Full HD
-http://163.172.55.101:8100/live/david/david/2694.ts
-#EXTINF:-1,Sportv 5 Full HD
-http://163.172.55.101:8100/live/david/david/2698.ts
-#EXTINF:-1,Sportv 1 HD
-http://163.172.55.101:8100/live/david/david/2682.ts
-#EXTINF:-1,Sportv 2 HD
-http://163.172.55.101:8100/live/david/david/2687.ts
-#EXTINF:-1,Sportv 3 HD
-http://163.172.55.101:8100/live/david/david/2691.ts
-#EXTINF:-1,Sportv 4 HD
-http://163.172.55.101:8100/live/david/david/2695.ts
-#EXTINF:-1,Sportv 5 HD
-http://163.172.55.101:8100/live/david/david/2699.ts
-#EXTINF:-1,Sportv 1 SD
-http://163.172.55.101:8100/live/david/david/2683.ts
-#EXTINF:-1,Sportv 2 SD
-http://163.172.55.101:8100/live/david/david/2688.ts
-#EXTINF:-1,Sportv 3 SD
-http://163.172.55.101:8100/live/david/david/2692.ts
-#EXTINF:-1,Sportv 4 SD
-http://163.172.55.101:8100/live/david/david/2696.ts
-#EXTINF:-1,Sportv 5 SD
-http://163.172.55.101:8100/live/david/david/2700.ts
-#EXTINF:-1,Sportv 1 Net Fraca
-http://163.172.55.101:8100/live/david/david/2684.ts
-#EXTINF:-1,Sportv 2 Net Fraca
-http://163.172.55.101:8100/live/david/david/2689.ts
-#EXTINF:-1,Sportv 3 Net Fraca
-http://163.172.55.101:8100/live/david/david/2693.ts
-#EXTINF:-1,Sportv 4 Net Fraca
-http://163.172.55.101:8100/live/david/david/2697.ts
-#EXTINF:-1,Sportv 5 Net Fraca
-http://163.172.55.101:8100/live/david/david/2701.ts
-#EXTINF:-1,Sportv 1 Net Muito Fraca
-http://163.172.55.101:8100/live/david/david/2685.ts
-#EXTINF:-1,BTV Full HD
-http://163.172.55.101:8100/live/david/david/2702.ts
-#EXTINF:-1,BTV 1 SD
-http://163.172.55.101:8100/live/david/david/2704.ts
-#EXTINF:-1,BTV Net Fraca
-http://163.172.55.101:8100/live/david/david/2705.ts
-#EXTINF:-1,BTV Net Muito Fraca
-http://163.172.55.101:8100/live/david/david/2706.ts
-#EXTINF:-1,BTV HD
-http://163.172.55.101:8100/live/david/david/2703.ts
-#EXTINF:-1,SPORTING TV
-http://163.172.55.101:8100/live/david/david/40.ts
-#EXTINF:-1,BOLA TV
-http://163.172.55.101:8100/live/david/david/109.ts
-#EXTINF:-1,PFC
-http://163.172.55.101:8100/live/david/david/60.ts
-#EXTINF:-1,EUROSPORT 1
-http://163.172.55.101:8100/live/david/david/91.ts
-#EXTINF:-1,EUROSPORT 2
-http://163.172.55.101:8100/live/david/david/90.ts
-#EXTINF:-1,Real Madrid TV
-http://163.172.55.101:8100/live/david/david/515.ts
-#EXTINF:-1,Chelsea TV
-http://163.172.55.101:8100/live/david/david/513.ts
-#EXTINF:-1,FUEL TV HD
-http://163.172.55.101:8100/live/david/david/511.ts
-#EXTINF:-1,Motorvision HD
-http://163.172.55.101:8100/live/david/david/512.ts
-#EXTINF:-1,NBA TV
-http://163.172.55.101:8100/live/david/david/516.ts
-#EXTINF:-1,MOTORS TV
-http://163.172.55.101:8100/live/david/david/70.ts
-#EXTINF:-1,FIGHT NETWORK HD
-http://163.172.55.101:8100/live/david/david/87.ts
-#EXTINF:-1,Kombat Sport
-http://163.172.55.101:8100/live/david/david/74.ts
-#EXTINF:-1,TVCINE 1
-http://163.172.55.101:8100/live/david/david/17.ts
-#EXTINF:-1,TVCINE 2
-http://163.172.55.101:8100/live/david/david/16.ts
-#EXTINF:-1,TVCINE 3
-http://163.172.55.101:8100/live/david/david/15.ts
-#EXTINF:-1,TVCINE 4
-http://163.172.55.101:8100/live/david/david/14.ts
-#EXTINF:-1,TV SERIES
-http://163.172.55.101:8100/live/david/david/18.ts
-#EXTINF:-1,HOLLYWOOD
-http://163.172.55.101:8100/live/david/david/77.ts
-#EXTINF:-1,CINEMUNDO
-http://163.172.55.101:8100/live/david/david/100.ts
-#EXTINF:-1,AMC
-http://163.172.55.101:8100/live/david/david/115.ts
-#EXTINF:-1,FOX MOVIES
-http://163.172.55.101:8100/live/david/david/82.ts
-#EXTINF:-1,AXN
-http://163.172.55.101:8100/live/david/david/114.ts
-#EXTINF:-1,AXN WHITE
-http://163.172.55.101:8100/live/david/david/112.ts
-#EXTINF:-1,AXN BLACK
-http://163.172.55.101:8100/live/david/david/113.ts
-#EXTINF:-1,FOX
-http://163.172.55.101:8100/live/david/david/86.ts
-#EXTINF:-1,FOX LIFE
-http://163.172.55.101:8100/live/david/david/83.ts
-#EXTINF:-1,FOX CRIME
-http://163.172.55.101:8100/live/david/david/84.ts
-#EXTINF:-1,FOX Comedy
-http://163.172.55.101:8100/live/david/david/85.ts
-#EXTINF:-1,SYFY
-http://163.172.55.101:8100/live/david/david/28.ts
-#EXTINF:-1,A&E
-http://163.172.55.101:8100/live/david/david/117.ts
-#EXTINF:-1,Crime Investigacao
-http://163.172.55.101:8100/live/david/david/234.ts
-#EXTINF:-1,TLC
-http://163.172.55.101:8100/live/david/david/25.ts
-#EXTINF:-1,CANAL HISTORIA
-http://163.172.55.101:8100/live/david/david/105.ts
-#EXTINF:-1,ODISSEIA
-http://163.172.55.101:8100/live/david/david/62.ts
-#EXTINF:-1,DISCOVERY
-http://163.172.55.101:8100/live/david/david/97.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://163.172.55.101:8100/live/david/david/64.ts
-#EXTINF:-1,NAT GEO WILD
-http://163.172.55.101:8100/live/david/david/65.ts
-#EXTINF:-1,LOCALVISAO TV HD
-http://163.172.55.101:8100/live/david/david/530.ts
-#EXTINF:-1,DISCOVERY HD SHOWCASE
-http://163.172.55.101:8100/live/david/david/508.ts
-#EXTINF:-1,Fine Living Network HD
-http://163.172.55.101:8100/live/david/david/505.ts
-#EXTINF:-1,Outdoor Channel HD
-http://163.172.55.101:8100/live/david/david/506.ts
-#EXTINF:-1,MCS Extreme
-http://163.172.55.101:8100/live/david/david/502.ts
-#EXTINF:-1,MCS Lifestyle
-http://163.172.55.101:8100/live/david/david/500.ts
-#EXTINF:-1,Travel Channel HD
-http://163.172.55.101:8100/live/david/david/504.ts
-#EXTINF:-1,E! ENTERTAINMENT
-http://163.172.55.101:8100/live/david/david/93.ts
-#EXTINF:-1,DOG TV
-http://163.172.55.101:8100/live/david/david/499.ts
-#EXTINF:-1,CARTOON NETWORK
-http://163.172.55.101:8100/live/david/david/101.ts
-#EXTINF:-1,JIM JAM
-http://163.172.55.101:8100/live/david/david/75.ts
-#EXTINF:-1,DISNEY
-http://163.172.55.101:8100/live/david/david/96.ts
-#EXTINF:-1,Disney Junior
-http://163.172.55.101:8100/live/david/david/95.ts
-#EXTINF:-1,SIC K
-http://163.172.55.101:8100/live/david/david/45.ts
-#EXTINF:-1,CANAL PANDA
-http://163.172.55.101:8100/live/david/david/104.ts
-#EXTINF:-1,Biggs
-http://163.172.55.101:8100/live/david/david/110.ts
-#EXTINF:-1,NICKELODEON
-http://163.172.55.101:8100/live/david/david/63.ts
-#EXTINF:-1,BABY FIRST
-http://163.172.55.101:8100/live/david/david/111.ts
-#EXTINF:-1,TV RECORD
-http://163.172.55.101:8100/live/david/david/19.ts
-#EXTINF:-1,TV Record HD
-http://163.172.55.101:8100/live/david/david/522.ts
-#EXTINF:-1,TV GLOBO
-http://163.172.55.101:8100/live/david/david/20.ts
-#EXTINF:-1,Globo Premium
-http://163.172.55.101:8100/live/david/david/78.ts
-#EXTINF:-1,FUEL TV
-http://163.172.55.101:8100/live/david/david/79.ts
-#EXTINF:-1,AFROMUSIC
-http://163.172.55.101:8100/live/david/david/116.ts
-#EXTINF:-1,MEZZO
-http://163.172.55.101:8100/live/david/david/71.ts
-#EXTINF:-1,MEZZO LIVE HD
-http://163.172.55.101:8100/live/david/david/496.ts
-#EXTINF:-1,C Music TV
-http://163.172.55.101:8100/live/david/david/497.ts
-#EXTINF:-1,VH1
-http://163.172.55.101:8100/live/david/david/3.ts
-#EXTINF:-1,VH1 Classic
-http://163.172.55.101:8100/live/david/david/2.ts
-#EXTINF:-1,MTV Portugal
-http://163.172.55.101:8100/live/david/david/67.ts
-#EXTINF:-1,MTV DANCE
-http://163.172.55.101:8100/live/david/david/68.ts
-#EXTINF:-1,Trace Urban
-http://163.172.55.101:8100/live/david/david/503.ts
-#EXTINF:-1,TRACE TV
-http://163.172.55.101:8100/live/david/david/22.ts
-#EXTINF:-1,MCM POP
-http://163.172.55.101:8100/live/david/david/73.ts
-#EXTINF:-1,MCM TOP
-http://163.172.55.101:8100/live/david/david/72.ts
-#EXTINF:-1,iConcerts HD
-http://163.172.55.101:8100/live/david/david/498.ts
-#EXTINF:-1,CaÃ§aVision
-http://163.172.55.101:8100/live/david/david/106.ts
-#EXTINF:-1,TOROS TV
-http://163.172.55.101:8100/live/david/david/24.ts
-#EXTINF:-1,CAÃ‡A E PESCA
-http://163.172.55.101:8100/live/david/david/107.ts
-#EXTINF:-1,AR TV
-http://163.172.55.101:8100/live/david/david/526.ts
-#EXTINF:-1,TPA Internacional
-http://163.172.55.101:8100/live/david/david/23.ts
-#EXTINF:-1,EURONEWS
-http://163.172.55.101:8100/live/david/david/92.ts
-#EXTINF:-1,BBC Entertainment
-http://163.172.55.101:8100/live/david/david/501.ts
-#EXTINF:-1,BBC WORLD
-http://163.172.55.101:8100/live/david/david/492.ts
-#EXTINF:-1,Bloomberg
-http://163.172.55.101:8100/live/david/david/494.ts
-#EXTINF:-1,BVN
-http://163.172.55.101:8100/live/david/david/527.ts
-#EXTINF:-1,RedeTV!
-http://163.172.55.101:8100/live/david/david/519.ts
-#EXTINF:-1,Record News
-http://163.172.55.101:8100/live/david/david/521.ts
-#EXTINF:-1,Canal UM Europa
-http://163.172.55.101:8100/live/david/david/528.ts
-#EXTINF:-1,CBS Reality
-http://163.172.55.101:8100/live/david/david/507.ts
-#EXTINF:-1,CNN
-http://163.172.55.101:8100/live/david/david/495.ts
-#EXTINF:-1,FOX News
-http://163.172.55.101:8100/live/david/david/509.ts
-#EXTINF:-1,KBS World HD
-http://163.172.55.101:8100/live/david/david/529.ts
-#EXTINF:-1,RTL
-http://163.172.55.101:8100/live/david/david/531.ts
-#EXTINF:-1,SBT
-http://163.172.55.101:8100/live/david/david/518.ts
-#EXTINF:-1,SKY News
-http://163.172.55.101:8100/live/david/david/493.ts
-#EXTINF:-1,Sundance HD
-http://163.172.55.101:8100/live/david/david/510.ts
-#EXTINF:-1,Super RTL
-http://163.172.55.101:8100/live/david/david/532.ts
-#EXTINF:-1,TCV Internacional
-http://163.172.55.101:8100/live/david/david/517.ts
-#EXTINF:-1,TVE 24H
-http://163.172.55.101:8100/live/david/david/524.ts
-#EXTINF:-1,TVE Internacional
-http://163.172.55.101:8100/live/david/david/523.ts
-#EXTINF:-1,Tele Sur
-http://163.172.55.101:8100/live/david/david/27.ts
-#EXTINF:-1,FRANCE 24
-http://163.172.55.101:8100/live/david/david/81.ts
-#EXTINF:-1,TV Galicia
-http://163.172.55.101:8100/live/david/david/21.ts
-#EXTINF:-1,Santuario fatima
-http://163.172.55.101:8100/live/david/david/49.ts
+#EXTINF:-1,PT: 24KITCHEN HD
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13358.ts
+#EXTINF:-1,PT: A&E
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13357.ts
+#EXTINF:-1,PT: AXN Black HD
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13356.ts
+#EXTINF:-1,PT: AXN HD
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13355.ts
+#EXTINF:-1,PT: AXN White HD
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13354.ts
+#EXTINF:-1,PT: AXN.HD
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13353.ts
+#EXTINF:-1,PT: BABY TV
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13352.ts
+#EXTINF:-1,PT: Benfica TV
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13351.ts
+#EXTINF:-1,PT: BENFICA TV 1 HD
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13350.ts
+#EXTINF:-1,PT: BENFICA TV 2
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13349.ts
+#EXTINF:-1,PT: CACA E PESCA
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13348.ts
+#EXTINF:-1,PT: Canal Panda
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13347.ts
+#EXTINF:-1,PT: CARTOON  NETWORK
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13346.ts
+#EXTINF:-1,PT: CBS REALITY
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13345.ts
+#EXTINF:-1,PT: CHELSEA TV HD
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13344.ts
+#EXTINF:-1,PT: Cine Mundo
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13343.ts
+#EXTINF:-1,PT: Disney JR
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13342.ts
+#EXTINF:-1,PT: ENTERTAINMENT
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13341.ts
+#EXTINF:-1,PT: Euronews
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13340.ts
+#EXTINF:-1,PT: EUROSPORT
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13339.ts
+#EXTINF:-1,PT: Fox Comedy
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13338.ts
+#EXTINF:-1,PT: Fox Crime
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13337.ts
+#EXTINF:-1,PT: Fox HD
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13336.ts
+#EXTINF:-1,PT: Fox Life HD
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13335.ts
+#EXTINF:-1,PT: Fox Movies
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13334.ts
+#EXTINF:-1,PT: FUEL TV
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13333.ts
+#EXTINF:-1,PT: GLOBO TV
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13332.ts
+#EXTINF:-1,PT: Historia
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13331.ts
+#EXTINF:-1,PT: Kombat Sports
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13330.ts
+#EXTINF:-1,PT: LIfestyle TV
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13329.ts
+#EXTINF:-1,PT: MCS EXTREME
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13328.ts
+#EXTINF:-1,PT: MOTORVISION
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13327.ts
+#EXTINF:-1,PT: MOTORVISION HD
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13326.ts
+#EXTINF:-1,PT: MOV HD
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13325.ts
+#EXTINF:-1,PT: MTV PORTUGAL
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13324.ts
+#EXTINF:-1,PT: Nat Geo Wild
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13323.ts
+#EXTINF:-1,PT: NBA TV
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13322.ts
+#EXTINF:-1,PT: Nickelodeon
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13321.ts
+#EXTINF:-1,PT: PANDA BIGGS
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13320.ts
+#EXTINF:-1,PT: PFC HD
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13319.ts
+#EXTINF:-1,PT: Porto Canal
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13318.ts
+#EXTINF:-1,PT: Q CANAL
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13317.ts
+#EXTINF:-1,PT: REDE TV
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13316.ts
+#EXTINF:-1,PT: RTP 1 HD
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13314.ts
+#EXTINF:-1,PT: RTP 2
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13313.ts
+#EXTINF:-1,PT: RTP 3
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13312.ts
+#EXTINF:-1,PT: RTP Acores
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13311.ts
+#EXTINF:-1,PT: RTP Africa
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13310.ts
+#EXTINF:-1,PT: RTP Madeira
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13309.ts
+#EXTINF:-1,PT: RTP Memoria
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13308.ts
+#EXTINF:-1,PT: Sic
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13307.ts
+#EXTINF:-1,PT: SIC CARAS
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13306.ts
+#EXTINF:-1,PT: Sic Kids
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13305.ts
+#EXTINF:-1,PT: Sic Mulher
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13304.ts
+#EXTINF:-1,PT: Sic Noticias
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13303.ts
+#EXTINF:-1,PT: Sic Radical
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13302.ts
+#EXTINF:-1,PT: Sport TV 1 (FULL HD)
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13300.ts
+#EXTINF:-1,PT: Sport TV 2 (FULL HD)
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13298.ts
+#EXTINF:-1,PT: Sport TV 3 (FULL HD)
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13296.ts
+#EXTINF:-1,PT: Sport TV 4 (FULL HD)
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13294.ts
+#EXTINF:-1,PT: Sport TV 5
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13293.ts
+#EXTINF:-1,PT: Sport TV1 HD
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13292.ts
+#EXTINF:-1,PT: Sport TV2 HD
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13291.ts
+#EXTINF:-1,PT: Sport TV3
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13290.ts
+#EXTINF:-1,PT: Sporting TV
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13289.ts
+#EXTINF:-1,PT: SYFY HD
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13288.ts
+#EXTINF:-1,PT: TLC
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13286.ts
+#EXTINF:-1,PT: TV Cine 1
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13285.ts
+#EXTINF:-1,PT: TV Cine 2
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13283.ts
+#EXTINF:-1,PT: TV Cine 3
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13282.ts
+#EXTINF:-1,PT: TV Cine 4
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13281.ts
+#EXTINF:-1,PT: TV Record
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13280.ts
+#EXTINF:-1,PT: TV SERIES HD
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13279.ts
+#EXTINF:-1,PT: TVI
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13278.ts
+#EXTINF:-1,PT: Tvi 24
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13277.ts
+#EXTINF:-1,PT: TVI REALITY
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13276.ts
+#EXTINF:-1,PT: VH1
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13275.ts
+#EXTINF:-1,PT: WOOHOO
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13274.ts
+#EXTINF:-1,PT:BIGGS
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13273.ts
+#EXTINF:-1,PT:CACAVISION HD
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13272.ts
+#EXTINF:-1,PT:DISCOVERY SHOWCASE HD
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13271.ts
+#EXTINF:-1,PT:HOLLYWOOD
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13270.ts
+#EXTINF:-1,PT:JIM JAM
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13269.ts
+#EXTINF:-1,PT:RTP 3
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13268.ts
+#EXTINF:-1,PT:TRAVEL CHANNEL HD
+http://qqtv.nl:80/live/67EEkufJB/0t8Wp3cn8U/13267.ts
