@@ -1,225 +1,290 @@
-#EXTM3U
-#EXTINF:-1,(PT) RTP1 HD
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/14387.ts
-#EXTINF:-1,(PT) RTP 1
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12363.ts
-#EXTINF:-1,(PT) RTP2 HD
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/14386.ts
-#EXTINF:-1,(PT) RTP 2
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12362.ts
-#EXTINF:-1,(PT) RTP 3
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12361.ts
-#EXTINF:-1,(PT) SIC HD
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/14385.ts
-#EXTINF:-1,(PT) SIC
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12356.ts
-#EXTINF:-1,(PT) TVI HD
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/14384.ts
-#EXTINF:-1,(PT) TVI
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12346.ts
-#EXTINF:-1,(PT) SIC NOTICIAS
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12351.ts
-#EXTINF:-1,(PT) TVI 24
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12350.ts
-#EXTINF:-1,(PT) SIC MULHER
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12352.ts
-#EXTINF:-1,(PT) SIC RADICAL
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12353.ts
-#EXTINF:-1,(PT) CANAL Q
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12321.ts
-#EXTINF:-1,(PT) PORTO CANAL
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12385.ts
-#EXTINF:-1,(PT) RTP MEMORIA
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12359.ts
-#EXTINF:-1,(PT) RTP AFRICA
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12358.ts
-#EXTINF:-1,(PT) RTP MADEIRA
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12360.ts
-#EXTINF:-1,(PT) RTP ACORES
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12357.ts
-#EXTINF:-1,----- (PT) FILMES -----
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12398.ts
-#EXTINF:-1,(PT) TVCINE 1 HD
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12379.ts
-#EXTINF:-1,(PT) TVCINE 2 HD
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12378.ts
-#EXTINF:-1,(PT) TVCINE 3 HD
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12377.ts
-#EXTINF:-1,(PT) TVCINE 4 HD
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12376.ts
-#EXTINF:-1,(PT) AMC HD
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/14389.ts
-#EXTINF:-1,(PT) AMC
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12339.ts
-#EXTINF:-1,(PT) HOLLYWOOD HD
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/14391.ts
-#EXTINF:-1,(PT) HOLLYWOOD
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12375.ts
-#EXTINF:-1,(PT) FOX MOVIES
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12372.ts
-#EXTINF:-1,(PT) CINEMUNDO
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12374.ts
-#EXTINF:-1,----- (PT) SERIES -----
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12399.ts
-#EXTINF:-1,(PT) TV SERIES
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12314.ts
-#EXTINF:-1,(PT) AXN HD
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12370.ts
-#EXTINF:-1,(PT) AXN BLACK HD
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12371.ts
-#EXTINF:-1,(PT) AXN WHITE HD
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12369.ts
-#EXTINF:-1,(PT) FOX HD
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/14390.ts
-#EXTINF:-1,(PT) FOX LIFE HD
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12302.ts
-#EXTINF:-1,(PT) FOX CRIME HD
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12303.ts
-#EXTINF:-1,(PT) FOX COMEDY
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12365.ts
-#EXTINF:-1,(PT) SYFY
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12340.ts
-#EXTINF:-1,(PT) MOV
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12373.ts
-#EXTINF:-1,(PT) E!  ENTERTAINMENT
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12337.ts
-#EXTINF:-1,(PT) CBS REALITY
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12338.ts
-#EXTINF:-1,(PT) SIC CARAS
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12355.ts
-#EXTINF:-1,(PT) FUEL TV
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12335.ts
-#EXTINF:-1,(PT) TVI FICCAO
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12345.ts
-#EXTINF:-1,(PT) FTV
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12336.ts
-#EXTINF:-1,(PT) TVI REALITY
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12344.ts
-#EXTINF:-1,(PT) CANAL NOS
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12323.ts
-#EXTINF:-1,(PT) CANCAO Nova
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12334.ts
-#EXTINF:-1,----- (PT) DESPORTO -----
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12400.ts
-#EXTINF:-1,(PT) SPORT TV 1 HD
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12396.ts
-#EXTINF:-1,(PT) SPORT TV1
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/14397.ts
-#EXTINF:-1,(PT) SPORT TV 2 HD
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12395.ts
-#EXTINF:-1,(PT) SPORT TV2
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/14396.ts
-#EXTINF:-1,(PT) SPORT TV 3 HD
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12394.ts
-#EXTINF:-1,(PT) SPORT TV3
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/14395.ts
-#EXTINF:-1,(PT) SPORT TV 4 HD
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12393.ts
-#EXTINF:-1,(PT) SPORT TV4
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/14394.ts
-#EXTINF:-1,(PT) SPORT TV 5 HD
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/14393.ts
-#EXTINF:-1,(PT) SPORT TV5
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12392.ts
-#EXTINF:-1,(PT) SPORT TV+ HD
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12391.ts
-#EXTINF:-1,(PT) SPORT TV+
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/14392.ts
-#EXTINF:-1,(PT) A BOLA TV
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12341.ts
-#EXTINF:-1,(PT) Sporting TV
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12384.ts
-#EXTINF:-1,(PT) BTV 1 HD
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12368.ts
-#EXTINF:-1,(PT) PFC
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12386.ts
-#EXTINF:-1,(PT) REAL MADRID TV
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12383.ts
-#EXTINF:-1,(PT) EUROSPORT 1 HD
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12390.ts
-#EXTINF:-1,(PT) EUROSPORT 2
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/13045.ts
-#EXTINF:-1,(PT) EUROSPORT NEWS
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12389.ts
-#EXTINF:-1,(PT) MCS EXTREME
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12331.ts
-#EXTINF:-1,(PT) MOTORVISION
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12388.ts
-#EXTINF:-1,(PT) MOTORSPORT TV
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12387.ts
-#EXTINF:-1,(PT) NBA TV
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12381.ts
-#EXTINF:-1,(PT) CAZA E PESCA
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12380.ts
-#EXTINF:-1,(PT) TOROS TV
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12382.ts
-#EXTINF:-1,----- (PT) CULTURA -----
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12401.ts
-#EXTINF:-1,(PT) NATIONAL GEOGRAPHIC HD
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12329.ts
-#EXTINF:-1,(PT) NAT GEO WILD
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12330.ts
-#EXTINF:-1,(PT) DISCOVERY HD
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12304.ts
-#EXTINF:-1,(PT) DISCOVERY CHANNEL
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12326.ts
-#EXTINF:-1,(PT) TLC
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12343.ts
-#EXTINF:-1,(PT) ODISSEIA
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12333.ts
-#EXTINF:-1,(PT) HISTORIA
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12328.ts
-#EXTINF:-1,(PT) A&E
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12342.ts
-#EXTINF:-1,(PT) 24 KITCHEN HD
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12367.ts
-#EXTINF:-1,(PT) TRAVEL CHANNEL HD
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/14388.ts
-#EXTINF:-1,(PT) TRAVEL CHANNEL
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12301.ts
-#EXTINF:-1,----- (PT) MUSICA -----
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12402.ts
-#EXTINF:-1,(PT) MTV PORTUGAL
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12309.ts
-#EXTINF:-1,(PT) VH1
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12308.ts
-#EXTINF:-1,(PT) VH1 CLASSIC
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12307.ts
-#EXTINF:-1,(PT) MCM POP
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12311.ts
-#EXTINF:-1,(PT) TRACE TV
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12332.ts
-#EXTINF:-1,(PT) AFRO MUSIC
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12312.ts
-#EXTINF:-1,(PT) MEZZO
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12310.ts
-#EXTINF:-1,----- (PT) INFANTIL -----
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12403.ts
-#EXTINF:-1,(PT) DISNEY CHANNEL
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12320.ts
-#EXTINF:-1,(PT) DISNEY JUNIOR
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12319.ts
-#EXTINF:-1,(PT) CARTOON NETWORK
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12327.ts
-#EXTINF:-1,(PT) NICKELODEON
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12317.ts
-#EXTINF:-1,(PT) CANAL PANDA
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12322.ts
-#EXTINF:-1,(PT) BIGGS
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12324.ts
-#EXTINF:-1,(PT) JIM JAM
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12318.ts
-#EXTINF:-1,(PT) SIC K
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12354.ts
-#EXTINF:-1,(PT) BABY FIRST
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12325.ts
-#EXTINF:-1,----- (PT) INFORMACAO -----
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12404.ts
-#EXTINF:-1,(PT) CMTV
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12364.ts
-#EXTINF:-1,(PT) TVE 24H
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12348.ts
-#EXTINF:-1,(PT) EURONEWS
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12316.ts
-#EXTINF:-1,(PT) FOX NEWS
-http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12315.ts
+#EXTINF:-1,PT | 24 Kitchen HD
+http://144.217.64.126:8080/live/toby1/toby1/36476.ts
+
+#EXTINF:-1,PT | A Bola TV
+http://144.217.64.126:8080/live/toby1/toby1/36475.ts
+
+#EXTINF:-1,PT | BBC Entertainment
+http://144.217.64.126:8080/live/toby1/toby1/36474.ts
+
+#EXTINF:-1,PT | BBC World News
+http://144.217.64.126:8080/live/toby1/toby1/36473.ts
+
+#EXTINF:-1,PT | Biggs
+http://144.217.64.126:8080/live/toby1/toby1/36472.ts
+
+#EXTINF:-1,PT | Bloomberg
+http://144.217.64.126:8080/live/toby1/toby1/36471.ts
+
+#EXTINF:-1,PT | BTV 1
+http://144.217.64.126:8080/live/toby1/toby1/36470.ts
+
+#EXTINF:-1,PT | BTV 1 HD
+http://144.217.64.126:8080/live/toby1/toby1/36469.ts
+
+#EXTINF:-1,PT | CaĿa e Pesca
+http://144.217.64.126:8080/live/toby1/toby1/36462.ts
+
+#EXTINF:-1,PT | Canal de Teste
+http://144.217.64.126:8080/live/toby1/toby1/36468.ts
+
+#EXTINF:-1,PT | Canal NOS
+http://144.217.64.126:8080/live/toby1/toby1/36467.ts
+
+#EXTINF:-1,PT | Canal Panda
+http://144.217.64.126:8080/live/toby1/toby1/36466.ts
+
+#EXTINF:-1,PT | Canal Q
+http://144.217.64.126:8080/live/toby1/toby1/36465.ts
+
+#EXTINF:-1,PT | CanĿªo Nova
+http://144.217.64.126:8080/live/toby1/toby1/36464.ts
+
+#EXTINF:-1,PT | Cartoon Network
+http://144.217.64.126:8080/live/toby1/toby1/36463.ts
+
+#EXTINF:-1,PT | CBS Reality
+http://144.217.64.126:8080/live/toby1/toby1/36461.ts
+
+#EXTINF:-1,PT | CMTV
+http://144.217.64.126:8080/live/toby1/toby1/36460.ts
+
+#EXTINF:-1,PT | CNBC
+http://144.217.64.126:8080/live/toby1/toby1/36459.ts
+
+#EXTINF:-1,PT | CNN
+http://144.217.64.126:8080/live/toby1/toby1/36458.ts
+
+#EXTINF:-1,PT | Deutsche Welle
+http://144.217.64.126:8080/live/toby1/toby1/36457.ts
+
+#EXTINF:-1,PT | Discovery Channel
+http://144.217.64.126:8080/live/toby1/toby1/36456.ts
+
+#EXTINF:-1,PT | Discovery HD Showcase
+http://144.217.64.126:8080/live/toby1/toby1/36455.ts
+
+#EXTINF:-1,PT | Disney Junior
+http://144.217.64.126:8080/live/toby1/toby1/36454.ts
+
+#EXTINF:-1,PT | DSMCC - IPPV
+http://144.217.64.126:8080/live/toby1/toby1/36453.ts
+
+#EXTINF:-1,PT | DSMCC - RADIOS
+http://144.217.64.126:8080/live/toby1/toby1/36452.ts
+
+#EXTINF:-1,PT | E! Entertainment
+http://144.217.64.126:8080/live/toby1/toby1/36451.ts
+
+#EXTINF:-1,PT | Euronews
+http://144.217.64.126:8080/live/toby1/toby1/36450.ts
+
+#EXTINF:-1,PT | Eurosport 1 HD
+http://144.217.64.126:8080/live/toby1/toby1/36449.ts
+
+#EXTINF:-1,PT | Eurosport 2
+http://144.217.64.126:8080/live/toby1/toby1/36448.ts
+
+#EXTINF:-1,PT | FOX Comedy
+http://144.217.64.126:8080/live/toby1/toby1/36447.ts
+
+#EXTINF:-1,PT | FOX Crime HD
+http://144.217.64.126:8080/live/toby1/toby1/36446.ts
+
+#EXTINF:-1,PT | FOX HD
+http://144.217.64.126:8080/live/toby1/toby1/36445.ts
+
+#EXTINF:-1,PT | FOX Life HD
+http://144.217.64.126:8080/live/toby1/toby1/36444.ts
+
+#EXTINF:-1,PT | FOX Movies
+http://144.217.64.126:8080/live/toby1/toby1/36443.ts
+
+#EXTINF:-1,PT | France 24 (I)
+http://144.217.64.126:8080/live/toby1/toby1/36442.ts
+
+#EXTINF:-1,PT | FTV
+http://144.217.64.126:8080/live/toby1/toby1/36441.ts
+
+#EXTINF:-1,PT | Fuel TV
+http://144.217.64.126:8080/live/toby1/toby1/36440.ts
+
+#EXTINF:-1,PT | Globo
+http://144.217.64.126:8080/live/toby1/toby1/36439.ts
+
+#EXTINF:-1,PT | Globo Premium
+http://144.217.64.126:8080/live/toby1/toby1/36438.ts
+
+#EXTINF:-1,PT | Histðria
+http://144.217.64.126:8080/live/toby1/toby1/36437.ts
+
+#EXTINF:-1,PT | Hollywood
+http://144.217.64.126:8080/live/toby1/toby1/36436.ts
+
+#EXTINF:-1,PT | Hot
+http://144.217.64.126:8080/live/toby1/toby1/36435.ts
+
+#EXTINF:-1,PT | MCM Pop
+http://144.217.64.126:8080/live/toby1/toby1/36434.ts
+
+#EXTINF:-1,PT | MCS Extreme
+http://144.217.64.126:8080/live/toby1/toby1/36433.ts
+
+#EXTINF:-1,PT | Mezzo
+http://144.217.64.126:8080/live/toby1/toby1/36432.ts
+
+#EXTINF:-1,PT | motorsport.tv
+http://144.217.64.126:8080/live/toby1/toby1/36431.ts
+
+#EXTINF:-1,PT | Motorvision
+http://144.217.64.126:8080/live/toby1/toby1/36430.ts
+
+#EXTINF:-1,PT | MTV Portugal
+http://144.217.64.126:8080/live/toby1/toby1/36429.ts
+
+#EXTINF:-1,PT | Nat Geo Wild
+http://144.217.64.126:8080/live/toby1/toby1/36428.ts
+
+#EXTINF:-1,PT | National Geographic HD
+http://144.217.64.126:8080/live/toby1/toby1/36427.ts
+
+#EXTINF:-1,PT | Nick Jr.
+http://144.217.64.126:8080/live/toby1/toby1/36426.ts
+
+#EXTINF:-1,PT | Nickelodeon
+http://144.217.64.126:8080/live/toby1/toby1/36425.ts
+
+#EXTINF:-1,PT | Odisseia
+http://144.217.64.126:8080/live/toby1/toby1/36424.ts
+
+#EXTINF:-1,PT | PFC
+http://144.217.64.126:8080/live/toby1/toby1/36423.ts
+
+#EXTINF:-1,PT | Playboy TV
+http://144.217.64.126:8080/live/toby1/toby1/36422.ts
+
+#EXTINF:-1,PT | Porto Canal
+http://144.217.64.126:8080/live/toby1/toby1/36421.ts
+
+#EXTINF:-1,PT | RTP .frica
+http://144.217.64.126:8080/live/toby1/toby1/36420.ts
+
+#EXTINF:-1,PT | RTP 1
+http://144.217.64.126:8080/live/toby1/toby1/36419.ts
+
+#EXTINF:-1,PT | RTP 2
+http://144.217.64.126:8080/live/toby1/toby1/36418.ts
+
+#EXTINF:-1,PT | RTP 3
+http://144.217.64.126:8080/live/toby1/toby1/36417.ts
+
+#EXTINF:-1,PT | RTP AĿores
+http://144.217.64.126:8080/live/toby1/toby1/36416.ts
+
+#EXTINF:-1,PT | RTP Madeira
+http://144.217.64.126:8080/live/toby1/toby1/36415.ts
+
+#EXTINF:-1,PT | RTP Memðria
+http://144.217.64.126:8080/live/toby1/toby1/36414.ts
+
+#EXTINF:-1,PT | SIC
+http://144.217.64.126:8080/live/toby1/toby1/36413.ts
+
+#EXTINF:-1,PT | SIC Caras
+http://144.217.64.126:8080/live/toby1/toby1/36412.ts
+
+#EXTINF:-1,PT | SIC Mulher
+http://144.217.64.126:8080/live/toby1/toby1/36411.ts
+
+#EXTINF:-1,PT | SIC NotŦcias
+http://144.217.64.126:8080/live/toby1/toby1/36410.ts
+
+#EXTINF:-1,PT | SIC Radical
+http://144.217.64.126:8080/live/toby1/toby1/36409.ts
+
+#EXTINF:-1,PT | Sky News
+http://144.217.64.126:8080/live/toby1/toby1/36408.ts
+
+#EXTINF:-1,PT | SPORT TV
+http://144.217.64.126:8080/live/toby1/toby1/36407.ts
+
+#EXTINF:-1,PT | Sport TV 1 HD
+http://144.217.64.126:8080/live/toby1/toby1/36406.ts
+
+#EXTINF:-1,PT | Sport TV 2 HD
+http://144.217.64.126:8080/live/toby1/toby1/36405.ts
+
+#EXTINF:-1,PT | Sport TV 3 HD
+http://144.217.64.126:8080/live/toby1/toby1/36404.ts
+
+#EXTINF:-1,PT | Sport TV 4
+http://144.217.64.126:8080/live/toby1/toby1/36403.ts
+
+#EXTINF:-1,PT | Sport TV 5
+http://144.217.64.126:8080/live/toby1/toby1/36402.ts
+
+#EXTINF:-1,PT | Sporting TV
+http://144.217.64.126:8080/live/toby1/toby1/36401.ts
+
+#EXTINF:-1,PT | Syfy
+http://144.217.64.126:8080/live/toby1/toby1/36400.ts
+
+#EXTINF:-1,PT | TLC
+http://144.217.64.126:8080/live/toby1/toby1/36399.ts
+
+#EXTINF:-1,PT | Toros TV
+http://144.217.64.126:8080/live/toby1/toby1/36398.ts
+
+#EXTINF:-1,PT | Trace Urban
+http://144.217.64.126:8080/live/toby1/toby1/36397.ts
+
+#EXTINF:-1,PT | Travel Channel HD
+http://144.217.64.126:8080/live/toby1/toby1/36396.ts
+
+#EXTINF:-1,PT | TV Galicia
+http://144.217.64.126:8080/live/toby1/toby1/36395.ts
+
+#EXTINF:-1,PT | TV Record
+http://144.217.64.126:8080/live/toby1/toby1/36394.ts
+
+#EXTINF:-1,PT | TV5 Monde
+http://144.217.64.126:8080/live/toby1/toby1/36393.ts
+
+#EXTINF:-1,PT | TVCine 1 HD
+http://144.217.64.126:8080/live/toby1/toby1/36392.ts
+
+#EXTINF:-1,PT | TVCine 2 HD
+http://144.217.64.126:8080/live/toby1/toby1/36391.ts
+
+#EXTINF:-1,PT | TVCine 3 HD
+http://144.217.64.126:8080/live/toby1/toby1/36390.ts
+
+#EXTINF:-1,PT | TVCine 4 HD
+http://144.217.64.126:8080/live/toby1/toby1/36389.ts
+
+#EXTINF:-1,PT | TVE 24h
+http://144.217.64.126:8080/live/toby1/toby1/36388.ts
+
+#EXTINF:-1,PT | TVE Internacional
+http://144.217.64.126:8080/live/toby1/toby1/36387.ts
+
+#EXTINF:-1,PT | TVI
+http://144.217.64.126:8080/live/toby1/toby1/36386.ts
+
+#EXTINF:-1,PT | TVI 24
+http://144.217.64.126:8080/live/toby1/toby1/36385.ts
+
+#EXTINF:-1,PT | TVI Reality
+http://144.217.64.126:8080/live/toby1/toby1/36384.ts
+
+#EXTINF:-1,PT | TVSØries HD
+http://144.217.64.126:8080/live/toby1/toby1/36383.ts
+
+#EXTINF:-1,PT | Venus
+http://144.217.64.126:8080/live/toby1/toby1/36382.ts
+
+#EXTINF:-1,PT | VH1
+http://144.217.64.126:8080/live/toby1/toby1/36381.ts
+
+#EXTINF:-1,PT | VH1 Classic
+http://144.217.64.126:8080/live/toby1/toby1/36380.ts
